@@ -1,0 +1,42 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 350
+#PICT 351
+$C2
+
+
+
+$C1// Pfhor translator active \\
+
+$C2
+ATTN: All units.
+
+Unidentified hostiles sighted in all sectors as of 70.25.70.
+
+ORDER: Termination of all unidentified units with extreme prejudice.
+
+
+$C1\\ End translation //
+#LOGOFF 350
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 350
+#LOGON 450
+#PICT 1481
+$C1
+// Decoding message from host
+[unnamed] @ [no translation] \\$C4
+
+These alien intruders are clearly hostile, and as expected they are no match for the [?enemy]. You must destoy their ship before it can be captured.
+
+My sensors indicate a power core on the lower portions of this deck. If you can damage it sufficiently, the resulting coolant overflow and subsequent explosion should be sufficient to destroy this vessel.
+
+Return to this deck as quickly as possible so that I may transport you out before you are destroyed with the ship.
+
+$C1\\ Message ends //
+#LOGOFF 450
+#LOGOFF 350
+#ENDTERMINAL 1

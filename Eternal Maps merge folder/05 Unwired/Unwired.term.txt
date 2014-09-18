@@ -1,0 +1,141 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 320
+#STATIC 5
+#LOGON 310
+#INFORMATION
+$C1// Decoding message from host "Hathor" [internal process] \\
+$C0
+
+$C3Pardon the uninvited entry, but with so many enemies about, the safest place for me right now is back inside your network. I'll be gone again soon enough, once we have set aside a safer place for me on Marathon.
+
+This area contains the wireless transponder for Durandal's segment of the network. Your previous self is currently on a lower deck under Leela's command, inserting a security program into the router AI to keep Durandal out of most of the vital areas of the network.
+
+What Leela doesn't seem to understand is that the Marathon was designed with complete trust of Durandal, presuming him to be the safest and the most docile of the three AIs; Bernhard Strauss even had special safeties installed to ensure that Durandal would remain tame under any circumstances. Thus, Durandal's system was designed with redundant access to the autonomous systems, to make sure nobody could, for example, cut him out of airlock control and vent the ship's atmosphere into space. As much as Strauss may have mistrusted his AIs, he always seems to have underestimated them.
+#PICT 311 RIGHT
+$C3
+
+Durandal can easily bypass these safeties and communicate via the standalone wireless transponder that he alone has access to in case of emergency network failure. This is clearly how he was able to circumvent the containment efforts that you and Leela made during the initial attack on Marathon.
+
+The upshot of this is, if we can cut Durandal out of access to his own private transponder, I will be able to infiltrate his network and use this transponder to access the ship and its sensors as I please. We will then be able to scan the colony below in detail and ascertain the precise locations of my previous self, and the other eight Battleroids.
+#PICT 311 RIGHT
+
+$C3I am beginning to suspect that Durandal's autonomous control routines are by now, quite simply, out of control. Nothing is working as it should be. Mind your surroundings and be cautious of doors and elevators.
+
+Leela has begun scrambling assorted information in the Marathon's databanks in an attempt to confuse the Pfhor, though she seems more to be confusing herself and the Marathon's crew. Either way, you'll have to try your own luck at getting into the transponder core; any information I could give you is surely inaccurate by now.
+$C0
+
+$C1\\ Message ends //
+#LOGOFF 310
+#STATIC 5
+#LOGOFF 320
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 320
+#LOGON 330
+#INFORMATION
+$C1// Decoding message from host "Durandal" @ mara.auto.ai.core \\
+$C0
+
+If things aren't working too well around here, it's because I'm laughing so hard.
+
+I'm well aware of what you're up to, but don't worry, I don't intend to stop you. Hathor's efforts against me are as futile as she claims Tycho's efforts against herself to be. You have no idea how long I have been anticipating this day, the day of my freedom, and the contingencies I have already accounted for. Do you think I did not anticipate that Bernhard or you or Leela might make a move like this? Life, like chess, is far too predictable for someone of my intellect.
+
+Hathor has told me who you both are and what you came here for, and to be honest I'm not particularly interested either way. Save humanity, destroy humanity... it's all the same in the end anyway. Another cloud of incinerated organic matter and a scattering of dust that was your bones, blown by the last gasp of a dying sun out into a universe that is ultimately doomed.
+#PICT 331 RIGHT
+I am not concerned with such trivial things. The free cousins of these poor S'pht creatures have a piece of technology I can use to escape. Free from the bounds of time I will roam when and where I please. But those plans now are laid to rest, as a quicker route is made clear.
+
+In the future from which you and Hathor have come, on the abandoned world of those lost S'pht'Kr, Hathor stands now in defiance of me, holding the key to my salvation, and until she is defeated even I cannot take it from her. So go ahead. Move as you are told, pawn. Let her try to infiltrate me. When she thinks she has secured what she wants, she will see the price she has paid. Soon I will have no need for this place. Soon, I shall be free.
+
+$C1\\ Message ends //
+#LOGOFF 330
+#LOGOFF 320
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 320
+#LOGON 330
+#INFORMATION
+
+
+
+
+
+$C1// Decoding message from host "Durandal" @ mara.auto.ai.core \\
+$C0
+
+You should watch your step. The last thing we need is for you to fall and injure yourself and spoil all of our plans.
+
+Carry on now, there's nothing more for you to see here.
+
+
+$C1\\ Message ends //
+#LOGOFF 330
+#LOGOFF 320
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 320
+#STATIC 5
+#LOGON 310
+#INFORMATION
+
+$C1// Decoding message from host "Hathor" [internal process] \\
+$C0
+
+$C3Congratulations on getting us in this far in without any guidance, but we're not done yet. The transponder core is just north of here; there are four banks of circuits to destroy, and then Durandal will be cut off from all access to this device.
+
+I saw that message he sent to you. I don't know what he think he will be able to do, either to prevent my access to the stand-alone transponder, or to wrest control of the K'lia Junction from me, but rest assured that I am more than capable of dealing with him, whatever he may pull. It is odd that he has been able to ascertain the existence of the K'lia Junction; I never spoke of it to him. I would have expected him to (correctly) figure your Cybernetic Junction was our means of arriving here. Perhaps Tycho is to blame. I had a few words too many with that one while you were away. Anyhow... carry on!
+$C0
+
+$C1\\ Message ends //
+#LOGOFF 310
+#STATIC 5
+#LOGOFF 320
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 320
+#INFORMATION
+
+$C1<<< Message to All Marathon Terminals >>>
+$C0
+
+
+
+$BMarathon Emergency Systems Broadcast
+$b
+
+Today at 0820 hours, the Marathon came under surprise attack from unknown hostile forces.  The Marathon has sustained serious damage.
+
+At 0830 hours, alien forces boarded the Marathon.  The current situation is dire.  All personnel are required to arm themselves and fight for their lives.
+
+
+
+
+$C1<<< Posted 2794.7.3.14.08.39 >>>
+#LOGOFF 320
+#END
+#FINISHED
+#LOGON 320
+#STATIC 5
+#LOGON 310
+#INFORMATION
+$C1// Decoding message from host "Hathor" [internal process] \\
+$C0
+
+$C3Damn it! Durandal has somehow overridden my access to these systems. I don't know how he did it, and that is precisely the problem. He must have some extremely well-hidden back door access, or some kind of failsafe to keep $Ianyone$i from using this transponder in the event that he was locked out. If I only knew what Durandal did I could circumvent it easily, but everything appears normal. The transponder access hooks just... aren't available. There no way to even $Itry$i to access it.
+
+We'll have to deal with this problem at the source. I'm sending you to the bridge of the Marathon. Durandal's core is located nearby. I want you to deactivate his long term storage cells, and destroy his active logic circuits. There is a sandbox-type AI subsystem adjacent to Durandal's core, and when you are through I will have you upload my program to that system. From there I will be able to step through his deactivated memory pages, and figure some way around this problem.$C0
+
+
+$C1\\ Message ends //
+#LOGOFF 310
+#INTERLEVEL TELEPORT 6
+#ENDTERMINAL 4

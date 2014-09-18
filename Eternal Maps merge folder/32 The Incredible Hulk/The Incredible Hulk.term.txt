@@ -1,0 +1,67 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 430
+#LOGON 400
+#INFORMATION
+$C1
+// Decoding message from host "Leela" @ [no translation] \\
+$C0
+
+As expected, fate seems to have sided with Hathor yet again, and moments ago she arrived on the Pfhor spacestation we just sabotaged, seconds before the engines began to overload. She was of course immediately aware of what was about to happen and thus has already tranferred herself down to this Jjaro outpost. But none of this is beyond my expectations. She seems almost prescient as of late, and I am forced to think further and further ahead of her. I have a plan in place already to counter this latest turn of events.
+
+The Pfhor have called for reinforcements, and a flagship from the Southern Arm of Battle Group Ten is en route as we speak. This ship is the first of the Pfhor fleet to be equipped with the $Itrih xeem$i, discovered at this very site only months ago. Appropriate then that this is the first historical use of the device.
+#PICT 401
+$C5                        a beacon
+                             in the dark
+
+               silenced
+         to end the dreams
+
+                     of an unfolding
+                                  nightmare
+$C0
+This outpost has only one communications transmitter capable of broadcasting to orbital range. There are two antennae and their corresponding power sources located in and near this very building. If you deactivate them, Hathor will have no way of leaving. When the Pfhor flagship arrives and this system becomes an expanding shell of dust and plasma, so will she. Good luck.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#LOGOFF 430
+#END
+#FINISHED
+#LOGON 430
+#STATIC 60
+#LOGON 420
+#STATIC 5
+#INFORMATION
+$C1// Decoding message - [ERROR IN HOST IDENTIFICATION] \\
+$C0
+
+$C3~$C07$C3`d8$C07$C3h~$C0s is Leela.$C3 |$C0ving comm$C3~1$C0nication diffic$C3#1$C07$C3!$ $C0J$C38--$C0t a moment...$C3
+
+Can you hear me now? Goo8$C07$C3d~~~
+
+$C1[[error - duplicate host id present]]
+
+
+$C3Disregard that, and pardon the strangeness of this transmission. This is Leela. Hathor has somehow jammed communications and I am having trouble reaching you properly.
+
+A Pfhor flagship has just folded into the system and deployed their first $Itrih xeem$i. Soon it will detonate and this system will become a thin shell of dust and plasma riding the shockwave of it's exploding star. With this jamming field in place you cannot be beamed off the planet, and there's not enough time for this transmitter's power systems to recharge before the shockwave reaches this outpost.
+#STATIC 5
+#PICT 421 RIGHT
+$C3
+
+
+But there is another option. On a cliff face just south of here is a transport link to another facility in the outpost. That facility is an offworld waste transporter lift, used to beam mining wastes from this colony into Jjaro ships for recycling. It runs on it's own separate power core and thus can be activated in minutes. If you can get there and override the control circuits, I just might be able to reroute that transporter to get us out in time.
+
+Hurry now, time is of the essence.
+
+
+$C1\\ Message ends //
+#TAG 1
+#STATIC 5
+#TAG 430
+#LOGOFF 420
+#STATIC 60
+#LOGOFF 430
+#ENDTERMINAL 0

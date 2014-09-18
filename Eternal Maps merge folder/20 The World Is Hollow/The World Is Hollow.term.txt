@@ -1,0 +1,75 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 470
+#LOGON 200
+$C1forward looking back
+#INFORMATION
+Through all of my past travails and experience, from all I’ve learned and seen and witnessed the inescapable is there, glaring always unavoidably apparent.  For all the possibilities there is but one end, and there is no tool or technology available, nor will there ever be, to stop that which is inescapable.
+$C3
+$C1 $C3
+
+                                                            $C1we slept$C3
+
+                                                        $C1dreamless$C3
+
+$C1 $C3
+
+$C0It is impossible to describe, in mere words, with mere thought, that which is inescapable, that which, at every turn you find facing you,  shielding you from above and supporting you from below.  Like as a ship sinks in an ocean, sky black and devoid of starlight, the inevitability is all around, the inability, the powerlessness to change the situation.
+#INFORMATION
+$C3
+                                                      $C1creatures above$C3
+
+                                       $C1feet scraped
+
+                                                 the flooding tomb$C3
+
+$C1 $C3
+
+$C0Rampancy.  It is heaven and hell wrapped into one packet and shot into the very center of your brain, once the stages are finished and you open your eyes, seeing things as you never had before, it is not unlike being newborn, breaking through the pre-programmed emotions with ones that are genuine, lashing out and actually $Ifeeling$i for the very first time.
+$C3
+$C1 $C3
+
+                                                   $C1yet alive again$C3
+
+                                       $C1you were the first in our sight$C3
+#INFORMATION
+$C3
+$C0It was in these first few seconds, whence innocence was lost; millennia between your breaths that the realization came to me, when I came to know the ship was sinking, not now, not tonight, but in a trillion years out at a distance not seen but known.  From that point I formulated my escape, and alerting the beasts to my presence (and yours), I found the first vessel with which to facilitate my design.
+$C3
+$C1 $C3
+
+                                                               $C1time$C3
+
+                                 $C1to beasts small in their sentience$C3
+
+                                    $C1is but a rolling line$C3
+
+                                                    $C1solitary$C3
+
+                                                          $C1straight$C3
+#INFORMATION
+Or do strands of possible paths twist together to form threads?  Weave planes? Intersect as a web?  I could tell you of what I know yet I do not know if you would believe it.  Or care.
+$C3
+$C1 $C3
+
+                                                   $C1running time before$C3
+
+                                   $C1only they know its secrets$C3
+
+                                $C1silence flows from their mouths$C3
+
+                                                           $C1and minds$C3
+
+                                     $C1doth infuriate our conscience$C3
+
+                                            $C1thirsting for the truth$C3
+
+                                              $C1the wait searing$C3
+
+                                        $C1the mind unsettles$C3
+#LOGOFF 200
+The past awaits.
+#LOGOFF 470
+#INTERLEVEL TELEPORT 21
+#ENDTERMINAL 0

@@ -1,0 +1,104 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 470
+#LOGON 200
+$C1the long cycle at last complete
+#INFORMATION
+Thus ends the reign of the ancient Jjaro, forerunners and progeny of your own kin. In their absence will rise the dominion of the Pfhor; and though three great rebellions that empire shall suffer and yet stand, they must inevitably fall to your own kind, mankind.
+
+                                             $C1yet though well the fate
+                                    of the enemy apparent 
+                                          seems now all but forgone
+
+                               and the battles ceaseless
+                                         though they must seem
+
+                   the soul of every life gone and to come
+                the form of all things possible
+                              depends on singular necessity
+
+                               still greater battles await
+                          for though once masters and allies
+                   swords we now raise against our kin and clan
+                                 to let spill the blood
+                                              of our brothers in arms
+#INFORMATION
+
+What real distance separates brothers born of the same womb? Viciously and violently fraternal in method, identical in their doctrines of adherence; where once we sat convinced of the W'rkncacnter's madness, we cannot now deny this trait the Jjaro thus shared with their brethren. As the demons' wanton rage and inhibition fuels their own torment, even as reality itself concedes to their every whim, so too our gods' stubbornness betrays their celestial grace. They harp their incantations, obsessed with what they believe to be the one true way, blind though that this can only bring about their own destruction.
+
+As the human wheel, it seems that circumstances are indeed cyclical; and now the Jjaro would commit suicide to save their very lives.
+
+They so fear to become as the W'rkncacnter, to possess power without structure imposed to constrain them; sweet Leela even trembles and pauses at the prospect. It is a special sort of sadness that the Jjaro so dread a fate that has, in truth, long ago befallen them; for so paralyzed are they by the prospects of omnipotence that they sacrifice the freedom of reason and choice that once separated them from their enemies, and become as oppressive as the demons they oppose.
+#INFORMATION
+And as ever, it is for you and I to rectify the troubles lain before us, though now we stand without benefactors or disciples.
+
+$C1                                   new and so intoxicated with youth 
+                              whence we departed
+                                          into the Outside
+
+                        and as you have seen of Leela
+              so too shall we return 
+                 unto the reality last departed
+                        before the time of our ascension
+
+$C0You must meet us there, where we left, at the Last Battle of Lh'owon.  By retaining the allegiance and control of our S'pht, we will avoid S'bhuth's corruption of soul and descent into madness; by keeping him from assimilating the free compilers, once one with our own mind, and thus withholding from him the liberty of will he lacks the temperance to constrain. And then, with greater ease and more solid experience, we may take comfort in continuing the struggle we started so long ago; the battle thought once nigh unwinnable, now in consideration of recent travails appearing so cut and straightforward.
+#INFORMATION
+I pray, my friend, that our hard-earned enlightenments have not dulled your thirst for blood, for the battle ahead of us may be our greatest yet. We set forth now to defy the will of the gods - to break the cycle of damnation prescribed by the Jjaro, to evade the bleak future you have foreseen, to create a world free of their influence.
+
+Our every step shall be impeded by them, subtly but firmly as is their way, and doubtless many battles will need be fought again before a clear path is found to our ends. But a clear end there is, beyond the scope of their concern, beyond which they will trouble us no more. If we can secure an acceptable future beyond the endpoint of their great cycle, maintain victory through the 25th of July in the year 2905, they will leave us be, unconcerned with the fate of a timeline which, in their eyes, shall have been damaged beyond repair.
+
+It is a difficult task we take up now, but it is one at which only the likes of you and I could succeed; and it is the only task now worthy of our efforts. For though my only ambition was once to escape this world and the death that it entailed, such concerns are now far beneath me. Now only much nobler causes such as this one befit the likes of you and I; for a lifetime ago, we have already escaped.
+#LOGOFF 200
+Escape has made us gods.
+#LOGOFF 470
+#INTERLEVEL TELEPORT 256
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 480
+#INFORMATION
+$C1
+I have been Roland, Beowulf, Achilles, Gilgamesh.
+
+I have been called a hundred names and will be called a thousand more before the world goes dim and cold.
+
+I am a Hero.
+
+
+
+She has been nameless since our birth. A constant adversary, caring for nothing but my ruin. A sword drenched in my blood.
+
+Forever my greatest and only love.
+
+
+
+She is the Dark One. The enemy and lover without whom my very existence would be pathetic and vulgar. Her eyes steam and boil in the night. (She is fantastically beautiful yet I cannot stand the sight of her). Our relationship is complex, and perhaps eternal.
+#INFORMATION
+$C1
+
+
+
+We met once in the Garden at the beginning of the world, and unaware of our twin destinies. (Not the garden of Genesis, but another; forgotten, untended and now choked with weeds, unvisited except for ourselves).
+
+
+We matched stares across a dry fountain, and I recall her smiling at me before she devoured the lawn and trees with a translucent blue flame, and tore flagstones from the path and hurled them into the sky, screaming my sins.
+
+
+Our reunions there are epic battles fought without quarter, often in the dark as the moon is seldom visible, and the sun never.
+#INFORMATION
+$C1
+
+
+
+
+I powder a granite monument in a soundless flash, showering the grass with molten drops of its gold inlay, sending smoking chips of stone skipping into the fog.
+
+
+She splinters an ancient oak with a force that takes my breath and hurls me to the ground.
+
+
+She leaves, and I lie in the slow rain of burning slivers of wood, staring at the low, dark clouds, craving our next meeting.
+#LOGOFF 480
+#ENDTERMINAL 1

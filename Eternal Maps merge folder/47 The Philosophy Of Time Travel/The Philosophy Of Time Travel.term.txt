@@ -1,0 +1,73 @@
+;
+#TERMINAL 0
+#FINISHED
+#LOGON 400
+#LOGON 200
+...don't say I didn't warn you...
+#INFORMATION
+$C1
+$C5                                                    we could not speak
+                                           to warn you in time
+
+                                             as he could not speak
+                                    when first you ventured back
+$C1
+
+$C0When the Hero and the Dark One travel as one, they are invisible and unstoppable, even from the Outside; to us, to the Jjaro, and to all of the Eternals. As when you first travelled with Hathor back to Marathon, Durandal could not speak to you then. Did you notice that you did not dream that time? That you did not dream when she went with you this time? The only times you jump without dreaming, are the times that she is with you.
+$C1
+
+$C5                              together
+                                        she blinds us from you
+
+                     and     (?we pray)         you blind them as well
+#PICT 401
+
+
+Durandal has asked me to speak with you this time. He believes that you are more fond of me than you are of him. It seems omniscience has humbled him greatly; I see the way you admire his writings. The two of you are obviously very close. Either way...
+
+$C1
+$C5                     the time has come
+                            for you to know
+$C0
+
+I'm supposed to tell you a secret. You're a bright one and I'm sure that much of it you've already guessed, but we need to tell you anyway. It's important that you understand with absolute certainty just what all of this is really about.
+#PICT 401
+
+You are what we, the Jjaro as you call us, might best label as our Hero. You are in a sense the separate, singular embodiment of our collective of minds. Your body and most of your conscious memories are from the life of one poor Martian who died an early death in war, and from the pitied existence as a weapon thereof that you have lived ever since. But deep in the heart of your metal skull, wired into your neurons and circuits alike, is the bridge to your true self. The Cybernetic Junction links that body here to the Outside, and the core of all your thoughts and feelings are stored in this infinite space. The dreams, the deja vu, the prescient reflexes in battle... all of that is the real you, this you, standing here now in a pocket universe of your own mind's conjuring. You are a vessel for our omnipotent power.
+#PICT 401
+
+
+
+
+The "Dark One", now Hathor, is thought to be somehow a similar personification of the W'rkncacnter (either a single one or some group of them). Her actions, in whatever form she takes, always match the motivations of the W'rkncacnter: infantile and irrational, driven by emotions seeking a satisfaction that they can never find. We have long since realized that the actions of the Dark One are essential to the creation of the core timeline, the one from which our reality is born.
+#PICT 1291
+$C5           a line can stand not
+                                on it's own
+
+    no first cause can come from no cause
+
+          circular is the nature of that
+              which is central to existence
+
+
+$C0Picture time, if you will, as a line. Quantum fluctuations at every moment branch that line into uncountable more. Some of them end, collapsing on themselves; others careen out into infinity. But tracing the line of causality back, where does the line begin? Here from the Outside, we see time as such an image, and it is clear that for there to be any concrete thing for us to call "real", there must be in this tangled web a sort of causal tautology; an event which, ultimately, is it's very own cause.
+#INFORMATION
+
+
+What I have sometimes called the "one true timeline" is just such an event. It is a long chain of causes and effects which ultimately results in it's own initiation. If history can be carried out to an appropriate ending, that ending will take us right back to the beginning. That is the foundation of reality for those of us here in the Outside. Without finding such a path, the mind loses any basis for rational thought, and becomes as the W'rkncacnter; careening out along one tangent forever, never to find an end; or destroying it's reality.
+
+
+Those like Durandal and I, however - those who you call "Jjaro" - spend our existence here Outside guiding our relevant parts of reality toward this tautological goal. The timeline that you envision here now is the result of your straying from that path. It is sad that even when she meant to do good, her inner nature still lead Hathor to the destruction of Earth, millions of years before your time. The W'rkncacnter within was left unguarded, and this timeline is as doomed as the many others you have witnessed.
+#PICT 401 RIGHT
+
+
+
+
+
+
+But as always, you are given another chance. I know you pity Hathor so, but the next time somebody says to you, 'I am the Dark One, your eternal enemy, and I think you should do this, trust me,' I would recommend that you do the opposite of whatever it is she suggests.
+#LOGOFF 200
+$C5stay the path and live again
+#LOGOFF 400
+#INTERLEVEL TELEPORT 44
+#ENDTERMINAL 0

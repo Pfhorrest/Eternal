@@ -1,0 +1,61 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 430
+#STATIC 5
+#LOGON 400
+#INFORMATION
+$C1// Decoding message from host "Leela" [internal process] \\
+$C0
+She's hasn't departed yet. That's strange. She must know that we're here. I don't imagine she wants to take us wherever she is going. Sorry for the quick exit, but the ship that we were just standing on has been completely destroyed. We're lucky I got us over here before this ship's full defences came back up.
+
+If you haven't gathered, we're back on the dreadnaught. Hathor seems to have made her way into the ship somehow, and survived the detonation of the sun. Perhaps she accessed and modified the disposal transporter you used to leave. Either way, this is very bad news.
+
+This ship is equipped with a Jjaro Cybernetic Junction. I thought it was nonfunctional, but many of these systems seemed nonfunctional. Hathor must have been blocking my access this entire time.
+
+This means that from here, Hathor can still escape. But it's worse than usual: this whole ship is part of that Junction's acknowledged "self", which means she can not only transport her program, but this entire vessel, to wherever in time or space she pleases.
+#PICT 401
+
+I'm sure I don't need to explain to you the dangers of having Hathor roaming the spacetime continuum with some of the most powerful technology the Jjaro ever built. This ship is nearly invulnerable, and has capabilities you wouldn't even begin to imagine. Used properly, it could contain the detonation of the $Itrih xeem$i, collapse whole planets upon themselves, transport an entire world's population into space...
+
+There's not much we can do to capture Hathor now, but we can stop her from weilding such incredible power. If you can find and destroy this ship's Cybernetic Junction, the core of it's data systems, I am sure that she will leave the ship rather than die when the Junction is destroyed.
+#INFORMATION
+
+The Junction is somewhere near the self-destruct triggers in the last part of the ship you saw. I wish I could give you better directions but I'm lucky to have access to this terminal, much less any other systems. I'm truly sorry I didn't see this coming. If only we had known, we could have stopped this so easily...
+
+Good luck, and godspeed.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#STATIC 5
+#LOGOFF 430
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 430
+#INFORMATION
+$C1
+*** TRANSPORTER AUTHORIZATION RECIEVED ***
+
+** Initializing central transport grid **
+
+
+
+   Certifying host authenticity... done.
+
+   Transport authorization accepted.
+
+
+
+       Coordinates recieved:
+
+       (-14.18), (-22.69), (9.37)
+
+
+
+********* PREPARE FOR TRANSPORT *********
+#LOGOFF 430
+#INTRALEVEL TELEPORT 929
+#ENDTERMINAL 1

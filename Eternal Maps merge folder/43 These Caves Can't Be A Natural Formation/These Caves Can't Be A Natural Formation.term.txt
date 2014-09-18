@@ -1,0 +1,89 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 440
+#LOGON 450
+#INFORMATION
+$C1
+
+
+
+
+// Decoding message from host [unnamed] @ [no translation] \\
+$C4
+
+For security reasons, I am not [?able?permitted] to access the transport grid within my own datacore. You must therefore enter on foot from this position, locate an appropriate receptical for the artifact you are carrying, and insert it. I will then [?read?load] the command codes from the artifact and resume defense procedures.
+
+
+$C1\\ Message ends //
+#LOGOFF 450
+#LOGOFF 440
+#END
+#FINISHED
+#LOGON 440
+#LOGON 450
+#INFORMATION
+$C1
+
+
+// Decoding message from host [unnamed] @ [no translation] \\
+$C4
+
+I have loaded the command codes from the artifact and am resuming standard defense procedures. Much of the defense network has been damaged beyond use and the remainder is likely insufficient to cope with the numbers of [?enemy] flooding the installation.
+
+Nevertheless, all hope is not lost. I have formulated a strategy to destroy the interloper, which identifies itself as "Hathor". I will send you near to the installation's main datacore. For security reasons I cannot transport you directly inside. You must make your way into the main datacore and deactivate the peripheral datastores. This will force the Hathor entity to reorder its [?mind?program] to preserve it's more vital activity.
+#PICT 451 RIGHT
+$C4Eventually it will be forced to discard the key to an inactive circuit. The nonvolatile nature of these circuits will keep the key intact. You may then purge the active memory core, activating the backup circuits. Hathor's child processes will fail with no central host, and the key will reintegrate itself, activating the weapon.
+
+It is unfortunate that the crew's only course of action was to fire the installation's primary weapon. With the installation's interior overrun by the [?enemy], it is unlikely that sufficient members of your biological species will survive to reproduce. But our civilization will live on, in mechanized form, once the installation is reopened.
+
+
+$C1\\ Message ends //
+#LOGOFF 450
+#INTERLEVEL TELEPORT 44
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 440
+#LOGON 450
+#INFORMATION
+$C1
+
+
+
+
+
+// Decoding message from host [unnamed] @ [no translation] \\
+$C4
+
+Excellent work. Please insert the artifact into the receptacle to your left and return to this terminal.
+
+
+$C1\\ Message ends //
+#LOGOFF 450
+#LOGOFF 440
+#END
+#FINISHED
+#LOGON 440
+#LOGON 450
+#INFORMATION
+$C1
+
+
+// Decoding message from host [unnamed] @ [no translation] \\
+$C4
+
+I have loaded the command codes from the artifact and am resuming standard defense procedures. Much of the defense network has been damaged beyond use and the remainder is likely insufficient to cope with the numbers of [?enemy] flooding the installation.
+
+Nevertheless, all hope is not lost. I have formulated a strategy to destroy the interloper, which identifies itself as "Hathor". I will send you near to the installation's main datacore. For security reasons I cannot transport you directly inside. You must make your way into the main datacore and deactivate the peripheral datastores. This will force the Hathor entity to reorder its [?mind?program] to preserve it's more vital activity.
+#PICT 451 RIGHT
+$C4Eventually it will be forced to discard the key to an inactive circuit. The nonvolatile nature of these circuits will keep the key intact. You may then purge the active memory core, activating the backup circuits. Hathor's child processes will fail with no central host, and the key will reintegrate itself, activating the weapon.
+
+It is unfortunate that the crew's only course of action was to fire the installation's primary weapon. With the installation's interior overrun by the [?enemy], it is unlikely that sufficient members of your biological species will survive to reproduce. But our civilization will live on, in mechanized form, once the installation is reopened.
+
+
+$C1\\ Message ends //
+#LOGOFF 450
+#INTERLEVEL TELEPORT 44
+#ENDTERMINAL 1

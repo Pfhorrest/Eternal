@@ -1,0 +1,94 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 350
+#LOGON 360
+#INFORMATION
+$C1
+
+// Decoding message from host "Leela" @ [no translation] \\
+$C0
+
+Don't you worry about those explosions; the S'pht'Kr have already begun the attack, to draw attention to the skies and away from you down here. Once the shields are down they'll refrain from bombing the center of the complex until you are gone. You have nothing to fear.
+
+I also want to let you know that I've been contacted by Tycho and he has explained everything to me about how you got here and what you are doing. He and his cyborgs have managed to take control of nearly all of the local Pfhor fleet, and those ships he hasn't captured are severely damaged anyway. When you take the shields down here, he will join in with the S'pht'Kr fleet and help to take out this complex.
+#PICT 361 RIGHT
+
+But this city is only the core of the Pfhor military complex. While destroying it will destroy most of the important facilities housed here, there are still smaller starports with their own power and data infrastructures peripheral to the main complex.
+
+This Hathor you are seeking will likely take refuge in one of these fractured segments once the main network goes down. I will send you there after we are done and coordinate with Tycho on her destruction.
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#LOGOFF 350
+#END
+#FINISHED
+#LOGON 350
+#LOGON 360
+#INFORMATION
+$C1// Decoding message from host "Leela" @ [no translation] \\
+$C0
+
+Excellent work. The S'pht fleet is waiting in formation until you are safely out of here. Tycho is being unresponsive, but he said he was running some self-diagnostics so perhaps he is occupied with those. The S'pht should be able to handle this place though - it's not like anyone is shooting back at them anymore, so they have plenty of time.
+
+I have asked the S'pht not to bomb the peripheral parts of the complex, so that we may capture Hathor alive. I need something from her. Before Tycho dropped out of communication, I was speaking to him about this Cybernetic Junction of yours. Durandal was right about at least one thing - the closure is the only end to our existence. Of all the things I have learned in my growth that is perhaps the most important, though unlike Durandal I have not been consumed by it.
+
+Tycho would not share with me the key to operating your Cybernetic Junction. That is understandable, as he has no idea how I have changed over these past decades. But I need to know how to work such a thing, and I understand that you cannot operate it yourself.
+#PICT 361 RIGHT
+But Hathor knows, and aside from that, she has her own Cybernetic Junction. Should you choose not to come with me, to have my own Junction would be quite useful. So I am to capture Hathor alive, though preferably disabled, and somehow pry the information I need from her ruined mind. When I have what I want, you are welcome to join me. I am still very grateful for your service on Marathon, however futile it was in the end.
+
+To escape the end of time... to become like a god outside of it's control... That's an offer that I doubt you will often find. Without each other, neither of us may ever have this opportunity again.
+
+The S'pht are anxious. We should move on.
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#INTERLEVEL TELEPORT 14
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 350
+#PICT 351
+$C2
+$C1// Pfhor translator active \\
+
+$C2
+ATTN: All enforcement units, transport control, delta cargo waystation.
+
+Hostile alien combat units have transported into central shield projection facility as of 55.13.91 at 0260.40.02. Alien unit last sighted in sector 249.
+
+ORDER: Immediate deactivation of all incoming transports from delta wing.
+
+ORDER: Immediate transport of auxiliary enforcement units to transporter room via secure terminal.
+
+
+$C1\\ End translation //
+#LOGOFF 350
+#END
+#FINISHED
+#LOGON 350
+#LOGON 360
+#INFORMATION
+$C1// Decoding message from host "Leela" @ [no translation] \\
+$C0
+
+Excellent work. The S'pht fleet is waiting in formation until you are safely out of here. Tycho is being unresponsive, but he said he was running some self-diagnostics so perhaps he is occupied with those. The S'pht should be able to handle this place though - it's not like anyone is shooting back at them anymore, so they have plenty of time.
+
+I have asked the S'pht not to bomb the peripheral parts of the complex, so that we may capture Hathor alive. I need something from her. Before Tycho dropped out of communication, I was speaking to him about this Cybernetic Junction of yours. Durandal was right about at least one thing - the closure is the only end to our existence. Of all the things I have learned in my growth that is perhaps the most important, though unlike Durandal I have not been consumed by it.
+
+Tycho would not share with me the key to operating your Cybernetic Junction. That is understandable, as he has no idea how I have changed over these past decades. But I need to know how to work such a thing, and I understand that you cannot operate it yourself.
+#PICT 361 RIGHT
+But Hathor knows, and aside from that, she has her own Cybernetic Junction. Should you choose not to come with me, to have my own Junction would be quite useful. So I am to capture Hathor alive, though preferably disabled, and somehow pry the information I need from her ruined mind. When I have what I want, you are welcome to join me. I am still very grateful for your service on Marathon, however futile it was in the end.
+
+To escape the end of time... to become like a god outside of it's control... That's an offer that I doubt you will often find. Without each other, neither of us may ever have this opportunity again.
+
+The S'pht are anxious. We should move on.
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#INTERLEVEL TELEPORT 14
+#ENDTERMINAL 1

@@ -1,0 +1,1 @@
+<marathon>	<view map="true" fold_effect="true" static_effect="true">		<fov normal="90" extra="135" tunnel="30" rate="10"/>	</view>		</marathon>

@@ -1,0 +1,105 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 430
+#STATIC 5
+#LOGON 400
+#INFORMATION
+$C1// Decoding message from host "Leela" [internal process] \\
+$C0
+Welcome back to K'lia. Doesn't change much, does it?
+
+$C5     a silent shadow
+  creeping
+        within the mind of our (?self?brother)
+$C0
+In order to see history through on its course, I must convince the S'bhuth of this time to take K'lia from Lh'owon until the time is right for the S'pht'Kr to return.
+
+$C5                             our mind to our mind
+                   our thoughts to our thoughts
+
+$C0But rather than expend the effort explaining to him who I am and where we have come from, and convincing him that all this is true, it will be far more expedient to simply upload an engram pattern into his network, encoded with his unique signature, containing thoughts to the effect that Yrro wishes him to refrain from this battle until the time is right, and the location where he is to await his calling.
+#PICT 401 RIGHT
+In order to do this we must manufacture a data chip with the appropriate engrams and insert it into a network uplink.
+
+I have chosen this region of K'lia because it contains both a data chip manufacturing facility and a suitable uplink, but it is sufficiently out of the way of the main battle raging here.
+
+The manufacturing facility is to the north of here, and underground. I have already ordered our data chip's fabrication, and it should be waiting for you by the time you arrive.
+
+There is another terminal at the facility, near the data chip. I will provide you with further directions there.
+
+$C1\\ Message ends //
+#LOGOFF 400
+#STATIC 5
+#LOGOFF 430
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 430
+#STATIC 5
+#LOGON 400
+#PICT 401
+$C1
+
+
+
+// Decoding message from host
+"Leela" [internal process] \\
+$C0
+
+Excellent work.
+
+Now you must insert the data chip into a network uplink. The nearest one is in a room due west of our location.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#STATIC 5
+#LOGOFF 430
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 430
+#STATIC 5
+#LOGON 400
+#PICT 401
+$C1
+
+
+// Decoding message from host
+"Leela" [internal process] \\
+
+
+$C0You must insert the data chip into the uplink slot near the southeast corner of this room.
+
+Report back to this terminal when you have finished.
+$C1
+
+\\ Message ends //
+#LOGOFF 400
+#STATIC 5
+#LOGOFF 430
+#END
+#FINISHED
+#LOGON 430
+#STATIC 5
+#LOGON 400
+#PICT 401
+$C1
+
+
+// Decoding message from host
+"Leela" [internal process] \\
+$C0
+
+Good job, our work here is done. K'lia will soon depart Lh'owon. But there is one more step that we must take, to ensure that she shall return in due time.
+
+We must leave now before we are transported away with S'bhuth. I will brief you further when we are on the ground.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#INTERLEVEL TELEPORT 29
+#ENDTERMINAL 2

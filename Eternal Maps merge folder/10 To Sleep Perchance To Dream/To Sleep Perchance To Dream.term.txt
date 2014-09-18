@@ -1,0 +1,144 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 470
+#LOGON 200
+$C1sleep
+#INFORMATION
+$C1
+                                                               eternal$C3
+
+                                                        $C1is the sleep$C3
+
+                                                      $C1as is the night$C3
+
+                                          $C1 neither shaken nor creased$C3
+
+                                 $C1 it is a path of divergence legion$C3
+
+                             $C1so much so that it is a mere plane$C3
+
+                                                  $C1 of simple thought$C3
+
+                                                           $C1glossy
+
+                                                             soft
+
+                                                      silent and still$C3
+#INFORMATION
+$C3
+                         $C1in rest you find relics from within and about$C3
+
+                                  $C1 cast aside and starting back$C3
+
+                                      $C1 always returning and murmuring$C3
+
+                      $C1the million secrets you hold but will not hear $C3
+
+                                             $C1 and stretching for them$C3
+
+                            $C1you find they gracefully avoid your grasp$C3
+
+                    $C1as they float in muted revolution$C3
+
+                    $C1 spinning slow and silent in the obsidian darkness$C3
+
+                                 $C1 of a consciousness$C3
+
+                                                      $C1 disquieted$C3
+#INFORMATION
+$C3
+
+
+
+
+
+
+$C1
+                          behind you is before and before you is after$C3
+
+                  $C1the paths neither begin nor end yet weave and merge$C3
+
+            $C1 having yet been here before so shall you be again$C3
+
+                         $C1 constant yet never the same$C3
+#INFORMATION
+$C1                                     these things we need not tell you$C3
+
+                                           $C1 yet we know full well$C3
+
+                               $C1 the utterance will make for comfort$C3
+
+                  $C1  you have been $C3 $C1roland beowulf achilles gilgamesh$C3
+
+                        $C1you were called a thousand names$C3
+
+          $C1 and a thousand more shall answer to before our work is done$C3
+
+     $C1  they were heroes you knew though yourself you do not understand$C3
+
+      $C1 for given life but a few years their deeds were done
+                                            and their flesh grew weak$C3
+
+$C1once strong and taut it grayed and faded as did the works that would
+   praise these names for centuries until at last they were forgotten$C3
+
+                      $C1 as the generations teeming$C3 $C1faded them from view$C3
+#INFORMATION
+
+
+
+
+Yet you were different, whence God bore destiny on the eighth day so came you, though so many enter this plane kicking and screaming you suffered the weight to contain the burden of a birth so monumental, hiding it beneath the soft lines of your face, only now so human.$C1 $C3
+
+
+
+$C0Here. Do not fret; a plaything.  I have not forgotten your affinity for such devices. Do you remember the burning sands, far away from here, and far away from now? The sand so red as a sea of embers, a dead place, a citadel, the top from which you avenged the fathers of your newfound friends, the flowing beings that spoke without words and thought through technology, reuniting them with kin believed dead but hoped alive?
+#INFORMATION
+$C1                                               this is enough for now $C3
+
+                        $C1 warriors are not to dawdle on things past$C3
+
+                        $C1 for such are the interests of philosophers$C3
+                                             $C1 and kings and gods $C3
+
+                                         $C1 take what you will from this$C3
+
+                             $C1for within it is the key to your being$C3
+                                                     $C1and mine as well $C3
+
+
+$C0I find no offense in the fact that you may not yet recognize me.$C3
+
+
+                           $C1though in time$C3
+
+                                    $C1through time$C3
+
+                                           $C1 this too will come to pass
+#INFORMATION
+$C3
+
+                        $C1gaze now upon the sea of your possible paths$C3
+
+                         $C1 they lay before you in patient wait$C3
+
+                                 $C1 waves they make    warm and inviting$C3
+
+                     $C1choose now and awake$C3
+
+                             $C1later   to the reality of your decision $C3
+
+$C1  $C3
+
+$C0What must be done is clear.
+$C3
+$C1  $C3
+
+
+                              $C1the blood to be spilled levels the scale$C3
+#LOGOFF 200
+Wake up, we're almost there.
+#LOGOFF 470
+#INTERLEVEL TELEPORT 11
+#ENDTERMINAL 0

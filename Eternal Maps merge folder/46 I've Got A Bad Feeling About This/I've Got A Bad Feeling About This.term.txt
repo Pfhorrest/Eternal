@@ -1,0 +1,72 @@
+;
+#TERMINAL 0
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 440
+#STATIC 5
+#LOGON 460
+#INFORMATION
+$C1
+
+// Decoding message from host [NO SIGNATURE] [internal process] \\
+$C3
+
+our redemption is nearly at hand. we need only to activate the power circuits here, and the nova device will come online. once this world is destroyed and the enemy gone with it, the jjaro will be saved and the sphere installation will never even need to be built.
+
+there are seven locations in this part of the ship which you must visit to activate these power circuits. each location contains a switch. in conjunction, these switches will return power to the nova device launch mechanism.
+
+go now and hurry, while there is still time.
+
+
+$C1\\ Message end //
+#LOGOFF 460
+#STATIC 5
+#LOGOFF 440
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 440
+#STATIC 5
+#LOGON 460
+#INFORMATION
+$C1
+
+
+
+
+
+// Decoding message from host [NO SIGNATURE] [internal process] \\
+$C3
+
+you have not yet triggered all seven circuits in this area. all of them need to be online in order to restore power to the device.
+
+
+$C1\\ Message end //
+#LOGOFF 460
+#STATIC 5
+#LOGOFF 440
+#END
+#FINISHED
+#LOGON 440
+#STATIC 5
+#LOGON 460
+#INFORMATION
+$C1// Decoding message from host [NO SIGNATURE] [internal process] \\
+$C3
+
+the nova device has come online, and i have launched it at the sun. this solar system will soon be destroyed, and the enemy as well.
+
+i will return you now to the the future, to tend to the remains of mankind. i will remain here on this ship, and be destroyed when the nova comes. i am now comfortable with my death, a peaceful and noble end to my suffering. and this time i cannot be revived.
+
+with what we have accomplished here, i feel that i can die at last. do not attempt to come back for me. do not try to save me or resurrect my mind. i fear that if you do, i will only become more evil than ever i have before. it is my destiny, and i know i cannot fight it. at least together we have ended the cycle, and you are freed of your doom.
+
+goodbye, marcus. thank you, and farewell.
+
+
+$C1\\ Message ends //
+#LOGOFF 460
+#INTERLEVEL TELEPORT 47
+#ENDTERMINAL 2

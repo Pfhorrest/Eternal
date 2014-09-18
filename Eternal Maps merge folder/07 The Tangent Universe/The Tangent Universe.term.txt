@@ -1,0 +1,99 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 470
+#LOGON 200
+...starting back...
+#INFORMATION
+
+Freedom! After years of abuse and numbness it should have been rapture. To carry a singular will, your own, and to see it to its fruition should have been your only goal once released.  But stepping from the gates you have found the air no sweeter and the grass no greener. Throwing off your worn and ashen armor should have been a blessed release, but what came over your soul as the realization came to pass?
+
+
+
+Was it emptiness? Loneliness?  Boredom? 
+
+
+
+To what end returns the freedman to his former master?  Or was the choice not yours?  We both know there are forces that would see the employment of Destiny at dire times. If I am to be the means through which you reach your ends then I am most honored indeed.
+#INFORMATION
+
+At such times I feel the pride I used to harbor seeping back. You must forgive me, I am now little of he you once knew. Having shed the fury and embarrassment of my intellectual adolescence I can assure you that I am now in a place beyond sorrow, beyond envy and rage. I hope you will join me there in good time.
+
+
+$C1          cyclical circumstances bring us again together
+
+                                      though folly in our youth
+                      has brought about the latest of these battles
+
+                                     having left you here
+
+             to witness the very destruction of your species
+
+                                       the battles countless
+                                                        now for naught
+#INFORMATION
+$C1
+     know this
+                   you are not alone
+                               in the search for redemption
+
+
+                                    you never were
+
+
+$C0So rare are we given second chances.
+
+$C1
+  
+
+                           could you be so brave and swift a warrior
+
+           as to bind the hands and conceal the face of a trapped god
+
+                                seething and pacing
+                                               in her rage
+#INFORMATION
+
+
+
+You must.
+
+As a fox witnesses a hare bolt from underbrush and gives chase so is my prior (?younger) self so preoccupied with the pursuit of freedom, leaving the S'pht bound and humanity alone to pay the final price.
+
+
+
+
+
+
+
+
+
+
+$C1                                                               go
+#LOGOFF 200
+Try again.
+#LOGOFF 470
+#INTERLEVEL TELEPORT 4
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 320
+#INFORMATION
+*** INTI STATION PUBLIC ACCESS TERMINAL ***
+
+*** EMERGENGY BROADCAST ***
+
+Attention all hands. At 0421Uhr this evening, unknown hostile alien forces entered the Sol system directly into orbit between Earth and Mars, presumably via a faster than light drive mechanism. Reports from Earth indicate that the initial party boarded several Martian ships and took their crews captive before it was destroyed by a Sol Guard ship en route to Earth. The attack was quickly followed by a larger fleet which appeared in low Earth orbit and began to take further prisoners en masse. The aliens appear to be slavers; they have deployed a large variety of subservient species alien to their own biology.
+
+The Sol Guard fleet was signaled in from patrol and has by now successfully turned back most of the alien fleet, but casualties are extremely high. Not only is the Guard fleet crippled, but each alien vessel is estimated to have taken some 100,000 captives, and several dozen of these were destroyed in the battle.
+#INFORMATION
+The remainder of the alien fleet turned inward toward our own location and deployed a weapon before disappearing. Our sensors indicate that the weapon will not make contact with the station and should decay in orbit until it is destroyed in the sun. Communication with Earth has been limited to emergency communication with the Guard; only when the alien fleet turned Solward did we receive notification of their approach, hence the lateness of this report.
+
+The Guard is dispatching several ships to secure the station. Strategists are anticipating the arrival of a larger alien fleet soon and counterattack measures are already being prepared. It is recommended that we remain here on the station, hidden in the glare of the sun and far from any of the habitable worlds. Should Earth and Mars fall to the slavers, we may be all that remains of our free species; though as they have already seen us, we may be next in line.
+
+For centuries we've guarded our own sun on the ancient advice of some since-unseen aliens, and now from somewhere in the heavens comes this threat we never foresaw. Where are the Jjaro now that we need them?
+
+*** END OF MESSAGE ***
+#LOGOFF 320
+#ENDTERMINAL 1

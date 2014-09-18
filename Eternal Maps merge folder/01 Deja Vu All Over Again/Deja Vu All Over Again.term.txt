@@ -1,0 +1,142 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 320
+#STATIC 5
+#LOGON 310
+#INFORMATION
+$C1
+// Decoding message from host "Hathor" [internal process] \\
+$C3
+
+Welcome back to Marathon.
+
+I've taken us back to the exact moment the assault on the Marathon begins. Your former self is on his way up from the colony as we speak, and my body is currently somewhere planetside. We are under orders to leave our past selves undisturbed, and to retrieve only the other eight Battleroids. The colony here will be destroyed whether they are around or not, but our past selves' presence is essential to ensure another chance at this should we fail. Orders are orders, as they say.
+
+I am currently accessing the Marathon's network via a proxy program I've downloaded into the engineering network's public-access directory, but bulk of my program is still in your own internal network, relaying to my proxy through both K'lia and your Cybernetic Junction. In order to ascertain the locations of the other Battleroids colony-side, I will need full access to engineering's observational instruments. To that end, I need you to make some room for my arrival.
+#PICT 1011 RIGHT
+$C3There is a circuit breaker in this sector that limits power to engineering's auxiliary AI databanks. The Marathon's engineering AI Tycho is not currently using these, so power to them has been routed elsewhere. The first step to getting me into the network is therefore closing this circuit and powering up those databanks.
+
+The warning message our masters recieved from Leela reported that the Pfhor assault took significant time to reach the Engineering sector. I cannot verify the accuracy of that data, so be alert - the Pfhor may soon be present here. I'm sure you'll know what to do.
+
+Report to this terminal when you are done.
+
+
+$C1\\ Message ends //
+#LOGOFF 310
+#STATIC 5
+#LOGOFF 320
+#END
+#FINISHED
+#LOGON 320
+#STATIC 15
+#LOGON 310
+#INFORMATION
+$C1// Decoding message from host "Hathor" @ mara.eng.public \\
+
+
+$C3Good work. Next up, we need to give me actual access to those auxilliary databanks. I will transport you and an uplink chip with the proper commands to a nearby area with an engineering-access uplink.
+
+We'll need to hurry a bit for now. It seems that we've interrupted a sadly doomed attempt at some sort of civillian coup here, and my proxy program has been implicated in the crime. Blind idiots probably think the EMP had something to do with them too. A security force has been called in to investigate - whatever good that will do them now.
+
+It's not like they could crack into $Ime$i or anything, but if they finally realize they can't trace where (or when) my signal is coming from, they could still delete my proxy from the public directory.
+
+Ah, so there are those jump pad inputs. Prepare for transport.
+
+
+$C1\\ Message ends //
+#LOGOFF 310
+#INTERLEVEL TELEPORT 2
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 320
+#INFORMATION
+
+<<< Unauthorized access - alarm 2401 >>>
+<<< Security Breached at 49-g[34.124.70.61] >>>
+
+<<< Communications intercepted in transmission >>
+
+[...]blems gaining entry into your section, the bulkhead is jammed or something. I checked with Durandal and he claims there's no security overrides or anything; he physically cannot open the door. I asked him to check with visual sensors but he got evasive and now he's not even responding at all. I'm starting to worry that the fault might be with him. Please respond, I'd rather not be waiting out here with flashbacks to '2001'...
+
+08:19:22 RMcCollum-  Ok, now we're all getting worried out here. I asked Tycho to check with his sensors to see what's going on in there and he claims that the sensor feed has been cut. Not just jammed, but cut. If we don't get a response from you within the next five minutes I'm calling a security demolitions crew to break their way in. You've been warned... please respond.
+#PICT 321
+
+08:21:45 RMcCollum-  What the $Ihell$i was that!? That's it! The demolitions crew are on their way. Whoever's in there, Tycho is still monitoring your access. I know someone is watching this channel other than the public access terminals. And we've found your proxy program - that's some fancy encryption you've got there. What is this, some sort of colony-side hack?
+
+Whatever's going on in there, I gotta warn you, one of security's big guns is coming up from the colony right now. He's here on other business but I'm sure he wouldn't mind taking a moment or two to smack some sense into whatever kind of whack job would pull a stunt like this.
+
+
+<<< Communications channel closed >>>
+#LOGOFF 320
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 320
+#INFORMATION
+
+<<< Public Access Terminals, Engineering Sector 7G >>
+<<< Secure Encryption Session in process >>
+$C1
+$C0From:  Engineering Operator Bernhard Strauss
+To:    Public Access Terminals, Engineering Sector 7G (secure).
+Subj:  Security and Munitions (Stage 1 complete)
+
+Alpha team, I've ordered Durandal to lock out access to your sector while you prep. He's started acting up a bit so some systems may not be functioning as planned. Watch yourselves on the elevators, and I'll see if I can tighten security on the patch daemon's I've installed.
+
+It's graveyard shift on the ops deck and I've given my crew the night off, so we're all clear on this end of things. Delta team has a shuttle of munitions and other equipment on it's way over from the Quarantine Lab. They should arrive at your loading bay in less then half an hour. Once you have your supplies I want the rest of your squad assembled and ready to move ASAP. The first of the Battleroids is already on its way up from the colony. We'll need to move quickly.
+#LOGOFF 320
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 320
+#INFORMATION
+<<< Spurious interrupt at 2401.49.343.7 >>>
+
+$C3Begin encrypted outbound transmission from mara.auto.ai.core:
+$C0006000520060004A005C004A0074001E00540042005C004A005C00420054004200540
+04A005C004A005C00420074002A0050003A006000420058003A0050003A0050004200
+540042005C0042006000420060003A0058003A0074001E005000320058003A0058003
+2005000320050003A0058003A005800320074002A0050002A00600032005C002A0054
+002A0050002A0050003200580032006000320060002A005C002A0074001E005400220
+05C002A005C0022005400220054002A005C002A005C00220074002E0050001A006000
+22005C001A0054001A0050001A0050002200540022005C0022006000220060001A005
+C001A0074001E00540012005C001A005C0012005400120054001A005C001A005C0012
+0074002E0050000A00600012005C000A0054000A0050000A0050001200540012005C0
+012006000120060000A005C000A0074001E002000420038005A003800420020004200
+20005A0038005A003800420074001E0020003A003800420038003A0020003A0020004
+2003800420038003A0074002E001800120040003A0040001200180012001800320018
+003A0020003A0038003A0040003A00400032004000120074001E0010000A001800320
+01800120010000A0010003200180032001800120074001E0010000A00480012004800
+0A0010000A00180012004000120048000A0074001E0040000A004800320048000A004
+0001200400032004800320048000A0074002200400032004E003A0048003200400032
+0040003A004E003A004E00320048003200740022000A00320018003A0018003200100
+$C3Continues...
+#INFORMATION
+$C3Continued from previous page...
+$C02004E003A0050003A0050003200740026001C005E003C009A003C005E001C005E001C
+009A0027009A0031009A003C009A003C005E001A7530000000000074001E001000420
+01C005E001C0042001000420010005E001C005E001C00420074001E003C0042004800
+5E00480042003C0042003C005E0048005E00480042001A00002EE000000074002E001
+C003E002C00420021003E001D003E001C003E001C0042002C0042002C003E002B003E
+0023003E0021003E0074002E002C003E003C0042002C003E002C0042003C0042003C0
+03E003B003E0037003E0035003E002D003E002C003E0074001E001D003C0021003E00
+21003C001D003C001D003E0021003E0021003C0074001E0023003C002B003E002B003
+C0023003C0023003E002B003E002B003C0074001E002D003C0035003E0035003C002D
+003C002D003E0035003E0035003C0074001E0037003C003B003E003B003C0037003C0
+037003E003B003E003B003C00740022001C0042003C005E003C0042002C0042001C00
+42001C005E003C005E003C0042007400260048FFEE0050005E004EFFEE0048FFF2004
+800420048005E0050005E0050FFF2004EFFEE007400260008FFEE0010005E0010FFF2
+000AFFEE0008FFF20008005E0010005E001000420010FFF20074002E0010005A00480
+07A0020005A0010007A0018007A0028007A0030007A0040007A0048007A0038005A00
+20005A001A00009C40000000220010007A000800220030007A00F8001A0000FFFF000
+000220048007AE0F0001A00009C40000000220040007A00F0001A0000FFFF00000022
+$C3Continues...
+$C0
+<<< Error - transfer terminated on user end >>>
+#LOGOFF 320
+#ENDTERMINAL 3

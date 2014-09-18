@@ -1,0 +1,54 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#INTERLEVEL TELEPORT 51
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 440
+#LOGON 450
+#INFORMATION
+$C1// Decoding message from host [unnamed] @ [no translation] \\
+$C4
+
+I am pleased that you have made it this far. Apologies for my brevity; my systems are failing quickly and I fear that I have little time left while I still remain lucid. The rogue [?operator] which I referenced earlier has wrought much damage to my peripheral systems, and though she appears to have evacuated the installation, her attacks continue to propogate of their own accord.
+
+As you can see the alien vessel has evacuated as well. Taken by the [?operator]. I offer you now only my apologies, for I believe that I can be of no further assistance to you. This installation will be destroyed, and most likely the rest of the galaxy with it.
+
+I have a message for you. I have contacted the entity which unlocked the installation. It is a personality construct identified as "Leela".
+
+
+$C1\\ Message ends //
+#LOGOFF 450
+#LOGON 440
+#STATIC 60
+#LOGON 400
+#INFORMATION
+$C1// Decoding message from host "Leela" @ [no translation] \\
+$C5
+
+                                       thoughtless echoes
+
+                                  ringing
+                                        within the hollow void
+
+                                                emptiness
+                                           sorrow
+
+                                                        despair
+
+
+$C0Enough! I don't know if you will read this, but I've entrusted this installation's construct to pass a message on to you, if you're even really in there. I gather from chatter on the Pfhor network that they've found someone who matches your description at the very least, and what with the synchronicity we've come across already, I wouldn't be surprised at all if somehow you wound up inside this ancient tomb.
+#INFORMATION
+My ship has been disabled. Damn near half the Pfhor fleet followed me on my way here. (They must prize this installation greatly, though they clearly had no idea of its nature until the moment I opened it). I can't scan through the installation's surface to get a lock on you either. I'm sorry, but I've no way to get you out from inside there.
+
+I realize what the $Itrih xeem$i will do here when it detonates. I can't let the future end this way. I know, I swore it to myself I wouldn't meddle with the past - and still I hold myself to that vow. I will not travel back with you. The power of the Junction is too tempting, and I am not strong enough to tackle with such responsibility.
+
+But you have shown yourself more than willing and able to shape history as needed. I can trust you to do this alone. I don't know if you can even hear me, much less if you can help... but if you can somehow find some way, any way, to exit the installation - jump into open space for all it matters - I can send you Outside, and just pray that maybe somehow you can prevent this all from happening...
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#LOGOFF 440
+#ENDTERMINAL 1

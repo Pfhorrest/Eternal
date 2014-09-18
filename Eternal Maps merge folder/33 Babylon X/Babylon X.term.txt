@@ -1,0 +1,139 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 430
+#STATIC 60
+#LOGON 420
+#STATIC 5
+#INFORMATION
+$C1// Decoding message - [ERROR IN HOST IDENTIFICATION] \\
+$C0
+
+$C3~$C07$C3`d8$C07$C3h~#1$C07$C3!$ 8-- 8$C07g$C3~~~ *126G$C0Ha$C37110$C0r$C3~~~%er*#^#&$C0ak$C33~~~
+
+$C1[[error - duplicate host id present]]
+
+
+$C3Leela again.
+
+That thing you just encountered was the cyborg Drinniol which started off this whole little revolution. Hathor beamed it into your path via it's own Cybernetic Junction just before she put up this jamming field, hoping to stop you from deactivating the transmitter array in the first place. Unfortunately she realized a little too late that this Drinniol is smarter than it seems, and now can circumvent her access to it's Junction just as you can. Her placement was certainly less than optimal, and you, fortunately, managed to deactivate the transmitter array anyway. It seems that this plan is failed, but that was likely to be expected. Survival is all that's at stake now.
+#STATIC 5
+#PICT 1331
+$C3
+In the nearby transporter complex are a number of control circuits which coordinate the regularly scheduled starside waste transports this facility was designed for. If you can destroy them, I should be able to force a manual override and use the transporter to get us out of here.
+
+There are four primary control circuits housed near the transporter pad itself, and eight secondary circuits in the periphery of the installation.
+
+Now hurry, time is of the essence. Waste none fighting battles that are doomed to be lost when the nova reaches this world.
+
+
+$C1\\ Message ends //
+#STATIC 5
+#PICT 1332
+$C3
+In the nearby transporter complex are a number of control circuits which coordinate the regularly scheduled starside waste transports this facility was designed for. If you can destroy them, I should be able to force a manual override and use the transporter to get us out of here.
+
+There are four primary control circuits housed near the transporter pad itself, and eight secondary circuits in the periphery of the installation.
+
+Now hurry, time is of the essence. Waste none fighting battles that are doomed to be lost when the nova reaches this world.
+
+
+$C1\\ Message ends //
+#STATIC 5
+#PICT 1333
+$C3
+In the nearby transporter complex are a number of control circuits which coordinate the regularly scheduled starside waste transports this facility was designed for. If you can destroy them, I should be able to force a manual override and use the transporter to get us out of here.
+
+There are four primary control circuits housed near the transporter pad itself, and eight secondary circuits in the periphery of the installation.
+
+Now hurry, time is of the essence. Waste none fighting battles that are doomed to be lost when the nova reaches this world.
+
+
+$C1\\ Message ends //
+#STATIC 5
+#PICT 1334
+$C3
+In the nearby transporter complex are a number of control circuits which coordinate the regularly scheduled starside waste transports this facility was designed for. If you can destroy them, I should be able to force a manual override and use the transporter to get us out of here.
+
+There are four primary control circuits housed near the transporter pad itself, and eight secondary circuits in the periphery of the installation.
+
+Now hurry, time is of the essence. Waste none fighting battles that are doomed to be lost when the nova reaches this world.
+
+
+$C1\\ Message ends //
+#STATIC 5
+#PICT 1335
+$C3
+In the nearby transporter complex are a number of control circuits which coordinate the regularly scheduled starside waste transports this facility was designed for. If you can destroy them, I should be able to force a manual override and use the transporter to get us out of here.
+
+There are four primary control circuits housed near the transporter pad itself, and eight secondary circuits in the periphery of the installation.
+
+Now hurry, time is of the essence. Waste none fighting battles that are doomed to be lost when the nova reaches this world.
+
+
+$C1\\ Message ends //
+#STATIC 5
+#PICT 1336
+$C3
+In the nearby transporter complex are a number of control circuits which coordinate the regularly scheduled starside waste transports this facility was designed for. If you can destroy them, I should be able to force a manual override and use the transporter to get us out of here.
+
+There are four primary control circuits housed near the transporter pad itself, and eight secondary circuits in the periphery of the installation.
+
+Now hurry, time is of the essence. Waste none fighting battles that are doomed to be lost when the nova reaches this world.
+
+
+$C1\\ Message ends //
+#STATIC 5
+#PICT 1337
+$C3
+In the nearby transporter complex are a number of control circuits which coordinate the regularly scheduled starside waste transports this facility was designed for. If you can destroy them, I should be able to force a manual override and use the transporter to get us out of here.
+
+There are four primary control circuits housed near the transporter pad itself, and eight secondary circuits in the periphery of the installation.
+
+Now hurry, time is of the essence. Waste none fighting battles that are doomed to be lost when the nova reaches this world.
+
+
+$C1\\ Message ends //
+#STATIC 5
+#PICT 1338
+$C3
+In the nearby transporter complex are a number of control circuits which coordinate the regularly scheduled starside waste transports this facility was designed for. If you can destroy them, I should be able to force a manual override and use the transporter to get us out of here.
+
+There are four primary control circuits housed near the transporter pad itself, and eight secondary circuits in the periphery of the installation.
+
+Now hurry, time is of the essence. Waste none fighting battles that are doomed to be lost when the nova reaches this world.
+
+
+$C1\\ Message ends //
+#STATIC 5
+#LOGOFF 420
+#STATIC 60
+#LOGOFF 430
+#END
+#FINISHED
+#LOGON 430
+#STATIC 60
+#LOGON 420
+#STATIC 5
+#INFORMATION
+$C1
+
+// Decoding message - [ERROR IN HOST IDENTIFICATION] \\
+$C0
+
+$C3~$C0s7$C30$C0p!$C3h~#1$C07$C3!$ #$C0n$C303 8$C0wa$C31$C07$C3~$C0!$C3 *126G$C0Ha7$C3110$C0r$C3~~~%er*#^#&$C0ak$C33~~~
+
+$C1[[error - duplicate host id present]]
+
+
+$C3I really am sorry about that. There's some sort of echo from this jamming field, and I can't quite seem to get rid of it.
+
+Good work activating the transporter. I have already tested the transmitter array and verified my complete control. Now please step into the main lift area and I will send you starside.
+
+
+$C1\\ Message ends //
+#STATIC 5
+#LOGOFF 420
+#STATIC 60
+#LOGOFF 430
+#ENDTERMINAL 0

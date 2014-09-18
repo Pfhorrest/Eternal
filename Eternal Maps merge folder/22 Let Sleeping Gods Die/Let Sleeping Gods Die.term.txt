@@ -1,0 +1,165 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 380
+#LOGON 390
+#INFORMATION
+
+$C1// Decoding message from host "S'bhuth" @ [no translation] \\
+$C0
+
+$C5                                 the wings of technology cannot reach
+                 the hallowed grounds which you now seek
+
+
+          before the clans were sundered
+       the Master instructed us     S'bhuth
+            the youngest Royalty of the S'pht
+              of those now called S'pht'Kr
+
+                to await the arrival of his Message
+                       delivered by the Messenger
+
+             young we were then
+                         we did not understand
+               the purpose of this prophecy
+
+                              nor knew we the methods of its function
+#PICT 1221
+$C5
+
+  but clues were left by the Master
+    in the words of his many teachings
+
+        long we have sought this place
+for the powers which it holds
+
+     and only so few orbits ago
+   its purpose has been understood
+
+but so deadly are the devices
+                  of its activation
+   that no S'pht may survive
+
+      the [?rusty] F'lick'ta
+         strong but thoughtless
+   traverse its passages with ease
+         and yet entirely without purpose
+#INFORMATION
+$C5    but you are the Messenger of Yrro
+           for what other purpose sent?
+
+ we understand the Message as it was prophesied
+         and the Message is our salvation
+
+ now in time of greatest need
+     you are to be savior of our kind
+
+
+       another world awaits all those who seek a life of peace
+
+
+     the third sister of Lh'owon
+                   high above this land
+                             will see to her kin well
+
+
+
+                         upon K'lia we find freedom from the fires
+#PICT 1222 RIGHT
+$C5
+
+               find you this key
+and seek out the lock
+         hidden behind the curtains of fire
+
+
+     our mind it conveys
+
+              the key you now seek
+
+                     and placed in the lock
+              we shall open the door
+
+
+
+        the path of ascension awaits
+
+
+$C1\\ Message ends ///
+#LOGOFF 390
+#LOGOFF 380
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 380
+#LOGON 390
+#INFORMATION
+$C1
+
+// Decoding message from host "S'bhuth" @ [no translation] \\
+
+
+$C0
+                $C5               a message we have prepared
+$C0                $C5         for the kin we are to leave behind
+
+
+$C0        $C5   one verse for each of our brothers
+        $C0        $C5one verse for all Lh'owon
+
+
+$C0              $C5   long after we are gone
+      $C0                $C5when all S'pht are one
+           $C0                $C5S'pht'Kr shall return
+                                 to Lh'owon
+#PICT 1222 RIGHT
+$C5 __________________________________________
+ |                                        |
+ |  K'lia whom we have taken              |
+ |           between Y'loa and T'jia      |
+ |             all in a line              |
+ |   replace K’lia with the marsh         |
+ |       take the place to be the mark    |
+ |      mark the time from our exodus     |
+ |        every 459.231 rotations         |
+ |     search the T'jia side              |
+ |             quarter way to the sun     |
+ |  around and under the marshes          |
+ |        when all are one                |
+ |              the S'pht'Kr will return  |
+ |________________________________________|
+
+            take you now this key
+     brave the fires below
+              and bring about our salvation
+
+$C1\\ Message ends ///
+#LOGOFF 390
+#LOGOFF 380
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 380
+#PICT 200
+$C1// S'pht Translator Active \\
+
+$C5In this chasm, aeons ago, died a demon W'rkncacnter. Long it slumbered, hidden beneath the barren sands of Lh'owon. Now at last he has awakened, and he has slain Pthia - my other, my sister, and my lover. This edifice I have erected to extract and entomb the demon, burying him again within the fires of our star.
+
+You shall build, upon these grounds, a Citadel to commemorate the legacy of your kind and mine. It shall be a symbol of strength and unity to your people, when all other hope has failed. Come forth now, and hear your names:
+
+S'pht'Lhar, S'pht'Hra, S'pht'Nma, S'pht'Kah, S'pht'Vir, S'pht'Yra, S'pht'Val, S'pht'Shr, S'pht'Mnr, S'pht'Yor, S'pht'Kr.
+#INFORMATION
+$C1
+
+
+$C5You eleven Olders I have gathered unto me. Though each of you heralds from one corner of Lh'owon, you alone amongst your kind may swim her entire breadth, upon the the seas of the aether, beyond that realm of material beings to which your kin are bound. In this aspect, you alone are most akin to my own kind. You shall lead eleven clans as sacred rulers of your kin. This world now holds no love for me, and soon I shall depart it. In another realm, my brethren await me.
+
+I Yrro, who was your master, have failed to preserve you. Take your royalty to guide you, and live upon the paradise that you built for me. Unto you I leave only this one advice. Heed you this last prophecy: Do not mistake your rank and number for superiority. The oldest child may yet learn from the youngest.
+$C1
+
+\\ End translation //
+#LOGOFF 380
+#ENDTERMINAL 2

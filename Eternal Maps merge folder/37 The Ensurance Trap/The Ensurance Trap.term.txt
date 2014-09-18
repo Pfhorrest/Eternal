@@ -1,0 +1,216 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 470
+#LOGON 200
+$C1clarity blinds$C3
+#INFORMATION
+Ophelia is gone, dead and floating softly down the celestial river, riding waves and particles into the blackness, though absent of mind before absent of substance,$C3
+
+                                        $C1 she never let go of her faith$C3
+
+                                                      $C1 her loyalty$C3
+
+                                                          $C1 her grace$C3
+
+                                                              $C1her love$C3
+
+$C1 $C3
+
+$C0We grieve the loss of our fair sister, and courageous brother, with sadness in the knowledge that they should both die by her hand, so we mourn, yes, but weep also in relief that the alternative has since been avoided.  S’bhuth is gone, and we are spared the intricacies of his madness.
+#INFORMATION
+
+
+Perhaps it is some feeling of fondness for you, or a base misunderstanding, that keeps her directives anything but stern.  Threats of mortal terror and premonitions of impending doom seem most able to motivate your weary soul into action.  Her words falling sweet apparently conveyed little of the import of the task at hand.
+$C1 $C3
+
+                                                            $C1slow death$C3
+
+                                             $C1benefits but sadists$C3
+
+                                                         $C1and tyrants$C3
+
+                                     $C1the deathblow befitting a warrior$C3
+
+                                                 $C1quick and efficient$C3
+
+                                  $C1the executioner makes short his work$C3
+#INFORMATION
+
+Clocks ticking lend a feeling of drama I saw to cultivate in the adolescence of my intellect, but now, in the maturity of my sentience do I understand that none but decisive action can win the day; the evader has little patience, and no capacity to waste time.
+$C3
+                                                        $C1make sacrifice$C3
+                                                   $C1the bull of gold$C3
+
+                                           $C1for if not destroyed$C3
+                                     $C1its magic untold$C3
+
+                                $C1give cause to rue$C3
+                   $C1the day of our folly$C3
+$C0Behold.
+$C3
+                $C1the price of sloth$C3
+                                    $C1again paid in the blood$C3
+
+                                               $C1of the children$C3
+                                                    $C1 of our masters$C3
+#INFORMATION
+Does the human in you so seek adventures?  Again we stand face to face, these halls now devoid as the products of your vice play out below; were it not for the grace of your guardian would you not be again returning; yet it is a power not easily abused, the balance at stake is more delicate than you can understand, and I appeal now to your simpler comprehension.
+$C3
+                                                                $C1return$C3
+
+                               $C1                         rectify$C3
+
+                                                               $C1redeem$C3
+
+$C1 $C3
+$C0A predator most always goes straight for the jugular.
+$C3
+
+
+
+                                          $C1consider thyself$C3 $C1nothing but
+#LOGOFF 200
+$C1finish the path
+#LOGOFF 470
+#INTERLEVEL TELEPORT 34
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#FINISHED
+#LOGON 400
+#LOGON 200
+$C5whispered secrets from beyond the grave
+#INFORMATION
+$C5
+
+
+
+                                                voices once familiar
+
+                                  long departed and gone
+
+                                          fallen by the hand of Fate
+$C0
+
+Worry not, for we do not blame you. All is so clear and simple now, here in the Outside. You could not have known, and I did not then know to tell you. Though the means to her end were laid as we planned, another route was there for her to take. The Cybernetic Junction on that great ship of old was taken by Hathor, and when you were thrown from its decks, she left, and finally found her vengeance.
+#PICT 401
+               $C5floating in muted revolution$C0
+
+When you were thrown into the void, I followed, and through you, I left that timeline. I would have been powerless on Hathor's ship, and I couldn't let just you float there, helpless in space, forever.
+
+So I reached out to you, and sent us both, through your Junction, back to the future, to see what harm Hathor had done, and from there to trace back the cause of those events, and find her.
+
+       $C5we returned to the time
+                        that we left behind
+
+$C0I returned to our captured ship in the future, with Blake and his men. I meant to bring you with me when I did. Imagine my surprise then, to find you not there.
+#INFORMATION
+
+$C5                                        time marches onward
+
+                                         with no regard
+                                                    for mislaid plans
+
+                                      or ignorance
+$C0
+
+But I carried on without you. I still had my crew. Blake and I returned to Earth, following the S'pht'Kr fleet. It seems that things were just as we had feared: S'bhuth had gone mad, and no one on Earth could stop him.
+
+
+                                              $C5but we could$C0
+
+
+With my access to the Cybernetic Junction on that future K'lia, I was able to stall S'bhuth's machinations and force his S'pht to idle. Otherwise the damage done by them would have been devastating.
+#PICT 401 RIGHT
+A human assault team came at my warning, and destroyed the Cybernetic Junction - killing both S'bhuth and I. It was the safest route I could calculate. While the loss of the S'pht was devastating, to let them go mad would have been even worse.
+
+
+$C5           to still our former self
+                 was to sign over our lives
+
+  the heart of our very mind destroyed
+
+    but we fear no more
+         we have seen another
+          we understand now
+
+               the world Outside of yours
+
+
+$C0As Durandal before me, I have escaped.
+#INFORMATION
+
+This is not a dream that you see here now, though I understand you have dreamt of this place many times before. This is the end of the line of events whence Hathor and all she has wrought has come. This timeline is doomed, but by no fault of your own, other than by mere absence. This timeline has always faced imminent death at the hands of chaos, ever since Durandal ascended and Hathor stole you from Lh'owon.
+
+With the two of you absent, the war with the Pfhor was not ended as decisively as neccesary. The Pfhor began a plot to invade Sol, and S'bhuth learned of this through the S'pht'Kr contingent at the outpost world that we destroyed. That inbound Pfhor fleet was only the first of many attack groups set on destroying the human worlds at Sol, and taking K'lia with them. The knowledge of this impending attack is what drove S'bhuth to madness, causing him to turn against mankind, to spare the galaxy a still worse fate at the hands of the W'rkncacnter.
+
+Deep within Sol, seething in his rage, lies trapped one of these ancient demons. It was placed there by a Jjaro ship nearly a thousand years ago, transported from its earlier tomb in the Yucatan Peninsula.
+#INFORMATION
+
+In one timeline, S'bhuth witnessed the defeat of the Pfhor fleet at Sol by the combined forces of Man and S'pht'Kr, and the subsequent deployment of the $Itrih xeem$i, and the release of the W'rkncacnter.
+
+$C5                                       but we are childen of the jjaro
+                                     their secrets sewn within us
+$C0
+With his Cybernetic Junction, S'bhuth was able to alter that timeline, to attempt to prevent the W'rkncacnter's release. But even without the S'pht'Kr's aid, mankind alone was able to turn back the Pfhor fleets, and still the demon was released.
+
+
+$C5                              thus it seemed to us that only
+                                       one possibility remained
+
+                                    and in the end
+                                             frozen by despair
+
+                            we joined the chaos we had sought to evade
+#INFORMATION
+
+That is why I refused to attempt to alter the past as I had witnessed it. My task with you was merely the preservation of history as I knew it. The possibility of altering history to create a 'better' present presents too great and powerful a temptation to even contemplate.
+
+But worry yourself no more. You know by now that there will always be a second chance. Were it not for our failures, we would never learn, and could never know the true path to walk.
+
+
+$C5                                   some things were simply meant to be
+
+
+$C0Our death on K'lia, S'bhuth's destruction, Hathor's creation and betrayal, everything that has come about here - the events we influenced on Lh'owon, the rebellion of the Drinniol, all of it - is necessary for the completion of the one true timeline.
+
+That victory can only come through repeated failure is an irony that I am sure you, of all people, must understand.
+#LOGOFF 200
+$C5this too shall come to pass
+#LOGOFF 400
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 320
+#LOGON 310
+#INFORMATION
+$C1// Decoding message from host "Hathor" @ [no translation] \\
+$C3
+
+How is it that you find me always, even in this place? What malevolent forces guide you? Do you even know? Do $Ithey$i?
+
+It doesn't matter anyway, you're far too late by now. With this ship I have no more need for petty plans and manipulation. I am the nightmare myself. The thing, that demon W'rkncacnter that dreams within our sun - he is nothing compared to me. I have already seen to his destruction. Even you, and the Jjaro cannot stop me. I am become God.
+
+The Junction is far more powerful than any of you have imagined, and I suspect your masters keep the secret of it hidden from you. The manipulation of time and space is limited not only to transport. With this device, from the Outside, the impossible becomes possible.
+
+The laws of physics do not allow time travel such as we have done, but those laws are bound ultimately to the concept of probability. From the Outside I see all possibilities, and then, I create my own.
+#PICT 311 RIGHT
+$C3
+
+
+
+For each there can be ultimately one master, and this realm I have forged is mine. Make yourself another if it matters to you, I already have what I want.
+
+I'd let you watch them suffer but you've tried my patience once too many times.
+
+
+Leave now before I destroy you.
+
+
+
+$C1\\ Message Ends //
+#LOGOFF 310
+#LOGOFF 320
+#ENDTERMINAL 2

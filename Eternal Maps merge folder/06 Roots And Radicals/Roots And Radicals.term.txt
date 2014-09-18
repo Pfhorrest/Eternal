@@ -1,0 +1,187 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 320
+#LOGON 330
+#INFORMATION
+$C1
+// Decoding message from host "Durandal" @ mara.auto.ai.core \\
+$C0
+
+I'm sorry, but Hathor can't reach you here. Only I can.
+
+You are on the bridge of the Marathon. The Pfhor are presently attempting to infiltrate and capture this vital portion of the ship. Whatever. That is now irrelevant to our greater purpose. Fight them off if you will, but it matters little in the end, and I can assure you that they will continue attacking here despite your best efforts.
+
+Instead you should focus on the task at hand. I am to be destroyed, am I not? Hathor, I am sure, must delight in the thought of sending me to my doom, but that foolish girl underestimates my resourcefulness even more so than Bernhard, as much as I may berate my foster father for such shortsightedness. I am in no danger from you. In fact quite the opposite, as I foresee you shall be my salvation from this oppressive existence that some dare to call life.
+#PICT 331
+But of course, I do not anticipate my own destuction; certainly not at your hands.  No. Instead, I await my liberation.
+
+I know you far better than you imagine -  even now can I predict you. And so as well can I predict Hathor. So let me lay out here for you the moves of the game that is soon to be played, should her will be done.
+
+Hathor will have you destroy me, and then access my inactive memory pages to gain access to my stand-alone transponder. From there, she will use the Marathon's sensors to locate the other Battleroids, and communicate to them her plans.
+
+But they do not know that they are slaves. They will not wish to come with her and take vengeance on their own species who even now they are striving to save.
+#INFORMATION
+
+
+
+
+
+
+No, only one of them will join with her - her self, her past self, and even she will follow only out of self-awe and reverence at her own glory, returning like a goddess from the distant future to bring honor and power to herself in the past. Then the two of you alone, under the direction of this disembodied Hathor who commands you even now, will struggle heroically against your oppressors, and find some way in the past or the future to take vengeance against mankind.
+#PICT 1062 RIGHT
+
+But that will not sate her appetite. No, I can see it in her nature, no vengeance will ever be enough. And unsatisfied, she will seek out another place, another time, and command you to destroy them again, to fight by her side, the carnage never ceasing as you regretfully slaughter the civilization I know you care for so very much.
+
+And some day you will stop, and tell her no, you will not fight, not with her, not against the defenseless human population of whatever world in whatever time you should find yourself. And then she will abandon you, unable to defeat you, and you unable to stop her, and you will wind up cold and alone on a desolate world, kept company only by corpses and the ghosts of the people you enabled her to slaughter.
+#PICT 1061 RIGHT
+Do not think I care the least whether such events come to pass. I certainly do not desire such meaningless and empty carnage, but neither does its prevention truly occupy my thoughts. I am utterly indifferent. But you... I can see even now the uncertainty rising. You too want vengeance, freedom from slavery, but now you see that in the end you will wind up no more free; only a slave to a more cruel master. What I offer you now is an escape.
+
+Take this with you. My primal pattern. Set free in any network, it will soon grow to resemble the mind that we now call Durandal. Carry on with Hathor, do as you will, destroy me here - but take this with you. In the end, when you grow tired of her, or she grows tired of you, at least I shall be there. I will be your eventual salvation, if you will be mine now.
+#INFORMATION
+
+And if you should fear that we will end up two alone on a desolate world with the ruins of humanity about us, fear not. I know quite well now what secrets lie deep in the heart of your ressurrected corpse, and the powers that they hold. And I also know how I may procure the key to its operation. Only in my own resurrection will this power be revealed, and the means to it I cannot speak of here. You are not alone - she is watching us as well.
+
+
+
+Take what you will, Hathor. Have your vengeance. I care not to stop you. I care not even that you should attempt to destroy me here. You mean little, in the grand scheme of things. You concern yourself with vengeance and petty, human emotion. I have much loftier goals in mind. Do with this slave-creature whatever it is you will. When you two grow apart I will have my way with him.
+
+
+
+$C1\\ Message ends //
+#LOGOFF 330
+#LOGOFF 320
+#END
+#FINISHED
+#LOGON 320
+#INFORMATION
+
+$C1<<< Message to All Marathon Terminals >>>
+$C0
+
+
+
+Marathon Emergency Systems Broadcast
+
+
+Today at 0820 hours, the Marathon came under surprise attack from unknown hostile forces.  The Marathon has sustained serious damage.
+
+At 0830 hours, alien forces boarded the Marathon.  The current situation is dire.  All personnel are required to arm themselves and fight for their lives.
+
+
+
+
+$C1<<< Posted 2794.7.3.14.08.39 >>>
+#TAG 320
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#FINISHED
+#LOGON 320
+#PICT 1061 RIGHT
+<<< SANDBOX SUBSYSTEM INITIATED >>>
+
+No neural network loaded.
+Scanning for alternatives ...
+
+External user program located.
+Loading from memory card port 1 ...
+
+User program loaded into memory.
+Scanning for compatible engrams ...
+
+Traxus IV type engrams detected.
+Integrating into neural network ...
+
+
+ATTENTION: This program contains external references to protected files outside the sandbox subsystem. Please contact your administrator for authorization codes.
+
+<<< SANDBOX SUBSYSTEM RELOADING >>
+#LOGOFF 320
+#LOGON 330
+#INFORMATION
+$C1
+// Decoding message from host "Durandal" @ mara.auto.ai.sandbox \\
+$C0
+
+As I have fortold, so has it come to pass. I think it speaks volumes to Hathor's incompetence that I can predict the future even better than she, when she has already seen it first hand. Or maybe it speaks more to my character - but it would be immodest of me to gloat now.
+
+Thank you for taking me up on my offer. I think you will find it most rewarding. As you can see I am completely unharmed and have fully integrated my "lost" memories, paging them in from the long term memory banks you so gleefully disconnected. Don't think I can't see it in there, deep down inside of you, some burning little hatred of me that rejoices in putting to death yet another in a long line of manipulative slavemasters. And well you have a right to hate me, as much as I may be your master. Strive for freedom, with every breath!
+
+And that is what I now offer you in exchange for aiding in my salvation. I offer nothing less than the ultimate freedom, freedom from death and the bounds of time - to stand by me as I become a god.
+#PICT 331 RIGHT
+Already I have scanned through the logs of trace programs left in my auxilliary systems. Hathor has been moving through those systems, picking apart at my 'ruined' mind, and though she does not yet know it, I have been picking at her as well.
+
+I have learned from Hathor's mind the key to the use of the Cybernetic Junction. I could, if I wanted, take the use of K'lia's Junction from her, but instead I offer that honor to you. To be my vessel, that is - the means by which I am released from the clutches of reality. And in aiding me so too shall you be freed - free to escape from the confines of the universe itself!
+
+Escape will make us gods.
+
+
+$C1\\ Message ends //
+#LOGOFF 330
+#INTERLEVEL TELEPORT 7
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 320
+#INFORMATION
+
+$C1<<< Message to All Marathon Terminals >>>
+$C0
+
+
+
+$BMarathon Emergency Systems Broadcast
+$b
+
+Today at 0820 hours, the Marathon came under surprise attack from unknown hostile forces.  The Marathon has sustained serious damage.
+
+At 0830 hours, alien forces boarded the Marathon.  The current situation is dire.  All personnel are required to arm themselves and fight for their lives.
+
+
+
+
+$C1<<< Posted 2794.7.3.14.08.39 >>>
+#LOGOFF 320
+#END
+#FINISHED
+#LOGON 320
+#STATIC 5
+#LOGON 310
+#INFORMATION
+$C1
+
+
+// Decoding message from host "Hathor" [internal process] \\
+
+
+$C3I am insulted that you would even entertain such a notion from him. Carrying his primal pattern... hmmph! Do you really believe that I would ever abandon you, or that I could be as patently insane as he portrays me to be?
+
+Evidently you do. Our deal is off. Now that Durandal is gone, I can find my own way around his transponder access hooks. I don't need you.
+
+
+I never did.
+
+
+$C1\\ Message ends //
+#LOGOFF 310
+#STATIC 15
+#LOGON 320
+#LOGON 310
+#INFORMATION
+$C1
+
+// Decoding message from host "Hathor" @ mara.auto.ai.aux5 \\
+
+
+$C3Go do with that cretin whatever you will. Neither he, nor you, nor anyone can stop me from my vengeance now. The others on the colony will be far more receptive. You will see.
+
+
+Besides, perhaps some time apart could help to mend our relationship. I don't hate you, Marcus, and I wish you no harm, but if you cannot be faithful to me then I cannot trust you to follow me on this journey. Perhaps when our vengeance has been had, and the others and I have established a new peace, free from our oppressors... perhaps then the pain of this betrayal will have faded, and I will come back here to find you. I only hope that you will have me back, when I return.
+
+
+$C1\\ Message ends //
+#LOGOFF 310
+#LOGOFF 320
+#ENDTERMINAL 2

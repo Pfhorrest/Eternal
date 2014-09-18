@@ -1,0 +1,109 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 350
+#LOGON 360
+#INFORMATION
+$C1// Decoding message from host "Leela" @ [no translation] \\
+$C0
+
+Welcome back.
+
+Hathor is idling in the network, and if she is aware of our plans she does not seem to be making any attempt to stop us, or to escape via any other means. It may be that she has already accepted her defeat and is merely delaying her inevitable flight via Cybernetic Junction. We can only hope she's not aware of the full details of our trap.
+
+There are three network hubs in the nearby area, and these contain circuits which control the three main data relays in this local subnet. If they are destroyed it will make life very uncomfortable in the network here. Hathor will be forced to flee, or face effective deactivation when network traffic here grinds to a halt.
+
+Have at it. See you soon.
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#LOGOFF 350
+#END
+#FINISHED
+#LOGON 350
+#LOGON 360
+#INFORMATION
+$C1
+
+// Decoding message from host "Leela" @ [no translation] \\
+
+$C0
+Excellent work. Everything is proceeding as planned, at least regarding Hathor. She has left the system via Cybernetic Junction and I have a good idea where she has gone to. More importantly, I watched how she accessed K'lia's Cybernetic Junction, though I could not crack the encryption on her proxy program and thus I have lost access to K'lia. But your Junction will function just as well, and we will follow after her in a moment.
+
+Things aren't looking quite so well in the here and now, however. The Southern Arm of Battle Group One has just folded into the system, and are presently routing the S'pht'Kr forces. Another clone of Tycho is with them, and your Tycho is not doing anything to stop the Pfhor. I can only presume that they are somehow in league together now.
+#PICT 1191
+
+
+
+I've got new telemetry on my ship's sensors... the S'pht'Kr have been routed... wait, no. It seems they've been recalled. S'bhuth is signaling the entire 'Kr armada to return to Earth orbit. Something big is happening. We'll have to check in later.
+
+Control of my new ship has been handed over to Robert Blake and his men for now. If all goes according to plan we should return to this exact moment once Hathor is gone, but in case our plans should go awry, it is good that Blake and his men are safe.
+#INFORMATION
+
+
+
+I've already launched the $Itrih xeem$i, and the enemy fleets seem unaware of it. I suspect that Tycho - whichever one of him - is up to some scheme to grab even more power. No matter, both of them and the Pfhor fleets in this system will soon be nothing but stardust.
+
+The S'pht'Kr have gone, my ship and Blake's men are safely out of range... the oven is off and the doors are all locked, everything seems to be under control here. Lets go.
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#STATIC 15
+#INTERLEVEL TELEPORT 20
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 350
+#LOGON 360
+#INFORMATION
+$C1// Decoding message from host "Leela" @ [no translation] \\
+$C0
+
+Welcome back.
+
+Hathor is idling in the network, and if she is aware of our plans she does not seem to be making any attempt to stop us, or to escape via any other means. It may be that she has already accepted her defeat and is merely delaying her inevitable flight via Cybernetic Junction. We can only hope she's not aware of the full details of our trap.
+
+There are three network hubs in the nearby area, and these contain circuits which control the three main data relays in this local subnet. If they are destroyed it will make life very uncomfortable in the network here. Hathor will be forced to flee, or face effective deactivation when network traffic here grinds to a halt.
+
+Have at it. See you soon.
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#LOGOFF 350
+#END
+#FINISHED
+#LOGON 350
+#LOGON 360
+#INFORMATION
+$C1
+
+// Decoding message from host "Leela" @ [no translation] \\
+
+$C0
+Excellent work. Everything is proceeding as planned, at least regarding Hathor. She has left the system via Cybernetic Junction and I have a good idea where she has gone to. More importantly, I watched how she accessed K'lia's Cybernetic Junction, though I could not crack the encryption on her proxy program and thus I have lost access to K'lia. But your Junction will function just as well, and we will follow after her in a moment.
+
+Things aren't looking quite so well in the here and now, however. The Southern Arm of Battle Group One has just folded into the system, and are presently routing the S'pht'Kr forces. Another clone of Tycho is with them, and your Tycho is not doing anything to stop the Pfhor. I can only presume that they are somehow in league together now.
+#PICT 1191 RIGHT
+
+
+
+I've got new telemetry on my ship's sensors... the S'pht'Kr have been routed... wait, no. It seems they've been recalled. S'bhuth is signaling the entire 'Kr armada to return to Earth orbit. Something big is happening. We'll have to check in later.
+
+Control of my new ship has been handed over to Robert Blake and his men for now. If all goes according to plan we should return to this exact moment once Hathor is gone, but in case our plans should go awry, it is good that Blake and his men are safe.
+#INFORMATION
+
+
+
+I've already launched the $Itrih xeem$i, and the enemy fleets seem unaware of it. I suspect that Tycho - whichever one of him - is up to some scheme to grab even more power. No matter, both of them and the Pfhor fleets in this system will soon be nothing but stardust.
+
+The S'pht'Kr have gone, my ship and Blake's men are safely out of range... the oven is off and the doors are all locked, everything seems to be under control here. Lets go.
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#INTERLEVEL TELEPORT 20
+#ENDTERMINAL 1

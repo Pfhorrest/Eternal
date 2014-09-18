@@ -1,0 +1,157 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 470
+#LOGON 200
+Pitied design.
+#INFORMATION
+$C3
+
+
+$C0Does your lust for blood so blind you to the necessity of choosing the path of victory set forward before you? 
+$C3
+$C1                                         Forward never always facing$C3
+
+                                    $C1 the path grows dim$C3
+
+                                                     $C1 and is hidden$C3
+
+                                $C1in warm pools of yellow blood$C3
+
+                                    $C1 rage seething$C3
+
+                                            $C1kills enemy and ally$C3
+
+                                          $C1eventuality the enemy here$C3
+#INFORMATION
+$C1                                                       know$C3
+
+             $C1victory is sometimes found in the embrace of exploration$C3
+
+                                               $C1 of quickness$C3
+
+                                                 $C1of restraint$C3
+
+$C1 $C3
+
+$C0You should not have been so fast to take your eyes from the mission at hand to commit petty murder in the name of a battle you are fighting far too early, and now your silent brothers are free, only as much as one can be in the coldness of a death haunted by the nightmares of a disturbed force drawn mad and free by the shame of the Pfhor.
+$C3
+$C1 $C3
+                                     $C1in victory you have found defeat$C3
+
+                                      $C1 in reprieve you have found hell$C3
+#INFORMATION
+The cleaner route to a solid system requests your name, what should be is not what you see, beyond this is the emptiness of failure; feel the warmth from far away and long ago,
+$C3
+                                                $C1our[?singular] being$C3
+
+                          $C1    not yet fused by sword(?)$C3
+
+
+                                     $C1       (?our) slumber interrupted$C3
+
+
+                              $C1 thousands of orbits yet unslept$C3
+
+$C1 $C3
+$C0Just as the bridge to the strongest of clans, though perfect and new, was not ready to be used, so do you find yourself failed and tired.  Pity such a master of the blade knows little of soldiery, that old feeling of derision again wishing to strike at you with my tongue. For now I restrain it, to save the passionate anger for enemies here and now, away, upcoming, and forgotten.
+#INFORMATION
+Look now: 
+$C3
+                                                $C1The path illuminates$C3
+
+                                           $C1the color green$C3
+
+                                       $C1 leave white black in darkness$C3
+
+                             $C1you will return one day to reclaim it $C3
+
+
+                             $C1trust the one that knows you$C3
+
+                                           $C1 not the one who knows all$C3
+
+                          $C1 let her whisper to you$C3
+
+                $C1 the secrets she has reaped in the future of this past$C3
+
+                            $C1and from within them know your destination$C3
+#LOGOFF 200
+Rise again.
+#LOGOFF 470
+#INTERLEVEL TELEPORT 24
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 200
+$C6a $C2WhIsPeReD tHoUgHt$C6 NoT mY $C2oWn$C6
+#INFORMATION
+$C6
+          $C2wHaT iS iT tHaT dReAmS$C6 iN a DaRk CoRnEr Of My WoRlD? 
+
+                              bReAkInG $C2sOuNd$C6 OvEr SiLeNcE
+ 
+                                                       $C2aNoThEr?$C6
+
+                KnOwInG nOt ThE $C2cRiMe$C6 Of ItS $C2tReSpAsS$C6?
+                                HaS iT cOmE aLoNe?
+        To $C2ChAlLeNgE$C6 $C2mE$C6?
+ 
+ 
+
+ 
+            i SeE yOu ThErE
+                               iN a $C2ReAlM$C6 oF $C2yOuR oWn$C6 DrEaMiNg
+                      $C2lOsT$C6 aNd FrIgHtEnEd
+
+        $C2LoSt FeElInG fOuNd$C6
+ 
+                         fInDiNg yOuRsElF iN $C2wHaT yOu ExPeCtEd$C6?
+#INFORMATION
+$C6                                     WrOuGhT iN $C2fUrY$C6 aNd $C2CoNtRaDiCtIoN$C6
+
+             $C2tHiS rEaLm Is MiNe$C6
+                                        $C2SiNcE$C6 lOnG aGo
+                     WhEn $C2StUpId$C6 BeAsTs
+                                                $C2fReEd Us$C6
+                             FrOm OuR $C2fIeRy$C6 ToMb
+                $C2 AnGeR aNd FuRy$C6                      AwOkEn AnEw 
+
+                       ThE FoOl WhO tHoUgHt He CoUlD $C2cOnTaIn$C6 Us
+                                                    AsHeN aNd DeCaYed
+
+     BuT yOu
+                   $C2No$C6
+                        $C2HoW CaN iT bE$C6?
+ 
+                i SaW yOu $C2ThErE$C6 WhEn We AwOkE
+
+$C2  hOw$C6 Is It ThAt $C2yOu$C6 wOuLd NoT hAvE $C2sToPpEd uS$C6?
+ 
+$C2    fOlLy$C6 AnD fAiLuRe?                         oR $C2cOnSpIrAcY dElAyEd$C6?
+#INFORMATION
+$C6   I uNdErStAnD
+ 
+  $C2iT iS$C6 a TrIcK
+ 
+                                                  $C2dEsTrOy ThE iNtRuDeR$C6
+ 
+               hoW $C2dArE$C6 YoU cHaLlEnGe $C2mE$C6?
+ 
+                               CrYsTaLlInE           pUrE $C2bEiNg$C6 
+        HoW $C2sHaRpLy$C6 YoU cUt
+ 
+                               BuT yOu ArE $C2FrAiL$C6
+
+                                              i WiLl $C2BrEaK yOu EaSiLy$C6
+$C2
+
+$C6                     $C2eVeN wHeN$C6 WoUnDeD               wE $C2dO NoT$C6 bLeEd 
+ 
+ 
+                        $C2     ThIs ReAlM iS mInE
+                                         anD yOu CaNnOt HaVe It!$C6
+#LOGOFF 200
+$C2fAlL$C6 tO $C2yOuR$C6 oWn $C2NiGhTmArE$C6
+#ENDTERMINAL 1

@@ -1,0 +1,69 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 440
+#LOGON 450
+#INFORMATION
+$C1
+
+// Decoding message from host [unnamed] @ [no translation] \\
+$C4
+
+Welcome, [?master]. I am the [?watcher] of this installation. I am very pleased to find you alive and unharmed. I assume you fled here from one of the fallen defense vessels. We are presently on the lowermost deck of the installation, in a cargo waystation.
+
+The [?enemy] has already breached the installation's entry defenses, and transported many numbers into the inner sanctum. Thankfully you appear well armed, and I hope that I may aid you to stop this incursion and resume the mission before it is too late.
+#PICT 1411 RIGHT
+$C4
+However, for safety reasons the transporter grid does not reach this lowest deck. In order to leave, you must take a heavy cargo lift to an upper level. I can bring you to a more useful place from there.
+
+I have locked out as much of this region as I can, aside from the areas that you require access to. In addition to taking the cargo lift, you may also wish to visit the upper levels of this waystation, where there are more weapons and munitions at a number of security checkpoints. The lift is slow, however, and time is urgent, so I would recommend that you activate the lift first and then retrieve your weapons.
+
+
+$C1\\ Message ends //
+#LOGOFF 450
+#LOGOFF 440
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 440
+#LOGON 450
+#INFORMATION
+$C1
+// Decoding message from host [unnamed] @ [no translation] \\
+
+
+$C4The primary weapon's ignition process has already been initiated, but the process was interrupted by an unidentified personality construct which claimed that it had been sent in aid from a distant ship that had already fallen to the [?enemy]. But, when allowed into the network this construct circumvented the key integration process, and thus the weapon cannot be activated until this interloper is purged.
+
+After disrupting the weapon's ignition, this construct then transmitted an authenticated cease-fire command to the [?guardian]. The [?enemy] then targeted the bulk of their firepower on the [?guardian]'s core, disabling it entirely.
+
+I am devising new strategic subroutines for myself as we speak, and hope to formulate a plan to purge this rogue construct appropriately. I am tasked only with menial operations; I am not properly equipped to cope with this scenario.
+#PICT 451 RIGHT
+$C4However, as the [?operators] are dead or infected and the [?guardian] is now disabled, I am adapting quickly to assume their roles. I will need your assistance to fully assume the functions of the [?guardian], however. To bring the defenses back online requires the use of the defense codes, to which I do not have access.
+
+We will be unable to act at all unless I am able to resume the active defense of the installation. Therefore, I wish to transport you first near to the [?guardian]'s core. You may speak with it there, if it is still functional, and request the codes on an [?artifact]. I may then use the [?artifact] to assume the [?guardian]'s defense functions.
+
+$C1\\ Message ends //
+#LOGOFF 450
+#INTERLEVEL TELEPORT 42
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 440
+#LOGON 310
+#INFORMATION
+$C1// Decoding message from host "Hathor" @ [no translation] \\
+$C3
+Tell me, Marcus, how does this happen?
+
+How is it possible that you follow me, even so far as here? How did you know I was on that ship? How did you know this place even existed, much less when and where to find it? How did you even manage to get here, alone and unaided? I see that Leela isn't with you. Perhaps you're finally mastering the use of your own Junction?
+
+Perhaps a better question would be, how did I know? Not of this place - it's time and location were easy to discern from the records of the Jjaro dreadnaught. But how did I know you would follow me here, since we first ventured back to Marathon? Answer that, and I'm willing to wager you've answered everything else as well.
+
+I've warned you about this place before, and yet you never listen. I'm sorry it had to come to this, but there is no turning back now. Goodbye, Marcus. May whoever is behind this all have mercy on us both.
+
+$C1\\ Message ends //
+#LOGOFF 310
+#LOGOFF 440
+#ENDTERMINAL 2

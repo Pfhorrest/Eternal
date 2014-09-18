@@ -1,0 +1,31 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 440
+#LOGON 450
+#INFORMATION
+$C1// Decoding message from host [unnamed] @ [no translation] \\
+$C4
+
+Excellent work. The self-destruct on the alien vessel has been successfully triggered, and the [?enemy]'s primary means of escape has been obliterated.
+
+Unfortunately, the remainder of my efforts to turn back the [?enemy] within the installation have proven unsuccessful. Many key facilities are entirely overrun, and even my sensor network has been compromised. To make matters worse, the rogue [?operator] I referenced earlier has been coordinating attacks against my systems as well.
+
+The remaining airborne alien vessels have retreated from the Sphere, after deploying a probe of some sort into the installation's stellar power core. I believe the probe may be an implementation of the $Itrih xeem$i nova research device. Though I am unversed in the intricacies thereof, I am positive that the effects of such a device in the Sphere's main power core would at least annihilate the installation - and possibly a significant portion of the galaxy as well.
+#PICT 1491 RIGHT
+$C4
+
+As the sole surviving member of your biological species, it is imperative that you evacuate the installation immediately. However small the percentage of chance that you will fare better outside than in when the nova device detonates, it is a margin of safety that we must attain if it is at all possible.
+
+To that end, I have brought you here. This deck is the highest safe elevation that the transport grid will reach; further elevations are forbidden due to atmospheric deficiency. But up the slope before you is a Mount Point where a second, smaller alien vessel has docked. As it is the only vessel accessible from the surface of the Sphere, it is now your only safe means of escape.
+#PICT 1491 RIGHT
+$C4
+The [?enemy] has fought back many of the alien landing parties, and they have in turn retreated to this one ship as their own last hope. Unfortunately for them the vessel is far too small to accommodate their numbers, but they are not a priority; they have shown great hostility toward us, and may fall to the [?enemy] for all it matters.
+
+You must make your way up this slope to the Mount Point on foot. The footpaths were neither well made nor have they been maintained, but there is a [?node] at the peak where I will contact you before you leave. I wish you the best of luck. May your species survive.
+
+
+$C1\\ Message ends //
+#LOGOFF 450
+#LOGOFF 440
+#ENDTERMINAL 0

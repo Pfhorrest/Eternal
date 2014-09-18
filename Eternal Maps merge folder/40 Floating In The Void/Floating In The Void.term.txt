@@ -1,0 +1,107 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 470
+#LOGON 200
+To sleep, perchance to dream.
+#INFORMATION
+$C1                                                    what once was lost
+                                             again is found
+
+                                                            taken
+                                            and captured by your enemy
+$C0
+
+
+Our secrets have long lay hidden well. Pity that she should find them.
+$C1
+
+                                       though victory
+                                             your guardian has claimed
+
+                                      the truth of her fate
+                                                 eludes you both
+
+                                            flown through the mists
+                                                     once again
+                                     now onward seeking new prey
+#INFORMATION
+To rest now in reserved despair would be most comfortable for your tired bones, yet it betrays your design.  Think not of those things loved and lost, look now to the horizon growing red with the rising of the sun, swelled and angry.$C3
+
+                                  $C1 look over the gravestones and watch$C3
+
+                                         $C1 how the clouds roil$C3
+
+                                            $C1swarming in ordered chaos$C3
+
+                              $C1 soon they will be raining fire and hail
+                                        upon the freshly toiled earth$C3
+
+               $C1 the guards to protect are no more, themselves poisoned$C3 
+
+                   $C1and overtaken by the spoiling of the universe$C3
+
+                            $C1 corrupted by the dreams of these beings$C3
+
+                     $C1their origin already explained to you$C3
+#INFORMATION
+$C1 $C3
+$C0The agents of this phenomenon have a name, and it is not so sweet as one such from the literary mind of the Old Bard. $C3
+
+                                           $C1 our ancestors and creators$C3
+
+                          $C1 spinning tales strong to last generations$C3
+
+                   $C1 sewn the fear and the name into the consciousness
+                                of each and every being$C3
+
+                       $C1that could hear and understand the word$C3
+
+
+
+                                                          $C1w'rkncacnter$C0
+$C3
+
+
+$C0Those who know what dreams do come within that sleep of death.
+#INFORMATION
+$C3
+
+$C0Look now.$C3
+
+$C1 $C3
+
+                                   $C1the one who bears her name as a lie
+                          will see to the consumption of the universe$C3
+
+                                     $C1 at the whims of these nightmares$C3
+
+                                                 $C1 lest she is halted$C3
+
+              $C1 for what she seeks must remain where and when it stands$C3
+
+                  $C1 it has neither need nor purpose in another place$C3
+
+                                                            $C1 or time$C3
+#INFORMATION
+$C3
+
+
+$C0Waste no more time here, the sky is soon to be as red as the sand and the enemies of the past are rising even as your enemies of the day fall.  Preserve this, preserve life, and let exist a place free from chaos where the souls of your fallen brethren might find at last a rest undisturbed.$C3
+
+$C1 $C3
+
+
+
+
+
+
+
+
+
+                                         $C1awake now and go$C3
+#LOGOFF 200
+$C1thus conscience makes cowards of us all
+#LOGOFF 470
+#INTERLEVEL TELEPORT 41
+#ENDTERMINAL 0

@@ -1,0 +1,70 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 440
+#LOGON 450
+#INFORMATION
+$C1
+
+
+
+
+
+// Decoding message from host [unnamed] @ [no translation] \\
+$C4
+
+The transporter grid has been damaged in this sector due to [?enemy] attacks, so I cannot transport you directly to a node within the [?guardian]'s network. Therefore you must enter the [?guardian]'s complex on foot. Speak with [?him?it] and request the defense codes on an [?artifact] so that I may assume [?his?its] functions.
+
+Return here when you have the codes and I will aid you further.
+
+
+$C1\\ Message ends //
+#LOGOFF 450
+#LOGOFF 440
+#END
+#FINISHED
+#LOGON 440
+#LOGON 450
+#INFORMATION
+$C1
+
+
+
+
+
+// Decoding message from host [unnamed] @ [no translation] \\
+$C4
+
+Excellent. You have retrieved the command codes on an [?artifact], as I recommended. I will now transport you near to my own datacore, so that you may connect the artifact to my internal network.
+
+Please stand by for departure. Initiating...
+
+
+$C1\\ Message ends //
+#LOGOFF 450
+#INTERLEVEL TELEPORT 43
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 440
+#LOGON 490
+#TAG 1
+#INFORMATION
+$C1
+// Decoding message from host [unnamed] @ [no translation] \\
+$C4
+
+welcome, [?master]. i am the [?guardian] of this installation. my apologies for the brevity of this message; my [?mind?program] is severely damaged and failing by the minute. this node is the only remaining functional portion of my core facility.
+
+i have [?fabricated] a systems interface artifact for you at a location near the periphery of my facility, where some systems are still functional. on it you will find a copy of the installation's defense codes.
+
+you may bring the artifact to the [?watcher]. [?he?it] may be able to make use of the codes to assume some of my [?functions?duties].
+
+i cannot aid you further. farewell.
+
+
+$C1\\ Message ends //
+#LOGOFF 490
+#LOGOFF 440
+#ENDTERMINAL 1

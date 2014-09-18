@@ -1,0 +1,45 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 350
+#LOGON 360
+#INFORMATION
+$C1
+
+// Decoding message from host "Leela" @ [no translation] \\
+$C0
+
+Outside these windows you can see the starboard wingtip of the Pfhor capital ship $Iki'Lhara$i. The ship is already operational and fully prepared for launch, and it is only awaiting a launch program to be loaded from the docking bay here. This would normally detail what crew and cargo are to be beamed aboard, and the ship's formal mission, but I'm going to give you something a little different to upload.
+
+To your left is an uplink card I have just manufactured here. It is compatible with the Pfhor ship's systems. When you insert it into the ship's command uplink, located in this wing, it will open a relay for me to transfer my program from my downed ship into this one, and I can then take control of the entire ship from there.
+#PICT 361 RIGHT
+The insertion process is fairly easy. Near the command uplink is a switch that will open access to a nearby control center. This control center will allow you to unlock the command uplink, and you can then insert the card I have made. Once it is inserted you must activate another switch in the control center to confirm the initiation of the launch program. That will open the relay and allow me to transfer onto the ship.
+
+Since the ship has not been staffed or stocked yet, you should meet only minimal resistance inside. When you are finished, report to a terminal near the fore end of this sector and I will teleport you back to the starport, where we can continue our work against Hathor.
+
+$C1\\ Message ends //
+#LOGOFF 360
+#LOGOFF 350
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#FINISHED
+#LOGON 350
+#LOGON 360
+#INFORMATION
+$C1
+
+
+
+// Decoding message from host "Leela" @ [no translation] \\
+$C0
+
+Good work. My program is now fully integrated into this ship's databanks and I am set to launch any second. I am already beaming Blake and his men from their present positions into a safer part of this ship.
+
+Now, we must turn back to Hathor...
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#INTERLEVEL TELEPORT 19
+#ENDTERMINAL 1

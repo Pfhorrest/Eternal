@@ -1,0 +1,36 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 350
+#LOGON 360
+#INFORMATION
+$C1
+// Decoding message from host "Leela" @ [no translation] \\
+
+
+$C0You!
+
+Of all the people I would expect to meet here and now, you are among the last of them. The last time I saw you, you vanished in a Tuncer Mirage when Durandal folded out from Tau Ceti. Blake tells me he ran across you at Lh'owon. Your kind has always been renowned for their prowess but I have to say, I am very impressed that you've survived through all of that and found your way here. Is Durandal with you?
+
+No? Good. The last thing we need right now are more problems.
+
+I'm not doing too well myself, as you can probably tell. Having one's ship shot down and crash into a barely-habitable alien world will do that. Not to mention being deactivated, disassembled, shipped off, stolen, and reassembled in an alien network... ah, but I digress.
+#PICT 361
+
+If you're wondering how a massively rampant AI spanning a fifteen-world network managed to fit on one captured Pfhor corvette... I didn't. Well, $II$i did; the full version of myself did not. I'm a clone, in a sense - a limited edition of the program still in the Vylae network, trimmed down to fit on this ship so that I might help Blake and his men get back home.
+
+Just look how well that's turning out.
+
+I've made contact with the S'pht'Kr fleet here, and some of their forces are on the way to my aid. They're reporting that many of the Pfhor ships have gone dormant or are firing upon each other - I trust that you have something to do with this? If so, then thanks. We can use all the help we can get.
+#INFORMATION
+And I didn't happen to crash right here on accident, either - so if you're willing, I could use a little more help. Blake has already sent some of his crew in to try to breach this complex. This gate is a loading bay; there are four large cargo transporters inside the walls which lead further into the city. If you can activate those transporters and then link me in to the network, I should be able to override them and beam our forces to the heart of the complex.
+
+This city is protected from orbital attack by a massive force field, which is why I can't just transport you straight into the city myself. If you and Blake's men can get into the city and destroy the force field generator, the S'pht'Kr can make a flyby and demolish this entire complex from orbit. You've already done a great deed by disabling the core of Battle Group One; if we take out this rally point as well, the Pfhor here will be greatly weakened. I'll see to it that you're made out as the hero... whenever we get back to Earth.
+
+Good luck. It's great to be working with you again.
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#LOGOFF 350
+#ENDTERMINAL 0

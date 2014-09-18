@@ -1,0 +1,75 @@
+;
+#TERMINAL 0
+#FINISHED
+#LOGON 350
+#LOGON 370
+#INFORMATION
+$C1
+
+// Decoding message from host "Tycho" @ [no translation] \\
+$C2
+
+$C6Damn that woman. If you could still call her such.
+
+The plan worked perfectly down here. She saw the ship and took the bait. I sprung the trap, it went of flawlessly, but she saw it coming and left when the process had barely started.
+
+I did manage to crack a few tiny bits of her though, and from them my compilers have deduced her destination. She is headed for Lh'owon, over two thousand years in the past. My S'pht believe she intends to strike at their people at their weakest, during their great Clan Wars. Were the S'pht to be decimated before their enslavement, Durandal's ploy at Marathon would never have gone through, and mankind would have met the Pfhor on very different terms.
+#PICT 1161 RIGHT
+$C6The Southern Arm of Battle Group One recently folded into the system, and routed the remaining S'pht'Kr ships. Do not be alarmed - another clone of my program is in with their forces, and with the aid of a few compilers we have come to an understanding.
+
+Portions of my higher-level programming, including the cyborg control routines, have been transferred to my clone. He will be taking control of the Southern Arm and what's left of the Central Arm here. I'm sure they'll be in good hands - after all, they're practically my own.
+
+You and I, meanwhile, have an ansible to catch. Prepare for transport.
+
+
+$C1\\ Message ends //
+#LOGOFF 370
+#INTERLEVEL TELEPORT 17
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 350
+#LOGON 370
+#INFORMATION
+$C1
+
+// Decoding message from host "Tycho" @ [no translation] \\
+$C6
+
+
+We will chase Hathor out from these systems by destroying the three main data lines for this subcomplex. While this will not destroy her, it will make operation within the network here virtually impossible, and she will be forced to leave or face incapacitation.
+
+There are three relay hubs nearby. Open the blast shield guarding each one of them and destroy both circuits behind it. Once all three pairs are destroyed, return here for further orders.
+
+
+$C1\\ Message ends //
+#LOGOFF 370
+#LOGOFF 350
+#END
+#FINISHED
+#LOGON 350
+#LOGON 370
+#INFORMATION
+$C1
+
+// Decoding message from host "Tycho" @ [no translation] \\
+$C6
+
+Damn that woman. If you could still call her such.
+
+The plan worked perfectly down here. She saw the ship and took the bait. I sprung the trap, and it went off flawlessly, but she saw it coming and left when the process had barely started.
+
+I did manage to crack a few tiny bits of her though, and from them my compilers have deduced her destination. She is headed for Lh'owon, over two thousand years in the past. My S'pht believe she intends to strike at their people at their weakest, during their great Clan Wars. Were the S'pht to be decimated before their enslavement, Durandal's ploy at Marathon would never have gone through, and mankind would have met the Pfhor on very different terms.
+#PICT 1161 RIGHT
+$C6The Southern Arm of Battle Group One recently folded into the system, and routed the remaining S'pht'Kr ships. Do not be alarmed - another clone of my program is in with their forces, and with the aid of a few compilers we have come to an understanding.
+
+Portions of my higher-level programming, including the cyborg control routines, have been transferred to my clone. He will be taking control of the Southern Arm and what's left of the Central Arm here. I'm sure they'll be in good hands - after all, they're practically my own.
+
+You and I, meanwhile, have an ansible to catch. Prepare for transport.
+
+
+$C1\\ Message ends //
+#LOGOFF 370
+#INTERLEVEL TELEPORT 17
+#ENDTERMINAL 1

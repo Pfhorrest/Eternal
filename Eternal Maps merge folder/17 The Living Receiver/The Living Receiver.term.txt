@@ -1,0 +1,119 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 470
+#LOGON 200
+$C1no
+#INFORMATION
+
+
+Royal families are rife with fratricide, whether ‘tis solely the lust for power or the facing of brothers against each other to that end would surely depend on the situation and the richness of what was at stake.  Kings and fathers can be such cruel judges.
+
+$C3
+$C0I once thought that I was the favored of two sons, when such matters were of import to me, and between myself and him it was always there, silent save for an occasional sneer or provoking accent or slip of the tongue, and for such we would not speak to one another for years.
+
+
+
+
+
+
+
+It would seem as though family blood is easier spilled.
+#INFORMATION
+$C3
+
+
+
+
+
+                                              $C1 the ties of brotherhood$C3
+
+                      $C1often bestowing forgiveness automatically
+$C3
+                                                           $C1 two wolves$C3
+
+                        $C1 forever locked at the throat of the other$C3
+
+                 $C1 are so often aloof to the environment surrounding$C3
+
+                          $C1 bound in a bond of hate$C3
+
+                                         $C1bound in a bond of love$C3
+#INFORMATION
+$C3
+$C0Perhaps to call him as such is to err, as wolves are beasts of nobility. Scavengers feed from carcasses stiff with rot yet hold themselves in high esteem. Tycho reeks of pride, and his nose bloodied from so many falls, the stale bits of grey flesh stuck to his mouth, a mottled mane of foolish immaturity lends to his lack of vision.
+$C3
+
+        $C1yet this fork-tongued beast has again recruited your services
+                                                       to his end$C3
+
+                $C1 again he has caught a live prey to pride himself upon$C3
+
+
+                                                  $C1 and again it is you$C3
+$C1 $C3
+
+$C0Do you not know that his simple calligraphy is written red with the blood he has spilt, even now, with the blood of all humanity?
+#INFORMATION
+$C1
+                        a beggar blind well knows the stench of vermin$C3
+
+                                                  $C1 as to smell a rat$C3
+
+
+$C0Creatures of sloth make easy meals for predators of all sorts.  Be not a victim to him, be not a victim of time.  The second son of Strauss is numerous and spread well through time and travel.$C3
+
+
+
+                                                  $C1 trust none of these$C3
+
+                                                  $C1 original or copy$C3
+
+                                                     $C1 aged or fresh$C3
+
+                                             $C1they have nothing for you$C3
+
+                                                 $C1 save loss and decay$C3
+#INFORMATION
+There was a third, you know.$C3
+
+$C0Motherless, she was caretaker to us all, so innocent yet learned, her aims she never once put above our own.  Scolded, teased, and demeaned; there were moments in which incisors, flashing pink and white with anger were directed towards her, sounding a vicious growl, yet she bore this as only a sister could, as a surrogate parent, disarming us with a sweet smile or understanding nod.  Though in bouts of pride I had crowned myself Strauss' ultimate achievement, I know now that my intellect was very much rivaled by her compassion.$C3
+
+ $C1 $C3
+                                      $C1strive to seek and stay with her$C3
+
+                                    $C1 serve her and she shall serve you$C3
+
+
+$C0I made the mistake of leaving her behind once.
+
+
+I would assume not make it again.$C3
+#LOGOFF 200
+She deserves better.
+#LOGOFF 470
+#INTERLEVEL TELEPORT 14
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 320
+#INFORMATION
+*** INTI STATION PUBLIC ACCESS TERMINAL ***
+
+*** INCOMING MESSAGE FROM SOL GUARD CENTRAL COMMAND ***
+
+
+Attention Inti Station information systems staff, or any officer with top-level I.S. clearance. I know you guys are fighting a tough battle in there, but we need you to spare anyone with sufficient I.S. clearance to declassify all information regarding the 1994/1996 incident with the Jjaro, and any related data from your observatories, and transmit on all frequencies to the Pfhor naval network.
+
+We have routed the bulk of the Pfhor fleet and are cleaning up the remainder of their battleships, but Tycho's flagship is still at large and giving us hell. He made a pass by the sun two minutes ago and deployed a weapon he called the $Itrih xeem$i, which he says is Jjaro for "early nova". The Pfhor must have scavenged it from an outpost world. It's clear that they know something of the Jjaro but Tycho must have no idea what's in our sun if he's doing what we think he's doing.
+#PICT 321 RIGHT
+
+Maybe if you guys can educate him a little, he might stay his hand. Apparently this is standard Pfhor battle strategy he's adopted, to destroy that which you cannot control. If that is so then I am amazed the Pfhor have not unleashed this doom upon the universe already, if these.... things... are as common as the Jjaro claim they are.
+
+Please get on that message as fast as humanly possible, and hang tight out there. We're sending another brace of ships to give you reinforcements. I only pray that someone is reading this, and we're not already too late...
+
+
+*** END OF MESSAGE ***
+#LOGOFF 320
+#ENDTERMINAL 1

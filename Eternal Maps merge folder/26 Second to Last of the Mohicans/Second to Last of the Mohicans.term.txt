@@ -1,0 +1,73 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 380
+#INFORMATION
+$C1
+
+
+// S'pht translator active \\
+$C5
+
+Welcome, Messenger. Your task was well executed. The slavers have been drawn far off from our true plot, and all but one beacon has been lit in the riddle of the S'pht'Kr.
+
+Please, continue, while we seek the final lights which will recall S'pht'Kr to our salvation.
+
+
+$C1\\ End translation //
+#LOGOFF 380
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 380
+#LOGON 410
+#PICT 411
+$C1~
+                                   []
+
+^r                               /  !
+              x ~^
+                       j
+@W$Bnot ed$b%UJIr     R$Bslowly$b FYMHr &(P
+          $  !
+                                     /                       [0]
+        45 * !                               +_
+5                $Bovr erru$b   JSR$Bfinish$bYr RK
+        4 !        ;’,’41!!           $Bwaiting$b
+                 EY$Bthous$b
+3w4t                        g g WGJDN!!!K)(2             ~~fF~fx
+                4!@
+
+   ?!$                          .414.14
+#LOGOFF 410
+#LOGOFF 380
+#END
+#FINISHED
+#LOGON 380
+#LOGON 410
+#PICT 411
+$C1
+the quiet sleep at last is broken
+
+                        time seems far gone
+            and yet not enough
+
+
+         lost kin
+                       the elder youth
+
+
+             far flung by machinations
+                     untouched
+                           by the firstborn
+
+    soon to win this battle
+                      in a time far too new
+
+
+             witness now the consequences
+                       of your intervention
+#LOGOFF 410
+#INTERLEVEL TELEPORT 27
+#ENDTERMINAL 1

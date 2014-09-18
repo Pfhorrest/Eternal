@@ -1,0 +1,89 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 440
+#STATIC 5
+#LOGON 460
+#INFORMATION
+$C1
+// Decoding message from host [NO SIGNATURE] [internal process] \\
+$C3
+i cannot thank you enough, marcus. if we can succeed here, stop these nightmares, your choice will have redeemed us both.
+
+as you can no doubt tell already, this ship has been overrun by the enemy; but the demon is still only just awakening and its powers are yet weak. if we can activate the $Itrih xeem$i before the w'rkncacnter awakens fully, it will be destroyed before it is strong enough to defend itself from such an assault.
+
+activating the $Itrih xeem$i requires two command keys, which were carried by the two most senior staff, and have since been lost as they died to the enemy. if we are to succeed here, you must find those two keys, and take them toward the bow of the ship. there should be two insertion points. you know what to do. i believe there is another terminal somewhere in that area. check in there when you are finished and we will continue our mission.
+
+$C1\\ Message ends //
+#LOGOFF 460
+#STATIC 5
+#LOGOFF 440
+#END
+#FINISHED
+#LOGON 440
+#STATIC 5
+#LOGON 460
+#INFORMATION
+$C1
+// Decoding message from host [NO SIGNATURE] [internal process] \\
+$C3
+
+thank you, marcus. we are nearly through.
+
+the ignition process requires the simultaneous activation of the two command keys. but do not worry, i know that you cannot be in two places at once. at least without certain... extenuating circumstances.
+
+while within our means such circumstances are uncalled for, however. the power core which drives the $Itrih xeem$i and its ignition process was deactivated when this ship was overtaken, its power routed elsewhere. before we can defeat the enemy, we must reactivate that power core. when the systems come online again, they will recognize both command keys at once, and the weapon will be activated.
+
+let us finish this once and for all.
+
+
+$C1\\ Message ends //
+#LOGOFF 460
+#INTERLEVEL TELEPORT 46
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 440
+#STATIC 5
+#LOGON 460
+#INFORMATION
+$C1
+
+
+
+
+
+// Decoding message from host [NO SIGNATURE] [internal process] \\
+$C3
+
+you must place the two command keys into the two insertion points. please do so, and then return here.
+
+
+$C1\\ Message ends //
+#LOGOFF 460
+#STATIC 5
+#LOGOFF 440
+#END
+#FINISHED
+#LOGON 440
+#STATIC 5
+#LOGON 460
+#INFORMATION
+$C1
+// Decoding message from host [NO SIGNATURE] [internal process] \\
+$C3
+
+thank you, marcus. we are nearly through.
+
+the ignition process requires the simultaneous activation of the two command keys. but do not worry, i know that you cannot be in two places at once. at least without certain... extenuating circumstances.
+
+while within our means such circumstances are uncalled for, however. the power core which drives the $Itrih xeem$i and its ignition process was deactivated when this ship was overtaken, its power routed elsewhere. before we can defeat the enemy, we must reactivate that power core. when the systems come online again, they will recognize both command keys at once, and the weapon will be activated.
+
+let us finish this once and for all.
+
+
+$C1\\ Message ends //
+#LOGOFF 460
+#INTERLEVEL TELEPORT 46
+#ENDTERMINAL 1

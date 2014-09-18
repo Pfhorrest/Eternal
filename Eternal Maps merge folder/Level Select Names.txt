@@ -1,0 +1,39 @@
+128 Master XML
+1000 Weapons Lua
+1501 Ch1
+1511 Ch2
+1521 Ch3
+1531 Ch4
+1541 Ch5
+10000 View - Dream
+10001 View - Real
+10011 Media - Water
+10012 Media - Lava
+10013 Media - Jjaro
+10014 Media - Sewage
+10015 Media - Pfhor
+10020 Air - Black Space
+10021 Air - Blue Mist
+10022 Air - Orange Haze
+10023 Air - White Snow
+10024 Air - Grey Fog
+10025 Air - Purple Haze
+10030 Time - Prologue
+10031 Time - Marathon
+10032 Time - Pfhor War
+10033 Time - Clan Wars
+10034 Time - Conquest
+10035 Time - Rebellion
+10036 Time - Sphere
+10037 Time - Unknown
+10040 Teleport (regular)
+10041 No teleport (start)
+10042 No teleport (middle)
+10043 No teleport (end)
+10051 Inventory - after L00 (Far Side)
+10052 Inventory - after L01 (Deja Vu)
+10053 Inventory - after L03 (Dysmentria)
+10054 Inventory - after L11 (Hysterical Womb)
+10055 Inventory - after L12 (Friend in Need)
+10056 Inventory - after L32 (Hulk)
+10057 Inventory - after L44 (Grotto)

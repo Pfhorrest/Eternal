@@ -1,0 +1,124 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 380
+#STATIC 5
+#LOGON 360
+#INFORMATION
+$C1
+
+
+
+// Decoding message from host "Leela" [internal process] \\
+
+$C0
+Welcome to Lh'owon. At least, that's what Blake told me when I showed him the coordinates from Hathor's last transport. Does it look familiar to you? It's probably changed a lot between now and the last time that you saw it... we've arrived here some 2000 years earlier.
+
+Give me a moment to see if I can connect to the S'pht network...
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#STATIC 15
+#LOGON 380
+#LOGON 360
+#INFORMATION
+$C1
+// Decoding message from host "Leela" @ [no translation] \\
+
+$C0
+There we are. This place is even roomier than you are, though I suppose that's to be expected for a planetary grid. It still doesn't hold a candle to the Vylae network.
+
+Let me see if I can find any useful information around here. My trace of Hathor was approximate - it seems the process of aiming an ansible link is done fractally, refining the resolution in diminishing increments, and I didn't catch the last few cycles of it. We may be on the wrong continent, or have missed her by a few years. I'm sure you noticed our entrance here was anything but stable. Lucky we wound up as low in the atmosphere as we did.
+
+Here we go. This is Lh'owon, just as Blake said, and this building is called the 'Citadel of Antiquities' - stop me if I'm covering data that you already know. I see no immediate sign of Hathor, which could mean we have arrived before her, but I should look a bit into public history here to see if there are any signs of her arriving earlier...
+#PICT 361
+
+
+Well, I can't find any clear data transfer records that would let me trace Hathor's arrival and movement in the network. The S'pht worldnet seems to function more like a giant neural net, retaining and discarding data in a very nonlinear, unstructured fashion.
+
+I believe that Hathor came here to destroy the S'pht, or somehow help them destroy themselves, here in the distant past, so as to deprive mankind of their aid in the wars that are to come. As tempted as I'm sure you must be to go out and start killing $Isomething$i to fix the problem, we must be careful not to act rashly here lest we disturb this timeline even further.
+#INFORMATION
+
+
+You should stay here inside the Citadel. I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible. I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
+
+Check in to terminals frequently, I will contact you when I have further information. Please be patient, this may take a while.
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#LOGOFF 380
+#INTRALEVEL TELEPORT 336
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 380
+#LOGON 390
+#INFORMATION
+$C1
+// Decoding message from host "S'bhuth" @ [no translation] \\
+
+
+   $C5whence came the W'rkncacnter
+
+           Yrro became an angry master
+
+       and broke the S'pht into their clans
+
+
+
+
+                                  the Olders we were appointed
+
+                                     our clans named and numbered
+
+                                 and we are called S'bhuth
+
+                                               the Older of S'pht'Kr
+#PICT 391
+$C5                         apologies are due
+
+    we have no word in our tongue
+                        by which to call
+       the Messenger of Yrro
+
+   sent unto us now in our time of need
+
+
+      peacefull are the young S'pht'Kr
+ mindful of our ways
+    intending no harm to our elder brethren
+
+     their Olders battle for selfish needs
+                    with no consideration
+        for the kinship of our people
+
+  long has S'pht'Kr struggled
+         to bring peace to all our kin
+ but failure has come to us at last
+#INFORMATION
+$C5  weapons built for our defense
+          now are turned against the S'pht
+                             in hatred and in greed
+              wielded by brother against his kin
+
+though S'pht'Kr cannot bear to witness nor to partake of this carnage
+       the S'pht'Mnr attack us at our very heart
+           our villages are slaughtered     our Defenders overrun
+    and the last of our people entomed within their chambers
+
+  yet there is known a way to flee
+                 a path of ascension awaits S'pht'Kr
+         prophecized long ago           by the father Yrro
+
+     we have awaited only the arrival of his Messenger
+
+                                        seek you the pathway far below
+                                            and deliver our salvation
+
+$C1\\ Message ends //
+#LOGOFF 390
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 1
