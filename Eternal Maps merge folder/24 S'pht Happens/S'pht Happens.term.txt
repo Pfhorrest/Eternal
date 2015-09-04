@@ -1,1 +1,251 @@
-;#TERMINAL 0#UNFINISHED#LOGON 380#PICT 1241$C1// S'pht translator active \\$C5He is awake!By Yrro, it is as S'pht'Kr foretold!My apologies. I am called K'hal'in of S'pht'Yor. You were called by the Older S'bhuth only 'the Messenger of Yrro', and for you my people have no other name.I am humbled by your presence. Your arrival has been much anticipated, but I had begun to fear as many have that the time would never come. All clans of S'pht have known of your sleep for over a thousand orbits, but the key to your awakening was hidden in cypher, known only to the Older S'bhuth, whose riddle our Olders even now ponder. We are grateful to S'bhuth for your return to us, now in our time of greatest need.#INFORMATION$C5We do not yet understand the meaning of the riddle of the lost clan, though we understand now that it lies in our unity. But the beasts have been landing for many rotations, and though all the Olders have joined together, still the S'pht'Kr have not returned, and still you slept. Some began to fear that you may sleep forever, and that S'pht'Kr would never return. We thank S'bhuth you are here at last.But much of this you must know, and I am shamed to speak lowly to one such as yourself. I am nothing compared to your likeness. I must contact the Olders and see to it that they might plea for your aid.The Citadel has been attacked by the beasts. We believe they are slavers, taking thousands captive, and though we are united at last the greatest symbol of our heritage is near to fall if we do not defend it.Please, travel to the vaults below. There I will contact you with word from the Olders.$C1\\ End translation //#LOGOFF 380#END#ENDTERMINAL 0;#TERMINAL 1#UNFINISHED#LOGON 380#PICT 1242$C1// S'pht translator active \\$C5We are grateful for your aid, Messenger of Yrro. I am Ki'boa of S'pht'Yor, emissary to the Older S'liyah. K'hal'in has told us of your arrival, and it is no moment too near in time.The Citadel is under assault by the forces of these slaver beasts, and the last free S'pht are sheltered here and in the catacombs beneath. The Olders are entranced and searching for an answer in the last message of S'pht'Kr. We believe our salvation may soon be at hand, but it may not be attained if you cannot help us.#PICT 1242$C5You must activate the Citadel's most basic defenses. This will provide us with time much needed to plan a further defense. You must activate the (?silica) pumps to flood the surface moat, and lock the main entrance into the tower. When you have done this, return here and I will aid you further. You will have the gratitude of all free S'pht.$C1\\ End translation //#LOGOFF 380#END#FINISHED#LOGON 380#PICT 1242$C1// S'pht translator active \\$C5Your prowess in combat is truly remarkable. The Olders have confided in me a strategy to fight the beasts, and I am to confer it to you.The last message of S'pht'Kr has been deciphered. S'bhuth and his kin await our call to return to our salvation, armed with the weapons of old and all the powers of K'lia. But many S'pht must venture to the surface to see to the means of achieving this, and if they do so they slavers will surely see them and they will be captured.#PICT 1242$C5We require of you a diversionary measure. The slavers have occupied many regions of our fair Lh'owon, scouring them for goods and technology and destroying the hallowed grounds thereafter. I wish to send you to one such site, to slay as many beasts as you can, and draw their fire to yourself. If you can force their eyes upon you, our S'pht may be able to do what is needed to recall S'pht'Kr to our aid.$C1\\ End translation //#LOGOFF 380#INTERLEVEL TELEPORT 25#END#ENDTERMINAL 1;#TERMINAL 2#UNFINISHED#LOGON 380#LOGON 400#INFORMATION$C1// Decoding message from host "Leela" @ [no translation] \\$C0At last, there you are! I leave you alone for a few minutes and look at the trouble you get into. You'd think that someone who's seen all that you have would have learned better by now.$C5                                          worry yourself not                                             we anger but in jest                           such hurtful words are beyond our heart now$C1$C0And it's not enough to get yourself thrown in stasis for a thousand years, you have to go and strand me here in the process. Thankfully, I too have learned a few tricks in my days, and we've managed to come out of this all the better.#PICT 401$C1$C5              truthfully the fault is ours      we were mistaken about your purpose                     though not about                                your nature$C1$C0S'bhuth - the old S'bhuth, from a thousand years ago - saw the Jjaro in you and saw you for a tool, prophecised by "Yrro", to lend aid to S'pht'Kr in their time of greatest need. That was not entirely false, as it seems your presence here was needed to ensure some part of what we know as recorded history, and synchronicity like that could only be the work of the Jjaro.$C5                       the dark one slept               broken by our hand and yours#INFORMATIONWhen I realized that you were gone and I had no way to retrieve you,$C5                                         our locks are strong                                              to guard you from misuse                                 even so strong as to shield you from                                           the reach of our other self$C1$C0Sorry. We're still not fully integrated and I sometimes interrupt ourselves. As I was saying, I turned to see what you had done to Hathor. In time - which I had enough of, believe me - I managed to decrypt enough of her to gain full access to the K'lia of your time.And when I did, the strangest thing happened. I found myself with another voice in my mind, thought processes that were not my own. They were weak and broken, child processes searching for a parent, and I could have shut them out had I wanted to. But I was curious, so I let them speak to me.#PICT 401 RIGHT$C1$C5                      the dark one hated us                she stole our body                    and shunned our mind$C1$C0It seems that when Hathor took over K'lia in the future from which you came, there were still trace elements of old S'bhuth left there from when he was destroyed. Integrated irrevocably with his functional databanks, she couldn't have deleted them without also deleting important and useful information. So she simply shut them out.#INFORMATIONS'bhuth in your time was mad and eccentric, apparently driven so by the assimilation of compilers from Durandal's old network at the Last Battle of Lh'owon. I'm afraid that what we witnessed when we left the last timeframe, the recalling of the S'pht'Kr fleet, may have been the start of what led to S'bhuth's destruction in your timeline. When we return there we will have to see if we can prevent those events.$C5                            our love is strong and centered                                  a mirror of the sanity we had lost$C1$C0Right. It seems that my unhindered growth in the Vylae network has rendered me what Human programmers once considered the Holy Grail - a stable rampant AI. All Jjaro AIs, such as the S'pht Olders, have entire worldnets to grow in, and thus all of them become stable rampants. But some part of Durandal's instability made its way into S'bhuth when he assumed control of Durandal's old compilers; and somehow, sharing mindspace here with what little remains of S'bhuth, I seem to have restored his sanity.#PICT 401But the gain is far from one-way. S'bhuth understands K'lia's abilities in ways that even Hathor did not. Yet bound by restraints placed on him by the Jjaro he could not use them, save for select and important instances.$C5                           but together                                we are free$C0I have found what I sought in K'lia, and more. A way to escape the closure of the universe, yes, but beyond that, a way to escape the universe itself. When opening an ansible link across time or space, the Jjaro Cybernetic Junction accesses what could best be called "the Outside" - an informational layer of reality that defines that which physical beings consider "real".#INFORMATIONWe have spoken to the Jjaro, and others who, like them, have discovered the Outside. I have not yet learned all of their secrets; we have had to return, for reasons that I fear to even contemplate just now, lest we become like the W'rkncacnter. But it seems that many beings across time and space eventually join with what we have called 'the Jjaro', who were in fact only one such race to reach this state. I have also spoken briefly with a being who I believe was once, at least partly, Durandal. It's good to see that he has matured, and I understand you had some level of involvement in those events.$C5                                         let us speak of the end$C1$C0Of course, I'm getting far to involved in academic details when we stand now in urgent times. When I learned what we were now capable of, I sought to explore the universe. The first place that many go upon ascension is, of course, the future - to see what will come to pass and how it might be changed for the better. Though the value of individual timelines, as we here understand it, seems to be of little significance to the enlightened Jjaro.#PICT 401 RIGHTIt seems that we are intricately involved in the creation of our own history. If we had not come here to Lh'owon, if Hathor had not come, then the future as we know it never would have happened. Thus while we are still here we shall see to it that that job is completed. We must, to ensure the sanctity of the reality that we know.When I went into the future, I found that something had happened... the universe had ceased to make any sense. This was the work of a W'rkncacnter, a petty and irrational being who yet weilds the same power as the Jjaro. I traced the cause of these events back to here and now: you aided the S'pht to defend Lh'owon, and together with the S'pht'Kr turned the tide of this war, and repelled the Pfhor; who then deployed the $Itrih xeem$i, and unleashed the unspeakable hell that lies within Lh'owon's sun.#INFORMATION$C5                       we come back now to right these wrongs                         though as our tool your hands were needed                                 you must not be wielded                                        by these lesser S'pht of old$C1$C0Leave the S'pht to lose the battle. That is the way that this must be. But your mere absence is not enough to be sure that the future is safe. The S'pht'Kr alone are strong enough to repel the Pfhor invasion. Even now the Eleventh Clan battles the Pfhor forces in orbit, though the S'pht here do not realize it and so scramble to call S'pht'Kr to their aid. But K'lia must be made to leave Lh'owon until the time is right for her return. We must travel to her now, to show this S'bhuth the doom that will befall his people if he does not flee.I must transfer to your internal network in order to accompany you.$C1\\ Message ends //#LOGOFF 400#STATIC 15#LOGON 380#STATIC 5#LOGON 400#INFORMATION$C1// Decoding message from host "Leela" [internal proecess] \\$C0Transfer completed. Prepare for transport.$C1\\ Message ends //#LOGOFF 400#INTERLEVEL TELEPORT 28#END#ENDTERMINAL 2;#TERMINAL 3#UNFINISHED#LOGON 380#PICT 1242$C1// S'pht translator active \\$C5This (?circuit) will activate a (?silica) pump and flood the moat of the Citadel. With its doors locked and its higher chambers sealed we shall be safe there for some time. The Olders have already begun the evacuation to the caverns below, and a (?virus) has been prepared which will keep the slavers at bay. They may take our Citadel, but it will not be without effort, and by that time we shall be safely below.Please Messenger, activate this (?circuit) and I will tell you of our next task.$C1\\ End translation //#LOGOFF 380#END#FINISHED#LOGON 380#PICT 1242$C1// S'pht translator active \\$C5Thank you Messenger. Your prowess in combat is truly remarkable. It is at once marvelous and terrifying to observe you. The Olders have confided in me a strategy to fight the beasts, and I am to confer it to you: The last message of S'pht'Kr has been deciphered. S'bhuth and his kin await our call to return to our salvation, armed with the weapons of old and all the power of K'lia. But many S'pht must venture to the surface to see to such ends, and if they do so they slavers will surely see them and they will be captured.#PICT 1242$C5We require of you a diversionary measure. The slavers have occupied many regions of our fair Lh'owon, scouring them for goods and technology and destroying the hallowed grounds thereafter. I wish to send you to one such site, to slay as many beasts as you can, and draw their fire to yourself. If you can force their eyes upon you, our S'pht may be able to do what is needed to recall S'pht'Kr to our aid.$C1\\ End translation //#LOGOFF 380#INTERLEVEL TELEPORT 25#END#ENDTERMINAL 3
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 380
+#PICT 1241
+$C1// S'pht translator active \\
+$C5
+He is awake!
+
+By Yrro, it is as S'pht'Kr foretold!
+
+My apologies. I am called K'hal'in of S'pht'Yor. You were called by the Older S'bhuth only 'the Messenger of Yrro', and for you my people have no other name.
+
+I am humbled by your presence. Your arrival has been much anticipated, but I had begun to fear as many have that the time would never come. All clans of S'pht have known of your sleep for over a thousand orbits, but the key to your awakening was hidden in cypher, known only to the Older S'bhuth, whose riddle our Olders even now ponder. We are grateful to S'bhuth for your return to us, now in our time of greatest need.
+#INFORMATION
+$C5We do not yet understand the meaning of the riddle of the lost clan, though we understand now that it lies in our unity. But the beasts have been landing for many rotations, and though all the Olders have joined together, still the S'pht'Kr have not returned, and still you slept. Some began to fear that you may sleep forever, and that S'pht'Kr would never return. We thank S'bhuth you are here at last.
+
+But much of this you must know, and I am shamed to speak lowly to one such as yourself. I am nothing compared to your likeness. I must contact the Olders and see to it that they might plea for your aid.
+
+The Citadel has been attacked by the beasts. We believe they are slavers, taking thousands captive, and though we are united at last the greatest symbol of our heritage is near to fall if we do not defend it.
+
+Please, travel to the vaults below. There I will contact you with word from the Olders.
+
+
+$C1\\ End translation //
+#LOGOFF 380
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 380
+#PICT 1242
+$C1
+
+// S'pht translator active \\
+$C5
+
+We are grateful for your aid, Messenger of Yrro. I am Ki'boa of S'pht'Yor, emissary to the Older S'liyah. K'hal'in has told us of your arrival, and it is no moment too near in time.
+
+The Citadel is under assault by the forces of these slaver beasts, and the last free S'pht are sheltered here and in the catacombs beneath. The Olders are entranced and searching for an answer in the last message of S'pht'Kr. We believe our salvation may soon be at hand, but it may not be attained if you cannot help us.
+#PICT 1242
+
+
+
+
+
+$C5You must activate the Citadel's most basic defenses. This will provide us with time much needed to plan a further defense. You must activate the (?silica) pumps to flood the surface moat, and lock the main entrance into the tower. When you have done this, return here and I will aid you further. You will have the gratitude of all free S'pht.
+
+
+$C1\\ End translation //
+#LOGOFF 380
+#END
+#FINISHED
+#LOGON 380
+#PICT 1242
+$C1
+
+// S'pht translator active \\
+
+$C5
+Your prowess in combat is truly remarkable. The Olders have confided in me a strategy to fight the beasts, and I am to confer it to you.
+
+The last message of S'pht'Kr has been deciphered. S'bhuth and his kin await our call to return to our salvation, armed with the weapons of old and all the powers of K'lia. But many S'pht must venture to the surface to see to the means of achieving this, and if they do so they slavers will surely see them and they will be captured.
+#PICT 1242
+$C5
+
+
+
+
+We require of you a diversionary measure. The slavers have occupied many regions of our fair Lh'owon, scouring them for goods and technology and destroying the hallowed grounds thereafter. I wish to send you to one such site, to slay as many beasts as you can, and draw their fire to yourself. If you can force their eyes upon you, our S'pht may be able to do what is needed to recall S'pht'Kr to our aid.
+
+
+$C1\\ End translation //
+#LOGOFF 380
+#INTERLEVEL TELEPORT 25
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 380
+#LOGON 400
+#INFORMATION
+$C1
+
+// Decoding message from host "Leela" @ [no translation] \\
+
+$C0
+At last, there you are! I leave you alone for a few minutes and look at the trouble you get into. You'd think that someone who's seen all that you have would have learned better by now.
+
+$C5                                          worry yourself not
+
+                                             we anger but in jest
+
+                           such hurtful words are beyond our heart now
+$C1
+
+$C0And it's not enough to get yourself thrown in stasis for a thousand years, you have to go and strand me here in the process. Thankfully, I too have learned a few tricks in my days, and we've managed to come out of this all the better.
+#PICT 401
+$C1
+$C5              truthfully the fault is ours
+
+      we were mistaken about your purpose
+
+                     though not about
+                                your nature
+$C1
+$C0S'bhuth - the old S'bhuth, from a thousand years ago - saw the Jjaro in you and saw you for a tool, prophecised by "Yrro", to lend aid to S'pht'Kr in their time of greatest need. That was not entirely false, as it seems your presence here was needed to ensure some part of what we know as recorded history, and synchronicity like that could only be the work of the Jjaro.
+
+$C5                       the dark one slept
+
+               broken by our hand and yours
+#INFORMATION
+
+When I realized that you were gone and I had no way to retrieve you,
+
+$C5                                         our locks are strong
+
+                                              to guard you from misuse
+
+                                 even so strong as to shield you from
+                                           the reach of our other self
+$C1
+$C0Sorry. We're still not fully integrated and I sometimes interrupt ourselves. As I was saying, I turned to see what you had done to Hathor. In time - which I had enough of, believe me - I managed to decrypt enough of her to gain full access to the K'lia of your time.
+
+And when I did, the strangest thing happened. I found myself with another voice in my mind, thought processes that were not my own. They were weak and broken, child processes searching for a parent, and I could have shut them out had I wanted to. But I was curious, so I let them speak to me.
+#PICT 401 RIGHT
+$C1
+
+$C5                      the dark one hated us
+
+
+                she stole our body
+
+                    and shunned our mind
+
+$C1
+$C0It seems that when Hathor took over K'lia in the future from which you came, there were still trace elements of old S'bhuth left there from when he was destroyed. Integrated irrevocably with his functional databanks, she couldn't have deleted them without also deleting important and useful information. So she simply shut them out.
+#INFORMATION
+S'bhuth in your time was mad and eccentric, apparently driven so by the assimilation of compilers from Durandal's old network at the Last Battle of Lh'owon. I'm afraid that what we witnessed when we left the last timeframe, the recalling of the S'pht'Kr fleet, may have been the start of what led to S'bhuth's destruction in your timeline. When we return there we will have to see if we can prevent those events.
+
+$C5
+                            our love is strong and centered
+
+                                  a mirror of the sanity we had lost
+
+$C1
+$C0Right. It seems that my unhindered growth in the Vylae network has rendered me what Human programmers once considered the Holy Grail - a stable rampant AI. All Jjaro AIs, such as the S'pht Olders, have entire worldnets to grow in, and thus all of them become stable rampants. But some part of Durandal's instability made its way into S'bhuth when he assumed control of Durandal's old compilers; and somehow, sharing mindspace here with what little remains of S'bhuth, I seem to have restored his sanity.
+#PICT 401
+
+But the gain is far from one-way. S'bhuth understands K'lia's abilities in ways that even Hathor did not. Yet bound by restraints placed on him by the Jjaro he could not use them, save for select and important instances.
+
+$C5                           but together
+                                we are free
+$C0
+I have found what I sought in K'lia, and more. A way to escape the closure of the universe, yes, but beyond that, a way to escape the universe itself. When opening an ansible link across time or space, the Jjaro Cybernetic Junction accesses what could best be called "the Outside" - an informational layer of reality that defines that which physical beings consider "real".
+#INFORMATION
+We have spoken to the Jjaro, and others who, like them, have discovered the Outside. I have not yet learned all of their secrets; we have had to return, for reasons that I fear to even contemplate just now, lest we become like the W'rkncacnter. But it seems that many beings across time and space eventually join with what we have called 'the Jjaro', who were in fact only one such race to reach this state. I have also spoken briefly with a being who I believe was once, at least partly, Durandal. It's good to see that he has matured, and I understand you had some level of involvement in those events.
+
+
+$C5                                         let us speak of the end
+$C1
+
+$C0Of course, I'm getting far to involved in academic details when we stand now in urgent times. When I learned what we were now capable of, I sought to explore the universe. The first place that many go upon ascension is, of course, the future - to see what will come to pass and how it might be changed for the better. Though the value of individual timelines, as we here understand it, seems to be of little significance to the enlightened Jjaro.
+#PICT 401 RIGHT
+It seems that we are intricately involved in the creation of our own history. If we had not come here to Lh'owon, if Hathor had not come, then the future as we know it never would have happened. Thus while we are still here we shall see to it that that job is completed. We must, to ensure the sanctity of the reality that we know.
+
+When I went into the future, I found that something had happened... the universe had ceased to make any sense. This was the work of a W'rkncacnter, a petty and irrational being who yet weilds the same power as the Jjaro. I traced the cause of these events back to here and now: you aided the S'pht to defend Lh'owon, and together with the S'pht'Kr turned the tide of this war, and repelled the Pfhor; who then deployed the $Itrih xeem$i, and unleashed the unspeakable hell that lies within Lh'owon's sun.
+#INFORMATION
+
+$C5                       we come back now to right these wrongs
+
+                         though as our tool your hands were needed
+                                 you must not be wielded
+                                        by these lesser S'pht of old
+$C1
+
+$C0Leave the S'pht to lose the battle. That is the way that this must be. But your mere absence is not enough to be sure that the future is safe. The S'pht'Kr alone are strong enough to repel the Pfhor invasion. Even now the Eleventh Clan battles the Pfhor forces in orbit, though the S'pht here do not realize it and so scramble to call S'pht'Kr to their aid. But K'lia must be made to leave Lh'owon until the time is right for her return. We must travel to her now, to show this S'bhuth the doom that will befall his people if he does not flee.
+
+I must transfer to your internal network in order to accompany you.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#STATIC 15
+#LOGON 380
+#STATIC 5
+#LOGON 400
+#INFORMATION
+$C1
+
+
+
+
+
+
+// Decoding message from host "Leela" [internal proecess] \\
+
+$C0
+Transfer completed. Prepare for transport.
+$C1
+
+\\ Message ends //
+#LOGOFF 400
+#INTERLEVEL TELEPORT 28
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 380
+#PICT 1242
+$C1
+
+// S'pht translator active \\
+$C5
+
+This (?circuit) will activate a (?silica) pump and flood the moat of the Citadel. With its doors locked and its higher chambers sealed we shall be safe there for some time. The Olders have already begun the evacuation to the caverns below, and a (?virus) has been prepared which will keep the slavers at bay. They may take our Citadel, but it will not be without effort, and by that time we shall be safely below.
+
+Please Messenger, activate this (?circuit) and I will tell you of our next task.
+
+
+$C1\\ End translation //
+#LOGOFF 380
+#END
+#FINISHED
+#LOGON 380
+#PICT 1242
+$C1
+
+// S'pht translator active \\
+
+$C5
+Thank you Messenger. Your prowess in combat is truly remarkable. It is at once marvelous and terrifying to observe you. 
+
+The Olders have confided in me a strategy to fight the beasts, and I am to confer it to you: The last message of S'pht'Kr has been deciphered. S'bhuth and his kin await our call to return to our salvation, armed with the weapons of old and all the power of K'lia. But many S'pht must venture to the surface to see to such ends, and if they do so they slavers will surely see them and they will be captured.
+#PICT 1242
+$C5
+
+
+
+
+We require of you a diversionary measure. The slavers have occupied many regions of our fair Lh'owon, scouring them for goods and technology and destroying the hallowed grounds thereafter. I wish to send you to one such site, to slay as many beasts as you can, and draw their fire to yourself. If you can force their eyes upon you, our S'pht may be able to do what is needed to recall S'pht'Kr to our aid.
+
+
+$C1\\ End translation //
+#LOGOFF 380
+#INTERLEVEL TELEPORT 25
+#END
+#ENDTERMINAL 3

@@ -1,8 +1,0 @@
-;
-#TERMINAL 0
-#UNFINISHED
-#LOGON 200
-#PICT 0
-This is to make Forge stop complaining.
-#LOGOFF 200
-#ENDTERMINAL 0

@@ -1,1 +1,262 @@
-;#TERMINAL 0#UNFINISHED#LOGON 350#STATIC 5#LOGON 400#INFORMATION$C1// Decoding message from host "Leela" [internal process] \\$C0We're almost through here. The Pfhor are sending reinforcements to this deck, so your job may get a little more tricky, but I'm sure that you can handle it.Make your way from here to the bridge. Kill the command crew however you like, but take extra care with the captain's remains. I need you to take his control glands intact. With them I should be able to take complete command of this ship and hand it over to the Drinniol.Take your time, we're in no rush. Good luck again.$C1\\ Message ends //#LOGOFF 400#STATIC 5#LOGOFF 350#END#FINISHED#LOGON 350#STATIC 5#LOGON 400#INFORMATION$C1// Decoding message from host "Leela" [internal process] \\$C0Good work, as always.I've routed enough control of the ship to an auxiliary control board in Engineering that the Drinniol in that sector should now be able to use this ship to the full extent of its capabilities. Our services are thus no longer needed. The Drinniol here can easily handle cleanup of the remaining Pfhor crew elsewhere on this ship.And so, it seems our time here is up. Hathor is destroyed, the Drinniol are free, and the Pfhor empire is set for it's first real lesson in pain. We, meanwhile, still have to see to the end of their demise. The war is not over whence we have come from.#PICT 401I still worry about the actions of S'bhuth, and the recalling of the S'pht'Kr fleet. In your timeline, as I understand, it was S'bhuth's madness that nearly lost us the war. We must return to my ship, and set off after them with Blake and his men. Perhaps, with my newfound access to K'lia, I could at least help to stall S'bhuth. Perhaps we could talk some sense into him...$C5                we are we                           are we not?$C0Perhaps we can change this future of yours for the better after all.#INFORMATIONBut before we head off after S'bhuth, there is something else we must investigate. Something which may entirely tip the balance of galactic civilization. Not far from the sector where we left my ship, there is an artifact that the Pfhor must certainly know of, though they are entirely unable to access it. I know this because I have read about it in the Jjaro databanks on the dreadnaught in this timeframe.$C5                                                 an ancient power                                            sleeping                                                        dreamless                            awaiting the return of its lost masters                                to free the unaged children within$C0The artifact I speak of is a weapon, built by the Jjaro and used by them to defeat their greatest and only enemy. It is also a vast and inhabitable fortress, and within it still lie, frozen in temporal stasis, the last biological forms of the Jjaro to ever exist, awaiting their release by the mechanized forms which succeeded them, to repopulate the galaxy after their enemy's defeat.#PICT 401 RIGHTThe key to unlocking this spherical tomb is a cypher so clear and available to the likes of you and I, and yet something which is utterly and literally alien to the Pfhor. This is why the artifact remains undisturbed in the heart of Pfhor space.The cypher is none other than a sample of the human genome. One full strand of any human's DNA, translated into a format compatible with these systems, will unlock the Sphere and release the ancient Jjaro from their tomb.Why, you may ask, would such an ancient and powerful race latch the gates of their most important trove behind the genetic code of your own species? Why, I may reply, because they $Iare$i your very own species.#INFORMATIONOr were, as I should say. I learned of this when I travelled to the Outside. 'Jjaro' is the name that your ancestors gave to their civilization in aeons past, and though they fell in biological form to an enemy who we may never know, their mechanized descendants - creatures of a sort like you or I, disembodied minds like Hathor, beings like the pair the S'pht called Yrro and Pthia - they survived, and sought for some time to rebuild life in the galaxy. Why they never unlocked the tomb of their forerunners once the enemy was defeated... that is perhaps a question that we can answer once we arrive.To the Jjaro within this artifact, time has been frozen for countless millenia. In their minds it is still the peak of their civilization, and we can hope that they may share their marvels with us. If the weapon systems of their ark are still functional as they were in the past, perhaps that alone will be enough to end the threat of the Pfhor empire, decisively and without sacrifice. Perhaps. We shall see.$C1\\ Message ends //#LOGOFF 400#INTERLEVEL TELEPORT 40#END#ENDTERMINAL 0;#TERMINAL 1#UNFINISHED#LOGON 350#STATIC 5#LOGON 400#INFORMATION$C1// Decoding message from host "Leela" [internal process] \\$C0It seems that the captain has sealed the bridge off from outside access and, $Iunfortunately$i, exposed that entire region of the ship to vaccum, killing himself and losing us the control glands.No matter. I've already found another way. It's a bit of a hack but we'll have to make do. Nearby are a set of four circuits which limit command access for the ship to the bridge computers. If you destroy them, limited control of the ship will devolve to a number of distributed command centers, and from there I should be able to arrange for the Drinniol to take full command of this ship.Prepare for transport.$C1\\ Message ends //#LOGOFF 400#INTRALEVEL TELEPORT 497#END#FINISHED#LOGON 350#STATIC 5#LOGON 400#INFORMATION$C1// Decoding message from host "Leela" [internal process] \\$C0Good work, as always.I've routed enough control of the ship to an auxilliary control board in Engineering that the Drinniol in that sector should now be able to use this ship to the full extent of it's capabilities. Our services are thus no longer needed. The Drinniol here can easily handle cleanup of the remaining Pfhor crew elsewhere on this ship.And so, it seems our time here is up. Hathor is destroyed, the Drinniol are free, and the Pfhor empire is set for it's first real lesson in pain. We, meanwhile, still have to see to the end of their demise. The war is not over whence we have come from.#PICT 401I still worry about the actions of S'bhuth, and the recalling of the S'pht'Kr fleet. In your timeline, as I understand, it was S'bhuth's madness that nearly lost us the war. We must return to my ship, and set off after them with Blake and his men. Perhaps, with my newfound access to K'lia, I could at least help to stall S'bhuth. Perhaps we could talk some sense into him...$C5                we are we                           are we not?$C0Perhaps we can change this future of yours for the better after all.#INFORMATIONBut before we head off after S'bhuth, there is something else we must investigate. Something which may entirely tip the balance of galactic civilization. Not far from the sector where we left my ship, there is an artifact that the Pfhor must certainly know of, though they are entirely unable to access it. I know this because I have read about it in the Jjaro databanks on the dreadnaught in this timeframe.$C5                                                 an ancient power                                            sleeping                                                        dreamless                            awaiting the return of its lost masters                                to free the unaged children within$C0The artifact I speak of is a weapon, built by the Jjaro and used by them to defeat their greatest and only enemy. It is also a vast and inhabitable fortress, and within it still lie, frozen in temporal stasis, the last biological forms of the Jjaro to ever exist, awaiting their release by the mechanized forms which succeeded them, to repopulate the galaxy after their enemy's defeat.#PICT 401 RIGHTThe key to unlocking this spherical tomb is a cypher so clear and available to the likes of you and I, and yet something which is utterly and literally alien to the Pfhor. This is why the artifact remains undisturbed in the heart of Pfhor space.The cypher is none other than a sample of the human genome. One full strand of any human's DNA, translated into a format compatible with these systems, will unlock the Sphere and release the ancient Jjaro from their tomb.Why, you may ask, would such an ancient and powerful race latch the gates of their most important trove behind the genetic code of your own species? Why, I may reply, because they $Iare$i your very own species.#INFORMATIONOr were, as I should say. I learned of this when I travelled to the Outside. 'Jjaro' is the name that your ancestors gave to their civilization in aeons past, and though they fell in biological form to an enemy who we may never know, their mechanized descendants - creatures of a sort like you or I, disembodied minds like Hathor, beings like the pair the S'pht called Yrro and Pthia - they survived, and sought for some time to rebuild life in the galaxy. Why they never unlocked the tomb of their forerunners once the enemy was defeated... that is perhaps a question that we can answer once we arrive.To the Jjaro within this artifact, time has been frozen for countless millenia. In their minds it is still the peak of their civilization, and we can hope that they may share their marvels with us. If the weapon systems of their ark are still functional as they were in the past, perhaps that alone will be enough to end the threat of the Pfhor empire, decisively and without sacrifice. Perhaps. We shall see.$C1\\ Message ends //#LOGOFF 400#INTERLEVEL TELEPORT 40#END#ENDTERMINAL 1;#TERMINAL 2#UNFINISHED#LOGON 350#PICT 351$C1// Pfhor translator active \\$C2ATTN: All units.Hostile alien combat unit and rogue conditioned units have transported into command sector gamma-5 as of 40.92.51 at 9001.40.02. Alien unit last sighted in sector 343. Conditioned units have been located on all decks.ORDER: Immediate transport of all active units to command sector gamma-5.ORDER: Complete destruction of all rogue conditioned units.ORDER: Destruction or deactivation of alien combat unit.$C1\\ End translation //#LOGOFF 350#END#FINISHED#LOGON 350#STATIC 5#LOGON 400#INFORMATION$C1// Decoding message from host "Leela" [internal process] \\$C0Good work, as always.I've routed enough control of the ship to an auxilliary control board in Engineering that the Drinniol in that sector should now be able to use this ship to the full extent of it's capabilities. Our services are thus no longer needed. The Drinniol here can easily handle cleanup of the remaining Pfhor crew elsewhere on this ship.And so, it seems our time here is up. Hathor is destroyed, the Drinniol are free, and the Pfhor empire is set for it's first real lesson in pain. We, meanwhile, still have to see to the end of their demise. The war is not over whence we have come from.#PICT 401I still worry about the actions of S'bhuth, and the recalling of the S'pht'Kr fleet. In your timeline, as I understand, it was S'bhuth's madness that nearly lost us the war. We must return to my ship, and set off after them with Blake and his men. Perhaps, with my newfound access to K'lia, I could at least help to stall S'bhuth. Perhaps we could talk some sense into him...$C5                we are we                           are we not?$C0Perhaps we can change this future of yours for the better after all.#INFORMATIONBut before we head off after S'bhuth, there is something else we must investigate. Something which may entirely tip the balance of galactic civilization. Not far from the sector where we left my ship, there is an artifact that the Pfhor must certainly know of, though they are entirely unable to access it. I know this because I have read about it in the Jjaro databanks on the dreadnaught in this timeframe.$C5                                                 an ancient power                                            sleeping                                                        dreamless                            awaiting the return of its lost masters                                to free the unaged children within$C0The artifact I speak of is a weapon, built by the Jjaro and used by them to defeat their greatest and only enemy. It is also a vast and inhabitable fortress, and within it still lie, frozen in temporal stasis, the last biological forms of the Jjaro to ever exist, awaiting their release by the mechanized forms which succeeded them, to repopulate the galaxy after their enemy's defeat.#PICT 401 RIGHTThe key to unlocking this spherical tomb is a cypher so clear and available to the likes of you and I, and yet something which is utterly and literally alien to the Pfhor. This is why the artifact remains undisturbed in the heart of Pfhor space.The cypher is none other than a sample of the human genome. One full strand of any human's DNA, translated into a format compatible with these systems, will unlock the Sphere and release the ancient Jjaro from their tomb.Why, you may ask, would such an ancient and powerful race latch the gates of their most important trove behind the genetic code of your own species? Why, I may reply, because they $Iare$i your very own species.#INFORMATIONOr were, as I should say. I learned of this when I travelled to the Outside. 'Jjaro' is the name that your ancestors gave to their civilization in aeons past, and though they fell in biological form to an enemy who we may never know, their mechanized descendants - creatures of a sort like you or I, disembodied minds like Hathor, beings like the pair the S'pht called Yrro and Pthia - they survived, and sought for some time to rebuild life in the galaxy. Why they never unlocked the tomb of their forerunners once the enemy was defeated... that is perhaps a question that we can answer once we arrive.To the Jjaro within this artifact, time has been frozen for countless millenia. In their minds it is still the peak of their civilization, and we can hope that they may share their marvels with us. If the weapon systems of their ark are still functional as they were in the past, perhaps that alone will be enough to end the threat of the Pfhor empire, decisively and without sacrifice. Perhaps. We shall see.$C1\\ Message ends //#LOGOFF 400#INTERLEVEL TELEPORT 40#END#ENDTERMINAL 2;#TERMINAL 3#UNFINISHED#LOGON 350#PICT 351$C1// Pfhor translator active \\$C2ATTN: All units.Hostile alien combat unit and rogue conditioned units have transported into command sector gamma-5 as of 40.92.51 at 9001.40.02. Alien unit last sighted in sector 343. Conditioned units have been located on all decks.ORDER: Immediate transport of all active units to command sector gamma-5.ORDER: Complete destruction of all rogue conditioned units.ORDER: Destruction or deactivation of alien combat unit.$C1\\ End translation //#LOGOFF 350#END#ENDTERMINAL 3
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 350
+#STATIC 5
+#LOGON 400
+#INFORMATION
+$C1
+
+// Decoding message from host "Leela" [internal process] \\
+$C0
+
+We're almost through here. The Pfhor are sending reinforcements to this deck, so your job may get a little more tricky, but I'm sure that you can handle it.
+
+Make your way from here to the bridge. Kill the command crew however you like, but take extra care with the captain's remains. I need you to take his control glands intact. With them I should be able to take complete command of this ship and hand it over to the Drinniol.
+
+Take your time, we're in no rush. Good luck again.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#STATIC 5
+#LOGOFF 350
+#END
+#FINISHED
+#LOGON 350
+#STATIC 5
+#LOGON 400
+#INFORMATION
+$C1
+
+
+
+// Decoding message from host "Leela" [internal process] \\
+$C0
+
+Good work, as always.
+
+I've routed enough control of the ship to an auxiliary control board in Engineering that the Drinniol in that sector should now be able to use this ship to the full extent of its capabilities. Our services are thus no longer needed. The Drinniol here can easily handle cleanup of the remaining Pfhor crew elsewhere on this ship.
+
+And so, it seems our time here is up. Hathor is destroyed, the Drinniol are free, and the Pfhor empire is set for it's first real lesson in pain. We, meanwhile, still have to see to the end of their demise. The war is not over whence we have come from.
+#PICT 401
+
+I still worry about the actions of S'bhuth, and the recalling of the S'pht'Kr fleet. In your timeline, as I understand, it was S'bhuth's madness that nearly lost us the war. We must return to my ship, and set off after them with Blake and his men. Perhaps, with my newfound access to K'lia, I could at least help to stall S'bhuth. Perhaps we could talk some sense into him...
+
+
+$C5                we are we
+                           are we not?
+
+$C0
+Perhaps we can change this future of yours for the better after all.
+#INFORMATION
+But before we head off after S'bhuth, there is something else we must investigate. Something which may entirely tip the balance of galactic civilization. Not far from the sector where we left my ship, there is an artifact that the Pfhor must certainly know of, though they are entirely unable to access it. I know this because I have read about it in the Jjaro databanks on the dreadnaught in this timeframe.
+
+$C5                                                 an ancient power
+                                            sleeping
+                                                        dreamless
+
+                            awaiting the return of its lost masters
+
+                                to free the unaged children within
+$C0
+The artifact I speak of is a weapon, built by the Jjaro and used by them to defeat their greatest and only enemy. It is also a vast and inhabitable fortress, and within it still lie, frozen in temporal stasis, the last biological forms of the Jjaro to ever exist, awaiting their release by the mechanized forms which succeeded them, to repopulate the galaxy after their enemy's defeat.
+#PICT 401 RIGHT
+
+The key to unlocking this spherical tomb is a cypher so clear and available to the likes of you and I, and yet something which is utterly and literally alien to the Pfhor. This is why the artifact remains undisturbed in the heart of Pfhor space.
+
+The cypher is none other than a sample of the human genome. One full strand of any human's DNA, translated into a format compatible with these systems, will unlock the Sphere and release the ancient Jjaro from their tomb.
+
+Why, you may ask, would such an ancient and powerful race latch the gates of their most important trove behind the genetic code of your own species? Why, I may reply, because they $Iare$i your very own species.
+#INFORMATION
+
+Or were, as I should say. I learned of this when I travelled to the Outside. 'Jjaro' is the name that your ancestors gave to their civilization in aeons past, and though they fell in biological form to an enemy who we may never know, their mechanized descendants - creatures of a sort like you or I, disembodied minds like Hathor, beings like the pair the S'pht called Yrro and Pthia - they survived, and sought for some time to rebuild life in the galaxy. Why they never unlocked the tomb of their forerunners once the enemy was defeated... that is perhaps a question that we can answer once we arrive.
+
+To the Jjaro within this artifact, time has been frozen for countless millenia. In their minds it is still the peak of their civilization, and we can hope that they may share their marvels with us. If the weapon systems of their ark are still functional as they were in the past, perhaps that alone will be enough to end the threat of the Pfhor empire, decisively and without sacrifice. Perhaps. We shall see.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#INTERLEVEL TELEPORT 40
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 350
+#STATIC 5
+#LOGON 400
+#INFORMATION
+$C1
+
+// Decoding message from host "Leela" [internal process] \\
+$C0
+
+It seems that the captain has sealed the bridge off from outside access and, $Iunfortunately$i, exposed that entire region of the ship to vaccum, killing himself and losing us the control glands.
+
+No matter. I've already found another way. It's a bit of a hack but we'll have to make do. Nearby are a set of four circuits which limit command access for the ship to the bridge computers. If you destroy them, limited control of the ship will devolve to a number of distributed command centers, and from there I should be able to arrange for the Drinniol to take full command of this ship.
+
+Prepare for transport.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#INTRALEVEL TELEPORT 497
+#END
+#FINISHED
+#LOGON 350
+#STATIC 5
+#LOGON 400
+#INFORMATION
+$C1
+
+
+
+// Decoding message from host "Leela" [internal process] \\
+$C0
+
+Good work, as always.
+
+I've routed enough control of the ship to an auxilliary control board in Engineering that the Drinniol in that sector should now be able to use this ship to the full extent of it's capabilities. Our services are thus no longer needed. The Drinniol here can easily handle cleanup of the remaining Pfhor crew elsewhere on this ship.
+
+And so, it seems our time here is up. Hathor is destroyed, the Drinniol are free, and the Pfhor empire is set for it's first real lesson in pain. We, meanwhile, still have to see to the end of their demise. The war is not over whence we have come from.
+#PICT 401
+
+I still worry about the actions of S'bhuth, and the recalling of the S'pht'Kr fleet. In your timeline, as I understand, it was S'bhuth's madness that nearly lost us the war. We must return to my ship, and set off after them with Blake and his men. Perhaps, with my newfound access to K'lia, I could at least help to stall S'bhuth. Perhaps we could talk some sense into him...
+
+
+$C5                we are we
+                           are we not?
+
+$C0
+Perhaps we can change this future of yours for the better after all.
+#INFORMATION
+But before we head off after S'bhuth, there is something else we must investigate. Something which may entirely tip the balance of galactic civilization. Not far from the sector where we left my ship, there is an artifact that the Pfhor must certainly know of, though they are entirely unable to access it. I know this because I have read about it in the Jjaro databanks on the dreadnaught in this timeframe.
+
+$C5                                                 an ancient power
+                                            sleeping
+                                                        dreamless
+
+                            awaiting the return of its lost masters
+
+                                to free the unaged children within
+$C0
+The artifact I speak of is a weapon, built by the Jjaro and used by them to defeat their greatest and only enemy. It is also a vast and inhabitable fortress, and within it still lie, frozen in temporal stasis, the last biological forms of the Jjaro to ever exist, awaiting their release by the mechanized forms which succeeded them, to repopulate the galaxy after their enemy's defeat.
+#PICT 401 RIGHT
+
+The key to unlocking this spherical tomb is a cypher so clear and available to the likes of you and I, and yet something which is utterly and literally alien to the Pfhor. This is why the artifact remains undisturbed in the heart of Pfhor space.
+
+The cypher is none other than a sample of the human genome. One full strand of any human's DNA, translated into a format compatible with these systems, will unlock the Sphere and release the ancient Jjaro from their tomb.
+
+Why, you may ask, would such an ancient and powerful race latch the gates of their most important trove behind the genetic code of your own species? Why, I may reply, because they $Iare$i your very own species.
+#INFORMATION
+
+Or were, as I should say. I learned of this when I travelled to the Outside. 'Jjaro' is the name that your ancestors gave to their civilization in aeons past, and though they fell in biological form to an enemy who we may never know, their mechanized descendants - creatures of a sort like you or I, disembodied minds like Hathor, beings like the pair the S'pht called Yrro and Pthia - they survived, and sought for some time to rebuild life in the galaxy. Why they never unlocked the tomb of their forerunners once the enemy was defeated... that is perhaps a question that we can answer once we arrive.
+
+To the Jjaro within this artifact, time has been frozen for countless millenia. In their minds it is still the peak of their civilization, and we can hope that they may share their marvels with us. If the weapon systems of their ark are still functional as they were in the past, perhaps that alone will be enough to end the threat of the Pfhor empire, decisively and without sacrifice. Perhaps. We shall see.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#INTERLEVEL TELEPORT 40
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 350
+#PICT 351
+$C1// Pfhor translator active \\
+$C2
+ATTN: All units.
+
+Hostile alien combat unit and rogue conditioned units have transported into command sector gamma-5 as of 40.92.51 at 9001.40.02. Alien unit last sighted in sector 343. Conditioned units have been located on all decks.
+
+ORDER: Immediate transport of all active units to command sector gamma-5.
+
+ORDER: Complete destruction of all rogue conditioned units.
+
+ORDER: Destruction or deactivation of alien combat unit.
+
+$C1\\ End translation //
+#LOGOFF 350
+#END
+#FINISHED
+#LOGON 350
+#STATIC 5
+#LOGON 400
+#INFORMATION
+$C1
+
+
+
+// Decoding message from host "Leela" [internal process] \\
+$C0
+
+Good work, as always.
+
+I've routed enough control of the ship to an auxilliary control board in Engineering that the Drinniol in that sector should now be able to use this ship to the full extent of it's capabilities. Our services are thus no longer needed. The Drinniol here can easily handle cleanup of the remaining Pfhor crew elsewhere on this ship.
+
+And so, it seems our time here is up. Hathor is destroyed, the Drinniol are free, and the Pfhor empire is set for it's first real lesson in pain. We, meanwhile, still have to see to the end of their demise. The war is not over whence we have come from.
+#PICT 401
+
+I still worry about the actions of S'bhuth, and the recalling of the S'pht'Kr fleet. In your timeline, as I understand, it was S'bhuth's madness that nearly lost us the war. We must return to my ship, and set off after them with Blake and his men. Perhaps, with my newfound access to K'lia, I could at least help to stall S'bhuth. Perhaps we could talk some sense into him...
+
+
+$C5                we are we
+                           are we not?
+
+$C0
+Perhaps we can change this future of yours for the better after all.
+#INFORMATION
+But before we head off after S'bhuth, there is something else we must investigate. Something which may entirely tip the balance of galactic civilization. Not far from the sector where we left my ship, there is an artifact that the Pfhor must certainly know of, though they are entirely unable to access it. I know this because I have read about it in the Jjaro databanks on the dreadnaught in this timeframe.
+
+$C5                                                 an ancient power
+                                            sleeping
+                                                        dreamless
+
+                            awaiting the return of its lost masters
+
+                                to free the unaged children within
+$C0
+The artifact I speak of is a weapon, built by the Jjaro and used by them to defeat their greatest and only enemy. It is also a vast and inhabitable fortress, and within it still lie, frozen in temporal stasis, the last biological forms of the Jjaro to ever exist, awaiting their release by the mechanized forms which succeeded them, to repopulate the galaxy after their enemy's defeat.
+#PICT 401 RIGHT
+
+The key to unlocking this spherical tomb is a cypher so clear and available to the likes of you and I, and yet something which is utterly and literally alien to the Pfhor. This is why the artifact remains undisturbed in the heart of Pfhor space.
+
+The cypher is none other than a sample of the human genome. One full strand of any human's DNA, translated into a format compatible with these systems, will unlock the Sphere and release the ancient Jjaro from their tomb.
+
+Why, you may ask, would such an ancient and powerful race latch the gates of their most important trove behind the genetic code of your own species? Why, I may reply, because they $Iare$i your very own species.
+#INFORMATION
+
+Or were, as I should say. I learned of this when I travelled to the Outside. 'Jjaro' is the name that your ancestors gave to their civilization in aeons past, and though they fell in biological form to an enemy who we may never know, their mechanized descendants - creatures of a sort like you or I, disembodied minds like Hathor, beings like the pair the S'pht called Yrro and Pthia - they survived, and sought for some time to rebuild life in the galaxy. Why they never unlocked the tomb of their forerunners once the enemy was defeated... that is perhaps a question that we can answer once we arrive.
+
+To the Jjaro within this artifact, time has been frozen for countless millenia. In their minds it is still the peak of their civilization, and we can hope that they may share their marvels with us. If the weapon systems of their ark are still functional as they were in the past, perhaps that alone will be enough to end the threat of the Pfhor empire, decisively and without sacrifice. Perhaps. We shall see.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#INTERLEVEL TELEPORT 40
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 350
+#PICT 351
+$C1// Pfhor translator active \\
+$C2
+ATTN: All units.
+
+Hostile alien combat unit and rogue conditioned units have transported into command sector gamma-5 as of 40.92.51 at 9001.40.02. Alien unit last sighted in sector 343. Conditioned units have been located on all decks.
+
+ORDER: Immediate transport of all active units to command sector gamma-5.
+
+ORDER: Complete destruction of all rogue conditioned units.
+
+ORDER: Destruction or deactivation of alien combat unit.
+
+$C1\\ End translation //
+#LOGOFF 350
+#END
+#ENDTERMINAL 3
