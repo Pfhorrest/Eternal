@@ -91,7 +91,7 @@ $C1\\ Message ends //
 #TERMINAL 1
 #UNFINISHED
 #LOGON 350
-#PICT 151
+#PICT 351
 $C2
 
 

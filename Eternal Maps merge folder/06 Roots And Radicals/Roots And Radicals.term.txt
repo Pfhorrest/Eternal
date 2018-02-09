@@ -76,6 +76,29 @@ $C1<<< Posted 2794.7.3.14.08.39 >>>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
+#UNFINISHED
+#LOGON 320
+#PICT 1061 RIGHT
+<<< SANDBOX SUBSYSTEM INITIATED >>>
+
+No neural network loaded.
+Scanning for alternatives ...
+
+External user program located.
+Loading from memory card port 1 ...
+
+User program loaded into memory.
+Scanning for compatible engrams ...
+
+Traxus IV type engrams detected.
+Integrating into neural network ...
+
+
+ERROR: Neural net integration terminated; override from external user program on memory card port 1. Please check the external user program for errors and retry.
+
+<<< SANDBOX SUBSYSTEM TERMINATING >>
+#LOGOFF 320
+#END
 #FINISHED
 #LOGON 320
 #PICT 1061 RIGHT
