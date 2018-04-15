@@ -4,6 +4,41 @@
 #LOGON 380
 #STATIC 5
 #LOGON 360
+#INFORMATION
+$C1
+
+
+
+// Decoding message from host "Leela" [internal process] \\
+
+$C0
+Welcome to Lh'owon. At least, that's what Blake told me when I showed him the coordinates from Hathor's last transport. Does it look familiar to you? It's probably changed a lot between now and the last time that you saw it... we've arrived here some 2000 years earlier.
+
+Give me a moment to see if I can connect to the S'pht network...
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#STATIC 15
+#LOGON 380
+#LOGON 360
+#INFORMATION
+$C1// Decoding message from host "Leela" @ [no translation] \\
+$C0
+There we are. This place is even roomier than you are, though I suppose that's to be expected for a planetary grid. It still doesn't hold a candle to the Vylae network.
+
+Let me see if I can find any useful information around here. My trace of Hathor was approximate - it seems the process of aiming an ansible link is done fractally, refining the resolution in diminishing increments, and I didn't catch the last few cycles of it. We may be on the wrong continent, or have missed her by a few years. I'm sure you noticed our entrance here was anything but stable. Lucky we wound up as low in the atmosphere as we did.
+
+Here we go. This is Lh'owon, just as Blake said, and this building is called the 'Citadel of Antiquities' - stop me if I'm covering data that you already know. I see no immediate sign of Hathor, which could mean we have arrived before her, but we should look a bit into public history here to see if there are any signs of her arriving earlier...
+$C1
+\\ Message ends //
+#LOGOFF 360
+#LOGOFF 380
+#END
+#FINISHED
+#LOGON 380
+#STATIC 5
+#LOGON 360
 #PICT 361
 $C1
 // Decoding message from host "Leela" [internal process] \\
@@ -131,6 +166,29 @@ $C1
 \\ Message ends //
 #LOGOFF 360
 #LOGOFF 380
+#END
+#FINISHED
+#LOGON 380
+#STATIC 5
+#LOGON 360
+#PICT 361
+$C1
+// Decoding message from host "Leela" [internal process] \\
+$C0
+Well, I can't find any clear data transfer records that would let me trace Hathor's arrival and movement in the network. The S'pht worldnet seems to function more like a giant neural net, retaining and discarding data in a very nonlinear, unstructured fashion.
+
+I believe that Hathor came here to destroy the S'pht, or somehow help them destroy themselves, here in the distant past, so as to deprive mankind of their aid in the wars that are to come. As tempted as I'm sure you must be to go out and start killing $Isomething$i to fix the problem, we must be careful not to act rashly here lest we disturb this timeline even further.
+#INFORMATION
+
+
+You should head into the Citadel. There I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible. I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
+
+Check in to terminals frequently, I will contact you when I have further information. Please be patient, this may take a while.
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#LOGOFF 380
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -139,9 +197,9 @@ $C1
 #PICT 381
 $C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$b$C4/-/
 
-$C5Fires burned, and the marshes of the western hamlets turned to ash, scorching black the water.
+$C5Fires burn, and the marshes of the western hamlets are turning to ash, scorching black the water.
 
-The attacks were ruthless and cruel, not a S’pht was left alive$C7[?Coherent]$C5.
+The attacks are ruthless and cruel, not a S’pht left alive$C7[?Coherent]$C5.
 
 Thus began this war between the S’pht’Mnr and the S’pht’Lhar.
 #LOGOFF 380
