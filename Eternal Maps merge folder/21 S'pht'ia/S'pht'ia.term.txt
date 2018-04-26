@@ -43,7 +43,6 @@ $C1
 #END
 #FINISHED
 #LOGON 380
-#STATIC 5
 #LOGON 360
 #INFORMATION
 $C1
@@ -186,7 +185,6 @@ $C1
 #END
 #FINISHED
 #LOGON 380
-#STATIC 5
 #LOGON 360
 #INFORMATION
 $C1
@@ -212,15 +210,17 @@ $C1\\ Message ends //
 #UNFINISHED
 #LOGON 380
 #PICT 381
-$C4/-/$C7$BS’pht$C4-$C7Translator$C4-$C7Active$b$C4/-/
+$C1// S'pht translator active \\
+$C5
 
-$C5Fires burn, and the marshes of the western hamlets are turning to ash, scorching black the water.
+Fires burn, and the marshes of the western hamlets are turning to ash, scorching black the water.
 
-The attacks are ruthless and cruel, not a S’pht left alive$C7[?Coherent]$C5.
+The attacks are ruthless and cruel, not a S’pht left alive[?Coherent].
 
 Thus began this war between the S’pht’Mnr and the S’pht’Lhar.
+
+$C1\\ End translation //
 #LOGOFF 380
-#STATIC 5
 #LOGON 360
 #INFORMATION
 $C1
