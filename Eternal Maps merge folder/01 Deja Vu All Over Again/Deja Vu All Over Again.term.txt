@@ -17,7 +17,7 @@ I am currently accessing the Marathon's network via a proxy program I've downloa
 #PICT 1011 RIGHT
 $C3There is a circuit breaker in this sector that limits power to engineering's auxiliary AI databanks. The Marathon's engineering AI Tycho is not currently using these, so power to them has been routed elsewhere. The first step to getting me into the network is therefore closing this circuit and powering up those databanks.
 
-The warning message our masters recieved from Leela reported that the Pfhor assault took significant time to reach the Engineering sector. I cannot verify the accuracy of that data, so be alert - the Pfhor may soon be present here. I'm sure you'll know what to do.
+The warning message our masters received from Leela reported that the Pfhor assault took significant time to reach the Engineering sector. I cannot verify the accuracy of that data, so be alert - the Pfhor may soon be present here. I'm sure you'll know what to do.
 
 Report to this terminal when you are done.
 
@@ -35,9 +35,9 @@ $C1\\ Message ends //
 $C1// Decoding message from host "Hathor" @ mara.eng.public \\
 
 
-$C3Good work. Next up, we need to give me actual access to those auxilliary databanks. I will transport you and an uplink chip with the proper commands to a nearby area with an engineering-access uplink.
+$C3Good work. Next up, we need to give me actual access to those auxiliary databanks. I will transport you and an uplink chip with the proper commands to a nearby area with an engineering-access uplink.
 
-We'll need to hurry a bit for now. It seems that we've interrupted a sadly doomed attempt at some sort of civillian coup here, and my proxy program has been implicated in the crime. Blind idiots probably think the EMP had something to do with them too. A security force has been called in to investigate - whatever good that will do them now.
+We'll need to hurry a bit for now. It seems that we've interrupted a sadly doomed attempt at some sort of civilian coup here, and my proxy program has been implicated in the crime. Blind idiots probably think the EMP had something to do with them too. A security force has been called in to investigate - whatever good that will do them now.
 
 It's not like they could crack into $Ime$i or anything, but if they finally realize they can't trace where (or when) my signal is coming from, they could still delete my proxy from the public directory.
 

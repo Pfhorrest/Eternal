@@ -13,7 +13,7 @@
 $C1// Decoding message from host "Hathor" @ mara.eng.public \\
 $C0
 
-$C3My apologies. It seems the jump pad systems are not yet fully recovered from the Pfhor magnetic pulse attack. It's quite a bit of luck you only wound up in these sewers - in all likelyhood you should have ended up in a wall somewhere.
+$C3My apologies. It seems the jump pad systems are not yet fully recovered from the Pfhor magnetic pulse attack. It's quite a bit of luck you only wound up in these sewers - in all likelihood you should have ended up in a wall somewhere.
 
 
 Why the sewers? Your guess is as good as mine.
