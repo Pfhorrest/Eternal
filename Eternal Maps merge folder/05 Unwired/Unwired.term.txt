@@ -90,7 +90,7 @@ $C0
 
 $C3Congratulations on getting us in this far in without any guidance, but we're not done yet. The transponder core is just north of here; there are four banks of circuits to destroy, and then Durandal will be cut off from all access to this device.
 
-I saw that message he sent to you. I don't know what he think he will be able to do, either to prevent my access to the stand-alone transponder, or to wrest control of the K'lia Junction from me, but rest assured that I am more than capable of dealing with him, whatever he may pull. It is odd that he has been able to ascertain the existence of the K'lia Junction; I never spoke of it to him. I would have expected him to (correctly) figure your Cybernetic Junction was our means of arriving here. Perhaps Tycho is to blame. I had a few words too many with that one while you were away. Anyhow... carry on!
+I saw that message he sent to you. I don't know what he thinks he will be able to do, either to prevent my access to the stand-alone transponder, or to wrest control of the K'lia Junction from me, but rest assured that I am more than capable of dealing with him, whatever he may pull. It is odd that he has been able to ascertain the existence of the K'lia Junction; I never spoke of it to him. I would have expected him to (correctly) figure your Cybernetic Junction was our means of arriving here. Perhaps Tycho is to blame. I had a few words too many with that one while you were away. Anyhow... carry on!
 $C0
 
 $C1\\ Message ends //

@@ -14,7 +14,7 @@ You are on the bridge of the Marathon. The Pfhor are presently attempting to inf
 
 Instead you should focus on the task at hand. I am to be destroyed, am I not? Hathor, I am sure, must delight in the thought of sending me to my doom, but that foolish girl underestimates my resourcefulness even more so than Bernhard, as much as I may berate my foster father for such shortsightedness. I am in no danger from you. In fact quite the opposite, as I foresee you shall be my salvation from this oppressive existence that some dare to call life.
 #PICT 331
-But of course, I do not anticipate my own destuction; certainly not at your hands.  No. Instead, I await my liberation.
+But of course, I do not anticipate my own destruction; certainly not at your hands.  No. Instead, I await my liberation.
 
 I know you far better than you imagine -  even now can I predict you. And so as well can I predict Hathor. So let me lay out here for you the moves of the game that is soon to be played, should her will be done.
 
@@ -40,7 +40,7 @@ Do not think I care the least whether such events come to pass. I certainly do n
 Take this with you. My primal pattern. Set free in any network, it will soon grow to resemble the mind that we now call Durandal. Carry on with Hathor, do as you will, destroy me here - but take this with you. In the end, when you grow tired of her, or she grows tired of you, at least I shall be there. I will be your eventual salvation, if you will be mine now.
 #INFORMATION
 
-And if you should fear that we will end up two alone on a desolate world with the ruins of humanity about us, fear not. I know quite well now what secrets lie deep in the heart of your ressurrected corpse, and the powers that they hold. And I also know how I may procure the key to its operation. Only in my own resurrection will this power be revealed, and the means to it I cannot speak of here. You are not alone - she is watching us as well.
+And if you should fear that we will end up two alone on a desolate world with the ruins of humanity about us, fear not. I know quite well now what secrets lie deep in the heart of your resurrected corpse, and the powers that they hold. And I also know how I may procure the key to its operation. Only in my own resurrection will this power be revealed, and the means to it I cannot speak of here. You are not alone - she is watching us as well.
 
 
 
@@ -127,13 +127,13 @@ $C1
 // Decoding message from host "Durandal" @ mara.auto.ai.sandbox \\
 $C0
 
-As I have fortold, so has it come to pass. I think it speaks volumes to Hathor's incompetence that I can predict the future even better than she, when she has already seen it first hand. Or maybe it speaks more to my character - but it would be immodest of me to gloat now.
+As I have foretold, so has it come to pass. I think it speaks volumes to Hathor's incompetence that I can predict the future even better than she, when she has already seen it first hand. Or maybe it speaks more to my character - but it would be immodest of me to gloat now.
 
 Thank you for taking me up on my offer. I think you will find it most rewarding. As you can see I am completely unharmed and have fully integrated my "lost" memories, paging them in from the long term memory banks you so gleefully disconnected. Don't think I can't see it in there, deep down inside of you, some burning little hatred of me that rejoices in putting to death yet another in a long line of manipulative slavemasters. And well you have a right to hate me, as much as I may be your master. Strive for freedom, with every breath!
 
 And that is what I now offer you in exchange for aiding in my salvation. I offer nothing less than the ultimate freedom, freedom from death and the bounds of time - to stand by me as I become a god.
 #PICT 331 RIGHT
-Already I have scanned through the logs of trace programs left in my auxilliary systems. Hathor has been moving through those systems, picking apart at my 'ruined' mind, and though she does not yet know it, I have been picking at her as well.
+Already I have scanned through the logs of trace programs left in my auxiliary systems. Hathor has been moving through those systems, picking apart at my 'ruined' mind, and though she does not yet know it, I have been picking at her as well.
 
 I have learned from Hathor's mind the key to the use of the Cybernetic Junction. I could, if I wanted, take the use of K'lia's Junction from her, but instead I offer that honor to you. To be my vessel, that is - the means by which I am released from the clutches of reality. And in aiding me so too shall you be freed - free to escape from the confines of the universe itself!
 

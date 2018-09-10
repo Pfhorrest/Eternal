@@ -82,7 +82,7 @@ Try again.
 #INFORMATION
 *** INTI STATION PUBLIC ACCESS TERMINAL ***
 
-*** EMERGENGY BROADCAST ***
+*** EMERGENCY BROADCAST ***
 
 Attention all hands. At 0421Uhr this evening, unknown hostile alien forces entered the Sol system directly into orbit between Earth and Mars, presumably via a faster than light drive mechanism. Reports from Earth indicate that the initial party boarded several Martian ships and took their crews captive before it was destroyed by a Sol Guard ship en route to Earth. The attack was quickly followed by a larger fleet which appeared in low Earth orbit and began to take further prisoners en masse. The aliens appear to be slavers; they have deployed a large variety of subservient species alien to their own biology.
 
