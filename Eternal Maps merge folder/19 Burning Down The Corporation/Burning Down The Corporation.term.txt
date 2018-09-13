@@ -45,7 +45,7 @@ Control of my new ship has been handed over to Robert Blake and his men for now.
 
 I've already launched the $Itrih xeem$i, and the enemy fleets seem unaware of it. I suspect that Tycho - whichever one of him - is up to some scheme to grab even more power. No matter, both of them and the Pfhor fleets in this system will soon be nothing but stardust.
 
-The S'pht'Kr have gone, my ship and Blake's men are safely out of range... the oven is off and the doors are all locked, everything seems to be under control here. Lets go.
+The S'pht'Kr have gone, my ship and Blake's men are safely out of range... the oven is off and the doors are all locked, everything seems to be under control here. Let's go.
 
 
 $C1\\ Message ends //
@@ -100,7 +100,7 @@ Control of my new ship has been handed over to Robert Blake and his men for now.
 
 I've already launched the $Itrih xeem$i, and the enemy fleets seem unaware of it. I suspect that Tycho - whichever one of him - is up to some scheme to grab even more power. No matter, both of them and the Pfhor fleets in this system will soon be nothing but stardust.
 
-The S'pht'Kr have gone, my ship and Blake's men are safely out of range... the oven is off and the doors are all locked, everything seems to be under control here. Lets go.
+The S'pht'Kr have gone, my ship and Blake's men are safely out of range... the oven is off and the doors are all locked, everything seems to be under control here. Let's go.
 
 
 $C1\\ Message ends //
