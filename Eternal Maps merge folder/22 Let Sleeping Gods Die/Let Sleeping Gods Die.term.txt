@@ -155,7 +155,7 @@ S'pht'Lhar, S'pht'Hra, S'pht'Nma, S'pht'Kah, S'pht'Vir, S'pht'Yra, S'pht'Val, S'
 $C1
 
 
-$C5You eleven Olders I have gathered unto me. Though each of you heralds from one corner of Lh'owon, you alone amongst your kind may swim her entire breadth, upon the the seas of the aether, beyond that realm of material beings to which your kin are bound. In this aspect, you alone are most akin to my own kind. You shall lead eleven clans as sacred rulers of your kin. This world now holds no love for me, and soon I shall depart it. In another realm, my brethren await me.
+$C5You eleven Olders I have gathered unto me. Though each of you heralds from one corner of Lh'owon, you alone amongst your kind may swim her entire breadth, upon the seas of the aether, beyond that realm of material beings to which your kin are bound. In this aspect, you alone are most akin to my own kind. You shall lead eleven clans as sacred rulers of your kin. This world now holds no love for me, and soon I shall depart it. In another realm, my brethren await me.
 
 I Yrro, who was your master, have failed to preserve you. Take your royalty to guide you, and live upon the paradise that you built for me. Unto you I leave only this one advice. Heed you this last prophecy: Do not mistake your rank and number for superiority. The oldest child may yet learn from the youngest.
 $C1
