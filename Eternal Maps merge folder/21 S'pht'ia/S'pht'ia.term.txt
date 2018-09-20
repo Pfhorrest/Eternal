@@ -33,7 +33,7 @@ Here we go. This is Lh'owon, just as Blake said, and this building is called the
 
 I see no immediate sign of Hathor, which could mean we have arrived before her, but we should look a bit into public history here to see if there are any signs of her arriving earlier.
 
-Roomy as the worldnet is, it appears the S'pht are fragmented into eleven separate clans at this point in history, and I can only access one clan's information from this terminal.
+Roomy as the worldnet is, the S'pht are fragmented into eleven separate clans at this point in history, and I can only access one clan's information from this terminal.
 
 I need you to access another terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
 $C1
@@ -76,7 +76,7 @@ $C1
 // Decoding message from host "S'bhuth" @ [no translation] \\
 
 
-   $C5whence came the W'rkncacnter
+   $C5when came the W'rkncacnter
 
            Yrro became an angry master
 
@@ -175,7 +175,7 @@ Here we go. This is Lh'owon, just as Blake said, and this building is called the
 
 I see no immediate sign of Hathor, which could mean we have arrived before her, but we should look a bit into public history here to see if there are any signs of her arriving earlier.
 
-Roomy as the worldnet is, it appears the S'pht are fragmented into eleven separate clans at this point in history, and I can only access one clan's information from this terminal.
+Roomy as the worldnet is, the S'pht are fragmented into eleven separate clans at this point in history, and I can only access one clan's information from this terminal.
 
 I need you to access another terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
 $C1

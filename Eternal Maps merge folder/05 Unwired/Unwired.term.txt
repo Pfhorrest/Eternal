@@ -90,7 +90,7 @@ $C0
 
 $C3Congratulations on getting us in this far in without any guidance, but we're not done yet. The transponder core is just north of here; there are four banks of circuits to destroy, and then Durandal will be cut off from all access to this device.
 
-I saw that message he sent to you. I don't know what he think he will be able to do, either to prevent my access to the stand-alone transponder, or to wrest control of the K'lia Junction from me, but rest assured that I am more than capable of dealing with him, whatever he may pull. It is odd that he has been able to ascertain the existence of the K'lia Junction; I never spoke of it to him. I would have expected him to (correctly) figure your Cybernetic Junction was our means of arriving here. Perhaps Tycho is to blame. I had a few words too many with that one while you were away. Anyhow... carry on!
+I saw that message he sent to you. I don't know what he thinks he will be able to do, either to prevent my access to the stand-alone transponder, or to wrest control of the K'lia Junction from me, but rest assured that I am more than capable of dealing with him, whatever he may pull. It is odd that he has been able to ascertain the existence of the K'lia Junction; I never spoke of it to him. I would have expected him to (correctly) figure your Cybernetic Junction was our means of arriving here. Perhaps Tycho is to blame. I had a few words too many with that one while you were away. Anyhow... carry on!
 $C0
 
 $C1\\ Message ends //
@@ -130,7 +130,7 @@ $C1<<< Posted 2794.7.3.14.08.39 >>>
 $C1// Decoding message from host "Hathor" [internal process] \\
 $C0
 
-$C3Damn it! Durandal has somehow overridden my access to these systems. I don't know how he did it, and that is precisely the problem. He must have some extremely well-hidden back door access, or some kind of failsafe to keep $Ianyone$i from using this transponder in the event that he was locked out. If I only knew what Durandal did I could circumvent it easily, but everything appears normal. The transponder access hooks just... aren't available. There no way to even $Itry$i to access it.
+$C3Damn it! Durandal has somehow overridden my access to these systems. I don't know how he did it, and that is precisely the problem. He must have some extremely well-hidden back door access, or some kind of failsafe to keep $Ianyone$i from using this transponder in the event that he was locked out. If I only knew what Durandal did I could circumvent it easily, but everything appears normal. The transponder access hooks just... aren't available. There's no way to even $Itry$i to access it.
 
 We'll have to deal with this problem at the source. I'm sending you to the bridge of the Marathon. Durandal's core is located nearby. I want you to deactivate his long term storage cells, and destroy his active logic circuits. There is a sandbox-type AI subsystem adjacent to Durandal's core, and when you are through I will have you upload my program to that system. From there I will be able to step through his deactivated memory pages, and figure some way around this problem.$C0
 

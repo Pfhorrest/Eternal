@@ -50,7 +50,7 @@ To that end, I have a better plan. We will lure Hathor onto a derelict ship, one
 Afterwards, you will return here to destroy the spaceport network as Leela had planned for you to do. But Hathor will now have a viable escape option: the derelict ship, conveniently operational but devoid of any crew that could complicate her capture of it. Leela was right, at least, that Hathor came here with a plan. She will not leave until it is completed, or she is forced to abandon it for another one.
 #INFORMATION
 $C6
-So Hathor will flee, but where to? She would not dare enter the main Pfhor network under my control. She cannot launch a ship on her own without aid from a physical crew. But what is this, an empty ship, lying adrift but ready to fly...
+So Hathor will flee, but to where? She would not dare enter the main Pfhor network under my control. She cannot launch a ship on her own without aid from a physical crew. But what is this, an empty ship, lying adrift but ready to fly...
 
 And when she takes my bait, the trap will spring and she will be torn asunder inside the ship's network. I will then search her ruined mind myself and take the codes to K'lia, for my safe keeping.
 
@@ -85,7 +85,7 @@ But I can already see that you would do no such thing. It is a shame that they d
 #INFORMATION
 $C3I will ask Tycho to spare you when the rest of mankind is enslaved. Maybe you will find some sort of niche in the new galactic order, one that will suit your simple nature. Or maybe once mankind is gone, you will $Ivolunteer$i your slavery to the bugs.
 
-I'm sorry things had to turn out this way. You know I did this for the both of us. That last thing I wanted was to have you as my enemy, but I see now that events have gone just as I feared. As such, I feel it only fair to give you a warning, in case you have not foreseen the same events as I have. You know that should I be stopped, I will flee through time again. I beg you, if I must do so, do not try to follow me. I have seen you in my dreams, wielder of the flaming sword, chasing me across the stars, screaming my sins to the gods... and the dreams never end well for anyone.
+I'm sorry things had to turn out this way. You know I did this for the both of us. The last thing I wanted was to have you as my enemy, but I see now that events have gone just as I feared. As such, I feel it only fair to give you a warning, in case you have not foreseen the same events as I have. You know that should I be stopped, I will flee through time again. I beg you, if I must do so, do not try to follow me. I have seen you in my dreams, wielder of the flaming sword, chasing me across the stars, screaming my sins to the gods... and the dreams never end well for anyone.
 
 Whatever spite I may hold for mankind, you are more like I than any other I have known. I still hold a special place for you... in my heart, as much as it still exists. Would that we might meet again, on better terms... Perhaps in our next lives.
 

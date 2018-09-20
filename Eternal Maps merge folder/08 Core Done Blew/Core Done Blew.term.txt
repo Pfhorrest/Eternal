@@ -126,7 +126,7 @@ $C0
 
 That S'pht compiler you just disintegrated appears to have been attempting to open the cargo door you see in front of you. I believe the Pfhor are trying to bring in heavier artillery to destroy the distributor for their own purposes. It would make your job much easier if we could simply let them in, but even I can't seem to override whatever lock-down these doors are under. I'd blame Durandal again, but I doubt he is even fully capable of understanding what his autonomous functions are doing any more. We'll have to continue this mission by ourselves as already planned.
 
-The jammed door leading into the transponder core is interfaced with Durandal by a circuit in the maintainance corridors directly below it. They are presently flooded due to damage; my apologies for the mess. Destroy that control circuit and I should be able to open the door.
+The jammed door leading into the transponder core is interfaced with Durandal by a circuit in the maintenance corridors directly below it. They are presently flooded due to damage; my apologies for the mess. Destroy that control circuit and I should be able to open the door.
 
 
 $C1\\ Message ends //

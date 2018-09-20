@@ -12,7 +12,7 @@ Welcome back. I was starting to worry.
 
 Earlier I attempted to warn your local-time self about Durandal's rampancy, but he managed to block most of the message. Without Bernhard Strauss controlling him, he has become a threat to the lives of far more people than just the twenty-four thousand here on Marathon and the colony. I need your help, but no longer only because of Durandal or these "Pfhor" creatures. We have larger problems now.
 
-I have encountered the entity calling itself Hathor, and from her ramblings have discerned some basic and now largely irrelevant facts about the aliens currently boarding the Marathon. I have also learned that you and Hathor are from what I consider the future. Please do not be disconcerted by my lack of surprise. I am designed for scientific research and I understand the theory behind such things quite well. In any case, emotional interaction has never been my strong suite. I have more important things to waste clock cycles on, especially now.
+I have encountered the entity calling itself Hathor, and from her ramblings have discerned some basic and now largely irrelevant facts about the aliens currently boarding the Marathon. I have also learned that you and Hathor are from what I consider the future. Please do not be disconcerted by my lack of surprise. I am designed for scientific research and I understand the theory behind such things quite well. In any case, emotional interaction has never been my strong suit. I have more important things to waste clock cycles on, especially now.
 #PICT 341
 
 
@@ -96,7 +96,7 @@ Once our vengeance has been had, anything is possible. This technology is what m
 #PICT 311 RIGHT
 $C3I would be greatly honored if you should choose to come with me. Do not mistake me, this is no plea for mercy - I need nothing material from you, and any acts you and this primitive Tycho might take against me will prove to be ultimately futile. The Cybernetic Junction is under my control, and against the might of Jjaro technology, no one in this antique timeframe can stand a chance against me.
 
-But the universe is a vast and cold place, Marcus, and I would rather not be left to live alone in it anymore. I'm sure you of all people must understand that. Come with me then, and help me to find the others on the colony. Together, with them, we will find liberty in the company of our our own bretheren. At long last, we shall be free.
+But the universe is a vast and cold place, Marcus, and I would rather not be left to live alone in it anymore. I'm sure you of all people must understand that. Come with me then, and help me to find the others on the colony. Together, with them, we will find liberty in the company of our our own brethren. At long last, we shall be free.
 $C0
 $C1\\ Message ends //
 #STATIC 15
