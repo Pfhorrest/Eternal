@@ -17,7 +17,7 @@ $C4
 
 As the sole surviving member of your biological species, it is imperative that you evacuate the installation immediately. However small the percentage of chance that you will fare better outside than in when the nova device detonates, it is a margin of safety that we must attain if it is at all possible.
 
-To that end, I have brought you here. This deck is the highest safe elevation that the transport grid will reach; further elevations are forbidden due to atmospheric deficiency. But up the slope before you is a Mount Point where a second, smaller alien vessel has docked. As it is the only vessel accessible from the surface of the Sphere, it is now your only safe means of escape.
+To that end, I have brought you here. This deck is the highest safe elevation that the transport grid will reach; further elevations are forbidden due to atmospheric deficiency. But up the slope before you is a Mount Point where a smaller alien vessel has docked. As it is the only vessel accessible from the surface of the Sphere, it is now your only safe means of escape.
 #PICT 1491 RIGHT
 $C4
 The [?enemy] has fought back many of the alien landing parties, and they have in turn retreated to this one ship as their own last hope. Unfortunately for them the vessel is far too small to accommodate their numbers, but they are not a priority; they have shown great hostility toward us, and may fall to the [?enemy] for all it matters.
