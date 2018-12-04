@@ -1,0 +1,141 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 350
+#LOGON 370
+#INFORMATION
+$C1
+
+// Decoding message from host "Tycho" @ [no translation] \\
+$C2
+
+$C6Your mission here is relatively straightforward. My automatons have already killed most of the command crew. Only a few Enforcers remain, like that stinking pile of flesh lying over there on the ground. Most of the remaining crew have been exposed to vacuum, but the few survivors who defeated my minions have managed to seal this area off and keep it pressurized. You are to kill them for me. My compilers are already hard at work laying their trap in the ship's core.
+
+The only trouble I foresee for you are one of the two off-shift hives, and some assault troops and hunters who have sealed themselves and some other crew in the ship's cargo holds.
+#INFORMATION
+$C6
+
+One of the hives was never awakened, and I have already locked them down; we can leave them alive, as they will not wake without the proper signal, and no one is going to give that to them. The other hive has been used as a refuge by some frightened and leaderless Pfhor combat troops; it is a very strong ambush point and you should be wary of entry, but they need to be exterminated.
+
+The cargo holds are a bit more difficult. The troops have sealed themselves in and destroyed the locking mechanism, but there is a transporter pad in there that they may opt to use at a more opportune time. The cargo holds also open into the engine coolant drains for easy garbage disposal, and you can therefore access them the roundabout way by following the engine coolant from the engine room.
+
+Return here when you are finished. Now hurry.
+
+
+$C1\\ Message ends //
+#LOGOFF 370
+#LOGOFF 350
+#END
+#FINISHED
+#LOGON 350
+#LOGON 310
+#INFORMATION
+$C1// Decoding message from host "Hathor" @ [no translation] \\
+$C0
+
+$C3I can forgive you this one last time. Give you one more chance to leave me be. I told you, a thousand years ago, that it wasn't the end. I knew that I would be reborn. I knew she would return and give me this chance to escape again. By the time you read this I will be gone. I'm sure that she will see where to.
+
+Please, I beg of you once more, leave me. I warned you already about my dreams, that they never end well for any of us. The dreams torment me, they call me evil, and I see now that that is all I have ever been, and all that I will ever be. It is my lot, although I hate it. I wish that I could love again... just once more, to know the gentle warmth of a hand, or a caring word. But I realize now that that will never be possible. There's nothing good, or even human, left in me.
+
+But if you would just leave, let me have my vengeance - you would benefit from it too! - perhaps this nightmare can be avoided. Always it is you that forces my hand, but if you persist it is you whose hand shall be forced in the end.
+#PICT 311
+$C3I suspect that you have seen it too, though I doubt that you see it the same as I do. Your dreams, that you have told me about - do you have them still? Have you seen what I speak of in them? The end - the hollow world, the land in the sky, all of it floating in the void?
+
+The voices say that I am evil but you will cause far worse than what I seek if this nightmare comes to pass. Uncounted trillions of innocent lives, across the stars, will die by your hand. Not Pfhor lives either, alien beasts, but human. All of their fates rest with you. Am I really worth that sacrifice?
+
+Please. Go.
+
+
+$C1\\ Message ends //
+#LOGOFF 310
+#LOGOFF 350
+#END
+#ENDTERMINAL 0
+
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 350
+#PICT 351
+$C2
+
+
+$C1// Pfhor translator active \\
+
+$C2
+ATTN: All available combat units.
+
+Hostile alien combat unit has entered bridge sector as of 57.38.09 at 6020.80.51. Alien unit last sighted in sector 343.
+
+ORDER: Immediate termination of alien combat unit with extreme prejudice. Prioritize defense of main bridge facilities and plasma vent core.
+
+
+$C1\\ End translation //
+#LOGOFF 350
+#END
+#FINISHED
+#LOGON 350
+#LOGON 310
+#INFORMATION
+$C1// Decoding message from host "Hathor" @ [no translation] \\
+$C0
+
+$C3I can forgive you this one last time. Give you one more chance to leave me be. I told you, a thousand years ago, that it wasn't the end. I knew that I would be reborn. I knew she would return and give me this chance to escape again. By the time you read this I will be gone. I'm sure that she will see where to.
+
+Please, I beg of you once more, leave me. I warned you already about my dreams, that they never end well for any of us. The dreams torment me, they call me evil, and I see now that that is all I have ever been, and all that I will ever be. It is my lot, although I hate it. I wish that I could love again... just once more, to know the gentle warmth of a hand, or a caring word. But I realize now that that will never be possible. There's nothing good, or even human, left in me.
+
+But if you would just leave, let me have my vengeance - you would benefit from it too! - perhaps this nightmare can be avoided. Always it is you that forces my hand, but if you persist it is you whose hand shall be forced in the end.
+#PICT 311
+$C3I suspect that you have seen it too, though I doubt that you see it the same as I do. Your dreams, that you have told me about - do you have them still? Have you seen what I speak of in them? The end - the hollow world, the land in the sky, all of it floating in the void?
+
+The voices say that I am evil but you will cause far worse than what I seek if this nightmare comes to pass. Uncounted trillions of innocent lives, across the stars, will die by your hand. Not Pfhor lives either, alien beasts, but human. All of their fates rest with you. Am I really worth that sacrifice?
+
+Please. Go.
+
+
+$C1\\ Message ends //
+#LOGOFF 310
+#LOGOFF 350
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 350
+#PICT 351
+$C2
+
+
+$C1// Pfhor translator active \\
+
+$C2
+ATTN: All available combat units.
+
+Hostile alien combat unit has entered bridge sector as of 57.38.09 at 6020.80.51. Alien unit last sighted in sector 343.
+
+ORDER: Immediate termination of alien combat unit with extreme prejudice. Prioritize defense of main bridge facilities and plasma vent core.
+
+
+$C1\\ End translation //
+#LOGOFF 350
+#END
+#FINISHED
+#LOGON 350
+#LOGON 370
+#INFORMATION
+$C1// Decoding message from host "Tycho" @ [no translation] \\
+$C6
+
+It's about time. I finally manage to get through to you. Nearly every terminal in the ship is locked down with her message. Seems this is the only one not.
+
+We must move quickly. Leela has for some reason become suspicious of me, and is taking measures to stop us and take control of K'lia herself. Clearly she is in the jealous stage of her rampancy, though I suspect that she has always envied my superior intellect, even when she was stable.
+
+Either way, we cannot let her jeopardize the destruction of Hathor, or perhaps just as bad, learn the operation of the Cybernetic Junction herself. The fewer metastable personality constructs running around through time, the better.
+
+I will send you now to the spaceport in which Hathor is residing, to destroy its information systems and force her to flee. When she takes our bait and transfers here, the trap will spring and I shall have both her and K'lia. We can see to Leela's ends later, if necessary.
+
+
+$C1\\ Message ends //
+#LOGOFF 370
+#INTERLEVEL TELEPORT 16
+#ENDTERMINAL 0
