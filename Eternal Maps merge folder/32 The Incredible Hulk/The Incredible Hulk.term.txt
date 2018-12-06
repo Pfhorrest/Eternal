@@ -46,13 +46,13 @@ $C1[[error - duplicate host id present]]
 
 $C3Disregard that, and pardon the strangeness of this transmission. This is Leela. Hathor has somehow jammed communications and I am having trouble reaching you properly.
 
-A Pfhor flagship has just folded into the system and deployed their first $Itrih xeem$i. Soon it will detonate and this system will become a thin shell of dust and plasma riding the shockwave of it's exploding star. With this jamming field in place you cannot be beamed off the planet, and there's not enough time for this transmitter's power systems to recharge before the shockwave reaches this outpost.
+A Pfhor flagship has just folded into the system and deployed their first $Itrih xeem$i. Soon it will detonate and this system will become a thin shell of dust and plasma riding the shockwave of its exploding star. With this jamming field in place you cannot be beamed off the planet, and there's not enough time for this transmitter's power systems to recharge before the shockwave reaches this outpost.
 #STATIC 5
 #PICT 421 RIGHT
 $C3
 
 
-But there is another option. On a cliff face just south of here is a transport link to another facility in the outpost. That facility is an offworld waste transporter lift, used to beam mining wastes from this colony into Jjaro ships for recycling. It runs on it's own separate power core and thus can be activated in minutes. If you can get there and override the control circuits, I just might be able to reroute that transporter to get us out in time.
+But there is another option. On a cliff face just south of here is a transport link to another facility in the outpost. That facility is an offworld waste transporter lift, used to beam mining wastes from this colony into Jjaro ships for recycling. It runs on its own separate power core and thus can be activated in minutes. If you can get there and override the control circuits, I just might be able to reroute that transporter to get us out in time.
 
 Hurry now, time is of the essence.
 

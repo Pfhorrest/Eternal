@@ -31,7 +31,7 @@ $C4
 
 I have loaded the command codes from the artifact and am resuming standard defense procedures. Much of the defense network has been damaged beyond use and the remainder is likely insufficient to cope with the numbers of [?enemy] flooding the installation.
 
-Nevertheless, all hope is not lost. I have formulated a strategy to destroy the interloper, which identifies itself as "Hathor". I will send you near to the installation's main datacore. For security reasons I cannot transport you directly inside. You must make your way into the main datacore and deactivate the peripheral datastores. This will force the Hathor entity to reorder its [?mind?program] to preserve it's more vital activity.
+Nevertheless, all hope is not lost. I have formulated a strategy to destroy the interloper, which identifies itself as "Hathor". I will send you near to the installation's main datacore. For security reasons I cannot transport you directly inside. You must make your way into the main datacore and deactivate the peripheral datastores. This will force the Hathor entity to reorder its [?mind?program] to preserve its more vital activity.
 #PICT 451 RIGHT
 $C4Eventually it will be forced to discard the key to an inactive circuit. The nonvolatile nature of these circuits will keep the key intact. You may then purge the active memory core, activating the backup circuits. Hathor's child processes will fail with no central host, and the key will reintegrate itself, activating the weapon.
 
@@ -76,7 +76,7 @@ $C4
 
 I have loaded the command codes from the artifact and am resuming standard defense procedures. Much of the defense network has been damaged beyond use and the remainder is likely insufficient to cope with the numbers of [?enemy] flooding the installation.
 
-Nevertheless, all hope is not lost. I have formulated a strategy to destroy the interloper, which identifies itself as "Hathor". I will send you near to the installation's main datacore. For security reasons I cannot transport you directly inside. You must make your way into the main datacore and deactivate the peripheral datastores. This will force the Hathor entity to reorder its [?mind?program] to preserve it's more vital activity.
+Nevertheless, all hope is not lost. I have formulated a strategy to destroy the interloper, which identifies itself as "Hathor". I will send you near to the installation's main datacore. For security reasons I cannot transport you directly inside. You must make your way into the main datacore and deactivate the peripheral datastores. This will force the Hathor entity to reorder its [?mind?program] to preserve its more vital activity.
 #PICT 451 RIGHT
 $C4Eventually it will be forced to discard the key to an inactive circuit. The nonvolatile nature of these circuits will keep the key intact. You may then purge the active memory core, activating the backup circuits. Hathor's child processes will fail with no central host, and the key will reintegrate itself, activating the weapon.
 

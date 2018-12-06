@@ -30,7 +30,7 @@ The Marathon's network is currently experiencing a netsplit due to the magnetic 
 
 Hopefully the aliens' sabotage will suffice to keep Hathor from leaving over wire. We haven't the time to send you to smash every cable relay leading out of the engineering sector. Thankfully, there is only one main wireless relay for each sector of the ship, and the one in Engineering is located right here, in the radio observation center.
 
-To the north you will find the public access observatory arena inside of which is a control tower containing a terminal and two large switches. These switches control access to the secure observatories on the east and west flanks. Inside each of those observatories is another checkpoint which controls two blast doors leading into one of the redundant wireless relays.
+To the north you will find the public access observatory arena inside of which is a control tower containing a terminal and two large switches. These switches control access to the secure observatories on the east and west flanks. Inside each of those observatories is another checkpoint that controls two blast doors leading into one of the redundant wireless relays.
 #PICT 341 RIGHT
 There is another set of doors within there. These are usually manned by a top security team but chances are good that they have either evacuated or been captured or killed by the aliens. My sensors are failing and I apologize for my lack of current data. If the security teams are gone, you will have to find another way into the last chamber. When both redundant systems are destroyed, an emergency backup jump pad hardwired with its own specialized wireless access will become available. I will use that to evacuate you.
 
@@ -138,7 +138,7 @@ $C1\\ Message ends //
 
 This is the Engineering sector Radio Center Emergency Transporter.
 
-This jump pad is connected to a specialized backup control circuit which serves no other function than the operation of this jump pad. In the event that general wireless access is lost due to catastrophic failure of the control circuitry, this transporter and others in select locations will become accessible to facilitate the evacuation of the local crew. 
+This jump pad is connected to a specialized backup control circuit that serves no other function than the operation of this jump pad. In the event that general wireless access is lost due to catastrophic failure of the control circuitry, this transporter and others in select locations will become accessible to facilitate the evacuation of the local crew. 
 
 Thank you, have a nice day.
 
@@ -180,7 +180,7 @@ $C1\\ Message ends //
 
 This is the Engineering sector Radio Center Emergency Transporter.
 
-In the event that general wireless access is lost due to catastrophic failure of the control circuitry, this transporter and others in select locations will become accessible to facilitate the evacuation of the local crew. This jump pad is connected to a specialized backup control circuit which serves no other function than the operation of this jump pad.
+In the event that general wireless access is lost due to catastrophic failure of the control circuitry, this transporter and others in select locations will become accessible to facilitate the evacuation of the local crew. This jump pad is connected to a specialized backup control circuit that serves no other function than the operation of this jump pad.
 
 Thank you, have a nice day.
 

@@ -12,11 +12,11 @@
 $C1// Decoding message from host [unnamed] @ [no translation] \\
 $C4
 
-I am pleased that you have made it this far. Apologies for my brevity; my systems are failing quickly and I fear that I have little time left while I still remain lucid. The rogue [?operator] which I referenced earlier has wrought much damage to my peripheral systems, and though she appears to have evacuated the installation, her attacks continue to propogate of their own accord.
+I am pleased that you have made it this far. Apologies for my brevity; my systems are failing quickly and I fear that I have little time left while I still remain lucid. The rogue [?operator] that I referenced earlier has wrought much damage to my peripheral systems, and though she appears to have evacuated the installation, her attacks continue to propogate of their own accord.
 
 As you can see the alien vessel has evacuated as well. Taken by the [?operator]. I offer you now only my apologies, for I believe that I can be of no further assistance to you. This installation will be destroyed, and most likely the rest of the galaxy with it.
 
-I have a message for you. I have contacted the entity which unlocked the installation. It is a personality construct identified as "Leela".
+I have a message for you. I have contacted the entity that unlocked the installation. It is a personality construct identified as "Leela".
 
 
 $C1\\ Message ends //

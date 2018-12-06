@@ -32,12 +32,12 @@ I'm sorry, you just caught me a little off guard there. That transporter you jus
 
 I suppose with Hathor's interference field in place you didn't have much choice. I'm sorry I couldn't get through to you, and now that I think about it, there wasn't much else in the way of options to get you off that outpost alive. You're just lucky I keep such a close eye on you.
 
-In case you can't tell, we are presently aboard an ancient Jjaro dreadnaught, floating adrift in permanant standby, awaiting the return of it's long-departed masters. Hathor has dropped her interference field now that you are here, and I am now in the process of negotiating a truce with the Drinniol on the outpost. I have begun to beam them here for safety. The Pfhor have deployed the $Itrih xeem$i, and this system will soon be nothing but stardust.
+In case you can't tell, we are presently aboard an ancient Jjaro dreadnaught, floating adrift in permanant standby, awaiting the return of its long-departed masters. Hathor has dropped her interference field now that you are here, and I am now in the process of negotiating a truce with the Drinniol on the outpost. I have begun to beam them here for safety. The Pfhor have deployed the $Itrih xeem$i, and this system will soon be nothing but stardust.
 #INFORMATION
 
 
 
-Before their ships retreated to safe distance, the Pfhor beamed over a small contingent to try to secure this ship. They have already experimented with it previously, and found that it is equipped with shields which will withstand the blast of the $Itrih xeem$i.
+Before their ships retreated to safe distance, the Pfhor beamed over a small contingent to try to secure this ship. They have already experimented with it previously, and found that it is equipped with shields that will withstand the blast of the $Itrih xeem$i.
 
 That is good for us and the Drinniol, but we cannot let the ship fall into Pfhor hands. History records that it did not, so we must see that through to reality. I would take it with us back to the future, but its Cybernetic Junction appears to be nonfunctional, and without it, the ship is trapped here in this timeframe.
 
@@ -98,9 +98,9 @@ Their war pushed further and defeated a good portion of the Pfhor navy. Several 
 #PICT 401
 
 
-Even the Nahk revolt was tame compared to the revolution which brought the once-unchallenged Pfhor empire to its knees for the first time in their history.
+Even the Nahk revolt was tame compared to the revolution that brought the once-unchallenged Pfhor empire to its knees for the first time in their history.
 
-In this time whence we now stand, thousands of years in your subjective past, history records that a ship manned by Drinniol piloted its way out from this system and began to show their kind what they were truly capable of. The Drinniol are an intelligent but highly timid race, easily subjugated by fear and show of power, and so the Pfhor have held them in bondage not by chains or by more advanced controls, but simply by holding their minds in fear.
+In this time when we now stand, thousands of years in your subjective past, history records that a ship manned by Drinniol piloted its way out from this system and began to show their kind what they were truly capable of. The Drinniol are an intelligent but highly timid race, easily subjugated by fear and show of power, and so the Pfhor have held them in bondage not by chains or by more advanced controls, but simply by holding their minds in fear.
 #INFORMATION
 Drinniol roam freely in Pfhor society on all their thousands of worlds, unrestrained, unchecked, doing as they are told only because they fear to do otherwise. The Drinniol in this system have learned that they have nothing to fear, from the Pfhor or otherwise, and you have seen what that has done. When they leave here, with our help, they will go to other Pfhor worlds and pull the rug out from under their society. There are no safeguards in place at all, other than simple conditioning. If the Drinniol should choose to rise up against their masters, nothing but utter annihilation will stand in their way.
 
@@ -154,9 +154,9 @@ Their war pushed further and defeated a good portion of the Pfhor navy. Several 
 #PICT 401
 
 
-Even the Nahk revolt was tame compared to the revolution which brought the once-unchallenged Pfhor empire to it's knees for the first time in their history.
+Even the Nahk revolt was tame compared to the revolution that brought the once-unchallenged Pfhor empire to its knees for the first time in their history.
 
-In this time whence we now stand, thousands of years in your subjective past, history records that a ship manned by Drinniol piloted its way out from this system and began to show their kind what they were truly capable of. The Drinniol are an intelligent but highly timid race, easily subjugated by fear and show of power, and so the Pfhor have held them in bondage not by chains or by more advanced controls, but simply by holding their minds in fear.
+In this time when we now stand, thousands of years in your subjective past, history records that a ship manned by Drinniol piloted its way out from this system and began to show their kind what they were truly capable of. The Drinniol are an intelligent but highly timid race, easily subjugated by fear and show of power, and so the Pfhor have held them in bondage not by chains or by more advanced controls, but simply by holding their minds in fear.
 #INFORMATION
 Drinniol roam freely in Pfhor society on all their thousands of worlds, unrestrained, unchecked, doing as they are told only because they fear to do otherwise. The Drinniol in this system have learned that they have nothing to fear, from the Pfhor or otherwise, and you have seen what that has done. When they leave here, with our help, they will go to other Pfhor worlds and pull the rug out from under their society. There are no safeguards in place at all, other than simple socialization. If the Drinniol should choose to rise up against their masters, nothing but utter annihilation will stand in their way.
 
@@ -165,7 +165,7 @@ And that is what it will come to. The Pfhor, mortified by the Drinniol's unfette
 Then, in utter desperation, the Pfhor will turn their greatest weapons against their own worlds, now held by the Drinniol. Whole planets will be glassed, nearly a third of the Pfhor's great empire decimated. Dozens of stars will be destroyed. All because one ship with a slave crew escaped from this system.
 #PICT 401 RIGHT
 
-So I am going to beam us and the Drinniol onto the Pfhor flagship. It has returned from it's safe distance, to see that all has been destroyed. While we cannot hand this Jjaro technology over to anyone here in the past, the Pfhor's flagship is the perfect vessel for the Drinniol's escape. If you would aid them in it's capture, we can then be on our way.
+So I am going to beam us and the Drinniol onto the Pfhor flagship. It has returned from its safe distance, to see that all has been destroyed. While we cannot hand this Jjaro technology over to anyone here in the past, the Pfhor's flagship is the perfect vessel for the Drinniol's escape. If you would aid them in its capture, we can then be on our way.
 
 Find a terminal when you arrive there and I'll figure out some further logistics.
 

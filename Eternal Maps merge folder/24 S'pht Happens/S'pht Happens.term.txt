@@ -216,7 +216,7 @@ $C1
 // S'pht translator active \\
 $C5
 
-This (?circuit) will activate a (?silica) pump and flood the moat of the Citadel. With its doors locked and its higher chambers sealed we shall be safe there for some time. The Olders have already begun the evacuation to the caverns below, and a (?virus) has been prepared which will keep the slavers at bay. They may take our Citadel, but it will not be without effort, and by that time we shall be safely below.
+This (?circuit) will activate a (?silica) pump and flood the moat of the Citadel. With its doors locked and its higher chambers sealed we shall be safe there for some time. The Olders have already begun the evacuation to the caverns below, and a (?virus) has been prepared that will keep the slavers at bay. They may take our Citadel, but it will not be without effort, and by that time we shall be safely below.
 
 Please Messenger, activate this (?circuit) and I will tell you of our next task.
 

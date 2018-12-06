@@ -16,7 +16,7 @@ $C1[[error - duplicate host id present]]
 
 $C3Leela again.
 
-That thing you just encountered was the cyborg Drinniol which started off this whole little revolution. Hathor beamed it into your path via it's own Cybernetic Junction just before she put up this jamming field, hoping to stop you from deactivating the transmitter array in the first place. Unfortunately she realized a little too late that this Drinniol is smarter than it seems, and now can circumvent her access to it's Junction just as you can. Her placement was certainly less than optimal, and you, fortunately, managed to deactivate the transmitter array anyway. It seems that this plan is failed, but that was likely to be expected. Survival is all that's at stake now.
+That thing you just encountered was the cyborg Drinniol that started off this whole little revolution. Hathor beamed it into your path via its own Cybernetic Junction just before she put up this jamming field, hoping to stop you from deactivating the transmitter array in the first place. Unfortunately she realized a little too late that this Drinniol is smarter than it seems, and now can circumvent her access to its Junction just as you can. Her placement was certainly less than optimal, and you, fortunately, managed to deactivate the transmitter array anyway. It seems that this plan is failed, but that was likely to be expected. Survival is all that's at stake now.
 #STATIC 5
 #PICT 1331
 $C3

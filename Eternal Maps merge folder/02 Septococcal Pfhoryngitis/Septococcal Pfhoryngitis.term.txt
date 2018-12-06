@@ -20,7 +20,7 @@ Why the sewers? Your guess is as good as mine.
 #PICT 1021 RIGHT
 $C3
 
-The program card I was transporting is also residing somewhere in the nearby waters. Thankfully we are still within the engineering sector, and there is an uplink in this area which will be sufficient for our needs.
+The program card I was transporting is also residing somewhere in the nearby waters. Thankfully we are still within the engineering sector, and there is an uplink in this area that will be sufficient for our needs.
 
 Retrieve the card from the location shown and place it in the nearby uplink circuit. When you are done, I will transport you out and on to the next phase of our mission.$C0
 

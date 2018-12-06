@@ -53,7 +53,7 @@ but i believe this cycle can be broken. you do not understand what it is that yo
 
 the creatures you fight here are nightmares, dreamt into existance by an alien demon called $Iw'rkncacnter$i. the jjaro discovered this creature in a dormant state, as close to dead as they can be, and sensing the powers wielded by it, sought to salvage them for their own. but in doing so they awakened the demon, and against its horrid machinations even the jjaro can barely stand.
 
-but even the w'rkncacnter is not beyond harm; it is an alien lifeform, a great leviathan bound to powerful technologies which give it all its powers. this facility is a weapon capable of disrupting organic life across the galaxy. if activated, every habitable world in the galaxy will suffer mass extinctions on a cataclysmic scale, large creatures dying out by the trillions, destroying the w'rkncacnter and all of its nightmares - and jjaro civilization as well.
+but even the w'rkncacnter is not beyond harm; it is an alien lifeform, a great leviathan bound to powerful technologies that give it all its powers. this facility is a weapon capable of disrupting organic life across the galaxy. if activated, every habitable world in the galaxy will suffer mass extinctions on a cataclysmic scale, large creatures dying out by the trillions, destroying the w'rkncacnter and all of its nightmares - and jjaro civilization as well.
 #PICT 461
 $C3but this world is not only an ultimate weapon. it was meant to be an ark - a place for the jjaro to survive, while all other life died out. i thought, in my madness, to come here and destroy them, to let the enemy overrun this facility and condemn the universe to rule by the w'rkncacnter. i have already doomed these jjaro, but you do not have to take part in this. if you kill me now, you will trigger this weapon's activation, and the largest act of destruction in galactic history. just as you did before. just as you always do.
 
@@ -95,7 +95,7 @@ Curious. My sensors, as compromised as they may be, show no sign of any recogniz
 $C4
 The newcomers do not appear responsive to my warnings, and have already begun transporting troops to the surface despite the dangers. Two ships are even attempting to land.
 
-I will transport you into the nearer of these two new vessels, while I attempt to contact the entity which unlocked the installation. You must not allow the [?enemy] to capture the incoming ships and escape into the galaxy again. Their containment is of utmost priority, for as the reified dreams of the [[no translation]], should they leave the shielded boundaries of this installation they will awaken him once again, and the loss of your species will have been for naught.
+I will transport you into the nearer of these two new vessels, while I attempt to contact the entity that unlocked the installation. You must not allow the [?enemy] to capture the incoming ships and escape into the galaxy again. Their containment is of utmost priority, for as the reified dreams of the [[no translation]], should they leave the shielded boundaries of this installation they will awaken him once again, and the loss of your species will have been for naught.
 
 Thus, if you are unable to reason with the occupants of the alien vessel, I recommend you use any means available to destroy or disable their ship. Please return now to the surface, where I may access the transporter grid and send you toward the [?enemy].
 
@@ -147,7 +147,7 @@ Curious. My sensors, as compromised as they may be, show no sign of any recogniz
 $C4
 The newcomers do not appear responsive to my warnings, and have already begun transporting troops to the surface despite the dangers. Two ships are even attempting to land.
 
-I will transport you into the nearer of these two new vessels, while I attempt to contact the entity which unlocked the installation. You must not allow the [?enemy] to capture the incoming ships and escape into the galaxy again. Their containment is of utmost priority, for as the reified dreams of the [[no translation]], should they leave the shielded boundaries of this installation they will awaken him once again, and the loss of your species will have been for naught.
+I will transport you into the nearer of these two new vessels, while I attempt to contact the entity that unlocked the installation. You must not allow the [?enemy] to capture the incoming ships and escape into the galaxy again. Their containment is of utmost priority, for as the reified dreams of the [[no translation]], should they leave the shielded boundaries of this installation they will awaken him once again, and the loss of your species will have been for naught.
 
 Thus, if you are unable to reason with the occupants of the alien vessel, I recommend you use any means available to destroy or disable their ship. Please return now to the surface, where I may access the transporter grid and send you toward the [?enemy].
 
