@@ -51,14 +51,7 @@ $C1
 $C0
 Well, I can't find any clear data transfer records that would let me trace Hathor's arrival and movement in the network. The S'pht worldnet seems to function more like a giant neural net, retaining and discarding data in a very nonlinear, unstructured fashion.
 
-I believe that Hathor came here to destroy the S'pht, or somehow help them destroy themselves, here in the distant past, so as to deprive mankind of their aid in the wars that are to come. As tempted as I'm sure you must be to go out and start killing $Isomething$i to fix the problem, we must be careful not to act rashly here lest we disturb this timeline even further.
-#PICT 361
-
-You should stay here inside the Citadel. I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.
-
-I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
-
-Check in to terminals frequently, I will contact you when I have further information. Please be patient, this may take a while.
+You should stay here inside the Citadel. I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.  Log in to as many terminal as you can find, so we can access further information.
 
 
 $C1\\ Message ends //
@@ -192,14 +185,7 @@ $C1
 $C0
 Well, I can't find any clear data transfer records that would let me trace Hathor's arrival and movement in the network. The S'pht worldnet seems to function more like a giant neural net, retaining and discarding data in a very nonlinear, unstructured fashion.
 
-I believe that Hathor came here to destroy the S'pht, or somehow help them destroy themselves, here in the distant past, so as to deprive mankind of their aid in the wars that are to come. As tempted as I'm sure you must be to go out and start killing $Isomething$i to fix the problem, we must be careful not to act rashly here lest we disturb this timeline even further.
-#PICT 361
-You should head into the Citadel. There I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.
-
-I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
-
-Check in to terminals frequently, I will contact you when I have further information. Please be patient, this may take a while.
-
+You should head into the Citadel. There I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.  Log in to as many terminals as you can find, so we can access further information. 
 
 $C1\\ Message ends //
 #LOGOFF 360
@@ -237,4 +223,37 @@ $C1\\ Message ends //
 #LOGOFF 360
 #LOGOFF 380
 #ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 380
+#LOGON 360
+#INFORMATION
+$C1
+// Decoding message from host "Leela" @ [no translation] \\
+$C0
+I believe that Hathor came here to destroy the S'pht, or somehow help them destroy themselves, here in the distant past, so as to deprive mankind of their aid in the wars that are to come. As tempted as I'm sure you must be to go out and start killing $Isomething$i to fix the problem, we must be careful not to act rashly here lest we disturb this timeline even further.
 
+Keep logging into terminals, I need more information.
+$C1
+\\ Message ends //
+#LOGOFF 360
+#LOGOFF 380
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 380
+#LOGON 360
+#INFORMATION
+$C1
+// Decoding message from host "Leela" @ [no translation] \\
+$C0
+I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
+
+Please be patient, this may take a while.
+$C1
+\\ Message ends //
+#LOGOFF 360
+#LOGOFF 380
+#ENDTERMINAL 5
