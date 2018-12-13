@@ -8,7 +8,6 @@
 $C1
 
 
-
 // Decoding message from host "Leela" [internal process] \\
 
 $C0
@@ -51,14 +50,7 @@ $C1
 $C0
 Well, I can't find any clear data transfer records that would let me trace Hathor's arrival and movement in the network. The S'pht worldnet seems to function more like a giant neural net, retaining and discarding data in a very nonlinear, unstructured fashion.
 
-I believe that Hathor came here to destroy the S'pht, or somehow help them destroy themselves, here in the distant past, so as to deprive mankind of their aid in the wars that are to come. As tempted as I'm sure you must be to go out and start killing $Isomething$i to fix the problem, we must be careful not to act rashly here lest we disturb this timeline even further.
-#PICT 361
-
-You should stay here inside the Citadel. I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.
-
-I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
-
-Check in to terminals frequently, I will contact you when I have further information. Please be patient, this may take a while.
+You should stay here inside the Citadel. I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.  Log in to as many terminal as you can find, so we can access further information.
 
 
 $C1\\ Message ends //
@@ -188,18 +180,12 @@ $C1
 #LOGON 360
 #INFORMATION
 $C1
+
 // Decoding message from host "Leela" @ [no translation] \\
 $C0
 Well, I can't find any clear data transfer records that would let me trace Hathor's arrival and movement in the network. The S'pht worldnet seems to function more like a giant neural net, retaining and discarding data in a very nonlinear, unstructured fashion.
 
-I believe that Hathor came here to destroy the S'pht, or somehow help them destroy themselves, here in the distant past, so as to deprive mankind of their aid in the wars that are to come. As tempted as I'm sure you must be to go out and start killing $Isomething$i to fix the problem, we must be careful not to act rashly here lest we disturb this timeline even further.
-#PICT 361
-You should head into the Citadel. There I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.
-
-I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
-
-Check in to terminals frequently, I will contact you when I have further information. Please be patient, this may take a while.
-
+You should head into the Citadel. There I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.  Log in to as many terminals as you can find, so we can access further information. 
 
 $C1\\ Message ends //
 #LOGOFF 360
@@ -210,22 +196,23 @@ $C1\\ Message ends //
 #UNFINISHED
 #LOGON 380
 #PICT 381
+
+
 $C1// S'pht translator active \\
 $C5
 
 Fires burn, and the marshes of the western hamlets are turning to ash, scorching black the water.
 
-The attacks are ruthless and cruel, not a S’pht left alive[?Coherent].
+The attacks are ruthless and cruel, not a S’pht left alive$C1[?Coherent]$C5.
 
-Thus began this war between the S’pht’Mnr and the S’pht’Lhar.
+$BThus began this war between the S’pht’Mnr and the S’pht’Lhar.$b
+
 
 $C1\\ End translation //
 #LOGOFF 380
 #LOGON 360
 #INFORMATION
 $C1
-
-
 
 // Decoding message from host "Leela" @ [no translation] \\
 $C0
@@ -237,4 +224,69 @@ $C1\\ Message ends //
 #LOGOFF 360
 #LOGOFF 380
 #ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 380
+#PICT 381
 
+
+$C1// S'pht translator active \\
+$C5
+
+Older foretold that ere the clans are united, ours would be destroyed.  As battle rages across the marshes, as innocent S'pht die in the crossfire, we $C1[?dread?anticipate]$C5 the possible imminence of our demise.
+
+Yet the windows of this citadel have not been closed, as Older foretold, nor will they be.  The marshes are far from here, and the Citadel remains a place where all S'pht congregate, despite the minor skirmishes when Mnr and Lhar meet.
+#PICT 381
+
+
+$C5If this is not the end, how much more bloodshed must the Hra witness?  We would join the Kr in turning away, but they will not have us, lest their appendages be the ones that fulfill Older's prophecy.
+
+
+$C1\\ End translation //
+#LOGON 360
+#INFORMATION
+$C1
+
+// Decoding message from host "Leela" @ [no translation] \\
+$C0
+I believe that Hathor came here to destroy the S'pht, or somehow help them destroy themselves, here in the distant past, so as to deprive mankind of their aid in the wars that are to come. As tempted as I'm sure you must be to go out and start killing $Isomething$i to fix the problem, we must be careful not to act rashly here lest we disturb this timeline even further.
+
+Keep logging into terminals, I need more information.
+$C1
+\\ Message ends //
+#LOGOFF 360
+#LOGOFF 380
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 380
+#PICT 381
+$C1// S'pht translator active \\
+$C5
+$BReport to Leader$b
+$IAnomalous beings detected$i
+
+A most unusual biped just was seen crawling out of the lava ponds.  It appeared to be bonded to cybernetics and thus sentient, but not like anything we have seen before.  Nearby Mnr and Lhar both fired on it immediately, so it may be an ally of Kr.
+
+Moments later, an unusual presence was detected on our computer net, and just as soon vanished.  Like the biped, what little we could ascertain bore no resemblance to any entity we know.  We have forwarded this intelligence to S'bhuth, hopefully they will have some answers.
+
+$C1\\ End translation //
+#LOGON 360
+#INFORMATION
+$C1
+
+// Decoding message from host "Leela" @ [no translation] \\
+$C0
+
+That is not good news. It would appear that a free S'pht computer net is much more capable than I anticipated. We $Bmust$b be more careful to hide our presence here. On the other hand, their failure to recognise us suggests that particular clan has not had contact with Hathor.
+
+I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
+
+Please be patient, this may take a while.
+$C1
+\\ Message ends //
+#LOGOFF 360
+#LOGOFF 380
+#ENDTERMINAL 5
