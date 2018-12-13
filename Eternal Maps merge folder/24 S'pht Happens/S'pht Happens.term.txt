@@ -212,7 +212,6 @@ $C1
 #LOGON 380
 #PICT 1242
 $C1
-
 // S'pht translator active \\
 $C5
 Your prowess in combat is truly remarkable. It is at once marvelous and terrifying to observe you.
