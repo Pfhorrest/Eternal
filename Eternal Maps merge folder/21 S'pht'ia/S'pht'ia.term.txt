@@ -234,9 +234,9 @@ $C1\\ Message ends //
 $C1// S'pht translator active \\
 $C5
 
-Older foretold that ere the clans are united, ours would be destroyed.  As battle rages across the marshes, as innocent S'pht die in the crossfire, we $C1[dread,anticipate]$C5 the possible imminence of our demise.
+Older foretold that ere the clans are united, ours would be destroyed.  As battle rages across the marshes, as innocent S'pht die in the crossfire, we $C1[?dread?anticipate]$C5 the possible imminence of our demise.
 
-Yet the windows of this citadel have not been closed, as older foretold, nor will they be.  The marshes are far from here, and the Citadel remains a place where all S'pht congregate, despite the minor skirmishes when Mnr and Lhar meet.
+Yet the windows of this citadel have not been closed, as Older foretold, nor will they be.  The marshes are far from here, and the Citadel remains a place where all S'pht congregate, despite the minor skirmishes when Mnr and Lhar meet.
 #PICT 381
 
 
@@ -268,7 +268,7 @@ $C5
 $BReport to Leader$b
 $IAnomalous beings detected$i
 
-A most unusual biped just was seen crawling out of the lava ponds.  It appeared to be bonded to cybernetics and thus sentient, but not like anything we have seen before.  Nearby Mnr and Lhar both fired on it immediately, so it may be an ally of the Kr.
+A most unusual biped just was seen crawling out of the lava ponds.  It appeared to be bonded to cybernetics and thus sentient, but not like anything we have seen before.  Nearby Mnr and Lhar both fired on it immediately, so it may be an ally of Kr.
 
 Moments later, an unusual presence was detected on our computer net, and just as soon vanished.  Like the biped, what little we could ascertain bore no resemblance to any entity we know.  We have forwarded this intelligence to S'bhuth, hopefully they will have some answers.
 

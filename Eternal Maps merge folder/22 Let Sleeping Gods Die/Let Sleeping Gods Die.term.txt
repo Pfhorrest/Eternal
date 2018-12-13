@@ -163,3 +163,57 @@ $C1
 \\ End translation //
 #LOGOFF 380
 #ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 380
+#PICT 381
+
+
+$C1// S'pht translator active \\
+$C5
+Surely Mnr realise that Lhar hold the S'ct'lac'tr?
+
+They may think us too squeamish to turn such a weapon on fellow S'pht, but if they continue to raid the civillian hamlets we may have no choice.
+
+The fainthearted Kr will never forgive us for even considering this course of action, but their forgiveness will do us little good if Kr is slaughtered by Mnr.
+
+$C1\\ End translation //
+#LOGOFF 380
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 380
+#PICT 381
+
+
+$C1// S'pht translator active \\
+$C5
+Mnr drove us from our marsh at the fullness of T'jia.  Then Lhar came, claiming to liberate it for us, but this liberation came at a price too terrible to bear.
+
+I never imagined we would think to look for safety by hiding here amongst the F'lick'ta.
+
+$C1\\ End translation //
+#LOGOFF 380
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 380
+#STATIC 5
+#LOGON 360
+#STATIC 5
+#INFORMATION
+
+$C1// Decoding message from host "Leela" @ [no translation]\\
+
+$C0546865726520796f7520617265212020576861742061726520796f7520646f696e6720646f776e20686572653f20204920746f6c6420796f7520746f2062652070617469656e742e20205374616e64627920666f72207472616e73706f72742c2049207468696e6b204927766520666f756e6420486174686f7220616e6420
+
+$C1\\ Connection interrupted by remote [unknown] @ [no translation] //
+#STATIC 5
+#LOGOFF 360
+#STATIC 5
+#LOGOFF 380
+#ENDTERMINAL 5
+;
