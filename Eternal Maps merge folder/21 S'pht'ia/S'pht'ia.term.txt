@@ -2,43 +2,20 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 380
-#STATIC 5
 #LOGON 360
 #INFORMATION
-$C1
 
 
-// Decoding message from host "Leela" [internal process] \\
-
-$C0
-Welcome to Lh'owon. At least, that's what Blake told me when I showed him the coordinates from Hathor's last transport. Does it look familiar to you? It's probably changed a lot between now and the last time that you saw it... we've arrived here some 2000 years earlier.
-
-Give me a moment to see if I can connect to the S'pht network...
-
-
-$C1\\ Message ends //
-#LOGOFF 360
-#STATIC 15
-#LOGON 380
-#LOGON 360
-#INFORMATION
 $C1// Decoding message from host "Leela" @ [no translation] \\
 $C0
-There we are. This place is even roomier than you are, though I suppose that's to be expected for a planetary grid. It still doesn't hold a candle to the Vylae network.
+No, I already have access to this clan's network.  I need you to access another terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
 
-Let me see if I can find any useful information around here. My trace of Hathor was approximate - it seems the process of aiming an ansible link is done fractally, refining the resolution in diminishing increments, and I didn't catch the last few cycles of it. We may be on the wrong continent, or have missed her by a few years. I'm sure you noticed our entrance here was anything but stable. Lucky we wound up as low in the atmosphere as we did.
-#PICT 361
-Here we go. This is Lh'owon, just as Blake said, and this building is called the 'Citadel of Antiquities' - stop me if I'm covering data that you already know.
-
-I see no immediate sign of Hathor, which could mean we have arrived before her, but we should look a bit into public history here to see if there are any signs of her arriving earlier.
-
-Roomy as the worldnet is, the S'pht are fragmented into eleven separate clans at this point in history, and I can only access one clan's information from this terminal.
-
-I need you to access another terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
+However, I do have access to the teleporter grid from here.  I think I can put you near a pattern buffer closer to another clan's network.  Hang on...
 $C1
 \\ Message ends //
 #LOGOFF 360
 #LOGOFF 380
+#INTRALEVEL TELEPORT 96
 #END
 #FINISHED
 #LOGON 380
@@ -183,9 +160,11 @@ $C1
 
 // Decoding message from host "Leela" @ [no translation] \\
 $C0
-Well, I can't find any clear data transfer records that would let me trace Hathor's arrival and movement in the network. The S'pht worldnet seems to function more like a giant neural net, retaining and discarding data in a very nonlinear, unstructured fashion.
 
-You should head into the Citadel. There I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.  Log in to as many terminals as you can find, so we can access further information. 
+No, I already have access to this clan's network.  You can find more terminals in the tower to the south of the compound.  You know that tall, round building we saw earlier while we were falling?  That tower.
+
+I'm sure you can find your way there.
+
 
 $C1\\ Message ends //
 #LOGOFF 360
@@ -216,7 +195,7 @@ $C1
 
 // Decoding message from host "Leela" @ [no translation] \\
 $C0
-Here we are.  This terminal's clan has access to a meticulous record of historical events, including astronomical data, that I can use to pinpoint where we are in history. And now that I have a second clan's access, I should be able to hack in to the rest of the network and start looking for any sign of Hathor.
+Here we are.  This terminal's clan has access to a meticulous record of historical events, including astronomical data, that I can use to pinpoint where we are in history.  And now that I have a second clan's access, I should be able to hack in to more of the network and start looking for any sign of Hathor.
 
 According to the records here, you should be able to find more terminals in the nearby tower.  Head there while I search the S'pht worldnet.
 
@@ -262,7 +241,7 @@ $C1
 #TERMINAL 5
 #UNFINISHED
 #LOGON 380
-#PICT 381
+#PICT 1203
 $C1// S'pht translator active \\
 $C5
 $BReport to Leader$b
@@ -280,9 +259,9 @@ $C1
 // Decoding message from host "Leela" @ [no translation] \\
 $C0
 
-That is not good news. It would appear that a free S'pht computer net is much more capable than I anticipated. We $Bmust$b be more careful to hide our presence here. On the other hand, their failure to recognise us suggests that particular clan has not had contact with Hathor.
+That is not good news. It would appear that S'pht computer security is much more capable than I anticipated. We $Bmust$b be more careful to hide our presence here. On the other hand, their failure to recognise us suggests that particular clan has not had contact with Hathor.
 
-I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
+Now that I have enough access, I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived.  If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
 
 Please be patient, this may take a while.
 $C1
