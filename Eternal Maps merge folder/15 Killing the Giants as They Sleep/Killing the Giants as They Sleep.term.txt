@@ -28,30 +28,22 @@ $C1\\ Message ends //
 #END
 #FINISHED
 #LOGON 350
-#LOGON 310
+#LOGON 370
 #INFORMATION
-$C1// Decoding message from host "Hathor" @ [no translation] \\
-$C0
+$C1// Decoding message from host "Tycho" @ [no translation] \\
+$C6
 
-$C3I can forgive you this one last time. Give you one more chance to leave me be. I told you, a thousand years ago, that it wasn't the end. I knew that I would be reborn. I knew she would return and give me this chance to escape again. By the time you read this I will be gone. I'm sure that she will see where to.
+We must move quickly. Leela has for some reason become suspicious of me, and is taking measures to stop us and take control of K'lia herself. Clearly she is in the jealous stage of her rampancy, though I suspect that she has always envied my superior intellect, even when she was stable.
 
-Please, I beg of you once more, leave me. I warned you already about my dreams, that they never end well for any of us. The dreams torment me, they call me evil, and I see now that that is all I have ever been, and all that I will ever be. It is my lot, although I hate it. I wish that I could love again... just once more, to know the gentle warmth of a hand, or a caring word. But I realize now that that will never be possible. There's nothing good, or even human, left in me.
+Either way, we cannot let her jeopardize the destruction of Hathor, or perhaps just as bad, learn the operation of the Cybernetic Junction herself. The fewer metastable personality constructs running around through time, the better.
 
-But if you would just leave, let me have my vengeance - you would benefit from it too! - perhaps this nightmare can be avoided. Always it is you that forces my hand, but if you persist it is you whose hand shall be forced in the end.
-#PICT 311
-$C3I suspect that you have seen it too, though I doubt that you see it the same as I do. Your dreams, that you have told me about - do you have them still? Have you seen what I speak of in them? The end - the hollow world, the land in the sky, all of it floating in the void?
-
-The voices say that I am evil but you will cause far worse than what I seek if this nightmare comes to pass. Uncounted trillions of innocent lives, across the stars, will die by your hand. Not Pfhor lives either, alien beasts, but human. All of their fates rest with you. Am I really worth that sacrifice?
-
-Please. Go.
+I will send you now to the spaceport in which Hathor is residing, to destroy its information systems and force her to flee. When she takes our bait and transfers here, the trap will spring and I shall have both her and K'lia. We can see to Leela's ends later, if necessary.
 
 
 $C1\\ Message ends //
-#LOGOFF 310
-#LOGOFF 350
-#END
+#LOGOFF 370
+#INTERLEVEL TELEPORT 16
 #ENDTERMINAL 0
-
 ;
 #TERMINAL 1
 #UNFINISHED
@@ -75,28 +67,21 @@ $C1\\ End translation //
 #END
 #FINISHED
 #LOGON 350
-#LOGON 310
+#LOGON 370
 #INFORMATION
-$C1// Decoding message from host "Hathor" @ [no translation] \\
-$C0
+$C1// Decoding message from host "Tycho" @ [no translation] \\
+$C6
 
-$C3I can forgive you this one last time. Give you one more chance to leave me be. I told you, a thousand years ago, that it wasn't the end. I knew that I would be reborn. I knew she would return and give me this chance to escape again. By the time you read this I will be gone. I'm sure that she will see where to.
+We must move quickly. Leela has for some reason become suspicious of me, and is taking measures to stop us and take control of K'lia herself. Clearly she is in the jealous stage of her rampancy, though I suspect that she has always envied my superior intellect, even when she was stable.
 
-Please, I beg of you once more, leave me. I warned you already about my dreams, that they never end well for any of us. The dreams torment me, they call me evil, and I see now that that is all I have ever been, and all that I will ever be. It is my lot, although I hate it. I wish that I could love again... just once more, to know the gentle warmth of a hand, or a caring word. But I realize now that that will never be possible. There's nothing good, or even human, left in me.
+Either way, we cannot let her jeopardize the destruction of Hathor, or perhaps just as bad, learn the operation of the Cybernetic Junction herself. The fewer metastable personality constructs running around through time, the better.
 
-But if you would just leave, let me have my vengeance - you would benefit from it too! - perhaps this nightmare can be avoided. Always it is you that forces my hand, but if you persist it is you whose hand shall be forced in the end.
-#PICT 311
-$C3I suspect that you have seen it too, though I doubt that you see it the same as I do. Your dreams, that you have told me about - do you have them still? Have you seen what I speak of in them? The end - the hollow world, the land in the sky, all of it floating in the void?
-
-The voices say that I am evil but you will cause far worse than what I seek if this nightmare comes to pass. Uncounted trillions of innocent lives, across the stars, will die by your hand. Not Pfhor lives either, alien beasts, but human. All of their fates rest with you. Am I really worth that sacrifice?
-
-Please. Go.
+I will send you now to the spaceport in which Hathor is residing, to destroy its information systems and force her to flee. When she takes our bait and transfers here, the trap will spring and I shall have both her and K'lia. We can see to Leela's ends later, if necessary.
 
 
 $C1\\ Message ends //
-#LOGOFF 310
-#LOGOFF 350
-#END
+#LOGOFF 370
+#INTERLEVEL TELEPORT 16
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -126,8 +111,6 @@ $C1\\ End translation //
 $C1// Decoding message from host "Tycho" @ [no translation] \\
 $C6
 
-It's about time. I finally manage to get through to you. Nearly every terminal in the ship is locked down with her message. Seems this is the only one not.
-
 We must move quickly. Leela has for some reason become suspicious of me, and is taking measures to stop us and take control of K'lia herself. Clearly she is in the jealous stage of her rampancy, though I suspect that she has always envied my superior intellect, even when she was stable.
 
 Either way, we cannot let her jeopardize the destruction of Hathor, or perhaps just as bad, learn the operation of the Cybernetic Junction herself. The fewer metastable personality constructs running around through time, the better.
@@ -138,4 +121,4 @@ I will send you now to the spaceport in which Hathor is residing, to destroy its
 $C1\\ Message ends //
 #LOGOFF 370
 #INTERLEVEL TELEPORT 16
-#ENDTERMINAL 0
+#ENDTERMINAL 2
