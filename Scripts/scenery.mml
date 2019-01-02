@@ -1,0 +1,89 @@
+<marathon>
+<scenery>
+
+<!-- Water: Short Light -->
+	<object index="14" flags="5" radius="170" height="-128" destruction="27"/>
+
+<!-- Water: Long Light -->
+	<object index="15" flags="5" radius="128" height="-128" destruction="28"/>
+
+<!-- Water: Security Monitor -->
+	<object index="24" flags="5" radius="128" height="1024" destruction="16">
+		<normal>
+			<shape coll="22" clut="0" seq="16"/>
+		</normal>
+		<destroyed>
+			<shape coll="22" clut="0" seq="24"/>
+		</destroyed>
+	</object>
+
+
+<!-- Lava: Hanging Light #1 -->
+	<object index="6" flags="5" radius="128" height="-128" destruction="27"/>
+
+<!-- Lava: Hanging Light #2 -->
+	<object index="7" flags="5" radius="128" height="-128" destruction="27"/>
+
+
+<!-- Sewage: Stubby Green Light -->
+	<object index="28" flags="5" radius="170" height="-128" destruction="27"/>
+
+<!-- Sewage: Long Green Light -->
+	<object index="29" flags="5" radius="170" height="-128" destruction="27"/>
+
+
+<!-- Jjaro: Short Ceiling Light -->
+	<object index="50" flags="5" radius="170" height="-128" destruction="27">
+		<normal>
+			<shape coll="25" clut="0" seq="5"/>
+		</normal>
+		<destroyed>
+			<shape coll="25" clut="0" seq="6"/>
+		</destroyed>
+	</object>
+
+<!-- Jjaro: Long Light -->
+	<object index="51" flags="5" radius="128" height="1024" destruction="16">
+		<normal>
+			<shape coll="25" clut="0" seq="7"/>
+		</normal>
+		<destroyed>
+			<shape coll="25" clut="0" seq="8"/>
+		</destroyed>
+	</object>
+
+<!-- Pfhor: Green Light -->
+	<object index="39" flags="5" radius="170" height="-128" destruction="29"/>
+
+<!-- Pfhor: Small Alien Light -->
+	<object index="40" flags="5" radius="170" height="-128" destruction="30"/>
+
+<!-- Pfhor: Alien Ceiling Light -->
+	<object index="41" flags="5" radius="170" height="-128" destruction="29"/>
+
+</scenery>
+
+<texture_loading landscapes="1">
+   <texture_env index="0" which="0" coll="17"/>
+   <texture_env index="0" which="1" coll="22"/>
+   <texture_env index="0" which="2" coll="23"/>
+   <texture_env index="0" which="3" coll="25"/>
+
+   <texture_env index="1" which="0" coll="18"/>
+   <texture_env index="1" which="1" coll="22"/>
+   <texture_env index="1" which="2" coll="25"/>
+
+   <texture_env index="2" which="0" coll="19"/>
+   <texture_env index="2" which="1" coll="22"/>
+   <texture_env index="2" which="2" coll="25"/>
+
+   <texture_env index="3" which="0" coll="20"/>
+   <texture_env index="3" which="1" coll="22"/>
+   <texture_env index="3" which="2" coll="25"/>
+
+   <texture_env index="4" which="0" coll="21"/>
+   <texture_env index="4" which="1" coll="24"/>
+   <texture_env index="4" which="2" coll="26"/>
+</texture_loading>
+
+</marathon>

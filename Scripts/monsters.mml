@@ -1,0 +1,82 @@
+<marathon>
+
+	<!-- Motion Sensor Options -->
+	<motion_sensor>
+		<assign monster="20" type="0"/>
+	</motion_sensor>
+
+
+	<!-- Overhead Map Options -->
+	<overhead_map>
+		<aliens on="1"/>
+		<items on="1"/>
+		<assign_live monster="20" type="0"/>
+		<assign_dead coll="2" type="-1"/>
+		<assign_dead coll="3" type="-1"/>
+		<assign_dead coll="4" type="-1"/>
+		<assign_dead coll="5" type="-1"/>
+		<assign_dead coll="8" type="-1"/>
+		<assign_dead coll="9" type="-1"/>
+		<assign_dead coll="10" type="-1"/>
+		<assign_dead coll="11" type="-1"/>
+		<assign_dead coll="12" type="-1"/>
+		<assign_dead coll="13" type="-1"/>
+		<assign_dead coll="14" type="-1"/>
+		<assign_dead coll="15" type="-1"/>
+		<assign_dead coll="16" type="-1"/>
+		<assign_dead coll="31" type="-1"/>
+	</overhead_map>
+
+
+	<!-- Infravision Effects -->
+	<infravision>
+		<color index="00" red="0" green="1" blue="0"/>
+		<color index="02" red="0.95" green="1" blue="0.95"/>
+		<assign coll="00" color="00"/>
+		<assign coll="01" color="00"/>
+		<assign coll="02" color="00"/>
+		<assign coll="03" color="00"/>
+		<assign coll="04" color="00"/>
+		<assign coll="05" color="00"/>
+		<assign coll="06" color="00"/>
+		<assign coll="07" color="00"/>
+		<assign coll="08" color="00"/>
+		<assign coll="09" color="00"/>
+		<assign coll="10" color="00"/>
+		<assign coll="11" color="00"/>
+		<assign coll="12" color="00"/>
+		<assign coll="13" color="00"/>
+		<assign coll="14" color="00"/>
+		<assign coll="15" color="00"/>
+		<assign coll="16" color="00"/>
+		<assign coll="17" color="02"/>
+		<assign coll="18" color="02"/>
+		<assign coll="19" color="02"/>
+		<assign coll="20" color="02"/>
+		<assign coll="21" color="02"/>
+		<assign coll="22" color="02"/>
+		<assign coll="23" color="02"/>
+		<assign coll="24" color="02"/>
+		<assign coll="25" color="02"/>
+		<assign coll="26" color="02"/>
+		<assign coll="27" color="02"/>
+		<assign coll="28" color="02"/>
+		<assign coll="29" color="02"/>
+		<assign coll="30" color="02"/>
+		<assign coll="31" color="00"/>
+	</infravision>
+
+	<!-- Banshee transparency effect -->
+	<opengl>
+		<texture coll="16" bitmap="42" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
+		<texture coll="16" bitmap="43" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
+		<texture coll="16" bitmap="44" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
+		<texture coll="16" bitmap="45" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
+		<texture coll="16" bitmap="46" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
+		<texture coll="16" bitmap="47" opac_type="3" opac_scale="0" opac_shift=".6"/>
+		<texture coll="16" bitmap="48" opac_type="3" opac_scale="0" opac_shift="1"/>
+		<texture coll="16" bitmap="49" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
+		<texture coll="16" bitmap="50" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
+   </opengl>
+
+</marathon>

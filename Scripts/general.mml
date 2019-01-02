@@ -1,0 +1,9 @@
+<marathon>	<!-- Scenario ID -->	<scenario id="Eternal X" name="Eternal X" version="1.2.0b5" />	<!-- Player Attributes -->	<player stripped="150" oxygen_replenish="1" light="0.00">		<item index="0" type="01"/>		<item index="1" type="01"/>		<item index="2" type="02"/>		<item index="3" type="02"/>		<item index="4" type="02"/>		<item index="5" type="02"/>		<item index="6" type="02"/>		<item index="7" type="02"/>		<item index="8" type="02"/>		<damage index="20" fade="2"/>	</player>	<!-- Default Player Name -->	<player_name>Marcus Jones</player_name>	<!-- File Name Strings -->	<stringset index="129">		<string index="00">Eternal-Shapes.shpA</string>		<string index="01">Eternal-ShapesDev.shpA</string>		<string index="02">Eternal-Sounds.sndA</string>		<string index="03">Eternal-SoundsDev.sndA</string>		<string index="04">Eternal-Preferences.txt</string>		<string index="05">Eternal-Maps.sceA</string>		<string index="06">Eternal-Save.sgaA</string>		<string index="07">Eternal X</string>		<string index="08">Eternal-Film.filA</string>		<string index="09">Eternal-Physics.phyA</string>		<string index="10">Eternal-Music.ogg</string>		<string index="11">Eternal-Images.imgA</string>		<string index="12">Eternal-Movie.mov</string>	</stringset>		<!-- View Settings -->	<view map="true" fold_effect="true" static_effect="true">		<fov fix_h_not_v="true" normal="90" extra="135" tunnel="30" rate="2"/>	</view>	<!-- Monster Paths -->	<dynamic_limits>		<objects value="1024"/>
+		<monsters value="512"/>
+		<paths value="512"/>
+		<projectiles value="256"/>
+		<effects value="256"/>
+		<rendered value="1024"/>
+		<local_collision value="1024"/>
+		<global_collision value="1024"/>
+	</dynamic_limits></marathon>
