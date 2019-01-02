@@ -1,5 +1,160 @@
-<marathon>	<opengl>	<!-- Nightmare Glow/Alpha Effect -->	<!-- Idle -->		<!-- 0° --><texture coll="10" clut="2" bitmap="55" normal_image="Monsters/Nightmare/bitmap006.png" glow_image="Monsters/Nightmare/bitmap006G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="56" normal_image="Monsters/Nightmare/bitmap007.png" glow_image="Monsters/Nightmare/bitmap007G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="57" normal_image="Monsters/Nightmare/bitmap008.png" glow_image="Monsters/Nightmare/bitmap008G.png" opac_type="1" type="2"/>		<!-- 45° --><texture coll="10" clut="2" bitmap="58" normal_image="Monsters/Nightmare/bitmap003.png" glow_image="Monsters/Nightmare/bitmap003G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="59" normal_image="Monsters/Nightmare/bitmap004.png" glow_image="Monsters/Nightmare/bitmap004G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="60" normal_image="Monsters/Nightmare/bitmap005.png" glow_image="Monsters/Nightmare/bitmap005G.png" opac_type="1" type="2"/>		<!-- 90° --><texture coll="10" clut="2" bitmap="61" normal_image="Monsters/Nightmare/bitmap000.png" glow_image="Monsters/Nightmare/bitmap000G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="62" normal_image="Monsters/Nightmare/bitmap001.png" glow_image="Monsters/Nightmare/bitmap001G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="63" normal_image="Monsters/Nightmare/bitmap002.png" glow_image="Monsters/Nightmare/bitmap002G.png" opac_type="1" type="2"/>		<!-- 135° --><texture coll="10" clut="2" bitmap="70" normal_image="Monsters/Nightmare/bitmap021.png" glow_image="Monsters/Nightmare/bitmap021G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="71" normal_image="Monsters/Nightmare/bitmap022.png" glow_image="Monsters/Nightmare/bitmap022G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="72" normal_image="Monsters/Nightmare/bitmap023.png" glow_image="Monsters/Nightmare/bitmap023G.png" opac_type="1" type="2"/>		<!-- 180° --><texture coll="10" clut="2" bitmap="64" normal_image="Monsters/Nightmare/bitmap024.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="65" normal_image="Monsters/Nightmare/bitmap025.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="66" normal_image="Monsters/Nightmare/bitmap026.png" opac_type="1" type="2"/>	<!-- Attack -->		<!-- 0° --><texture coll="10" clut="2" bitmap="48" normal_image="Monsters/Nightmare/bitmap009.png" glow_image="Monsters/Nightmare/bitmap009G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="49" normal_image="Monsters/Nightmare/bitmap010.png" glow_image="Monsters/Nightmare/bitmap010G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="50" normal_image="Monsters/Nightmare/bitmap011.png" glow_image="Monsters/Nightmare/bitmap011G.png" opac_type="1" type="2"/>		<!-- 45° --><texture coll="10" clut="2" bitmap="67" normal_image="Monsters/Nightmare/bitmap018.png" glow_image="Monsters/Nightmare/bitmap018G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="68" normal_image="Monsters/Nightmare/bitmap019.png" glow_image="Monsters/Nightmare/bitmap019G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="69" normal_image="Monsters/Nightmare/bitmap020.png" glow_image="Monsters/Nightmare/bitmap020G.png" opac_type="1" type="2"/>		<!-- 90° --><texture coll="10" clut="2" bitmap="73" normal_image="Monsters/Nightmare/bitmap073.png" glow_image="Monsters/Nightmare/bitmap073G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="74" normal_image="Monsters/Nightmare/bitmap074.png" glow_image="Monsters/Nightmare/bitmap074G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="75" normal_image="Monsters/Nightmare/bitmap075.png" glow_image="Monsters/Nightmare/bitmap075G.png" opac_type="1" type="2"/>		<!-- 135° --><texture coll="10" clut="2" bitmap="76" normal_image="Monsters/Nightmare/bitmap076.png" glow_image="Monsters/Nightmare/bitmap076G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="77" normal_image="Monsters/Nightmare/bitmap077.png" glow_image="Monsters/Nightmare/bitmap077G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="78" normal_image="Monsters/Nightmare/bitmap078.png" glow_image="Monsters/Nightmare/bitmap078G.png" opac_type="1" type="2"/>		<!-- 180° --><texture coll="10" clut="2" bitmap="79" normal_image="Monsters/Nightmare/bitmap079.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="80" normal_image="Monsters/Nightmare/bitmap080.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="81" normal_image="Monsters/Nightmare/bitmap081.png" opac_type="1" type="2"/>	<!-- Death --><texture coll="10" clut="2" bitmap="51" normal_image="Monsters/Nightmare/bitmap012.png" glow_image="Monsters/Nightmare/bitmap012G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="52" normal_image="Monsters/Nightmare/bitmap013.png" glow_image="Monsters/Nightmare/bitmap013G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="53" normal_image="Monsters/Nightmare/bitmap014.png" glow_image="Monsters/Nightmare/bitmap014G.png" opac_type="1" type="2"/><texture coll="10" clut="2" bitmap="54" normal_image="Monsters/Nightmare/bitmap015.png" opac_type="1" type="2"/>	<!-- Banshee Glow Effect -->	<!-- Idle -->		<!-- 0° -->		<texture coll="16" bitmap="42" glow_image="Monsters/Banshee/SG1.png"/>
-		<!-- 45° -->		<texture coll="16" bitmap="43" glow_image="Monsters/Banshee/SG2.png"/>
-		<!-- 90° -->		<texture coll="16" bitmap="44" glow_image="Monsters/Banshee/SAG3.png/>
-	<!-- Attack -->		<!-- 0° -->		<texture coll="16" bitmap="47" glow_image="Monsters/Banshee/SG6.png"/>
-		<texture coll="16" bitmap="48" glow_image="Monsters/Banshee/SG7.png"/>	<!-- Skitter -->		<texture coll="9" clut="7" bitmap="69" normal_image="Monsters/Skitter/skitter0.dds" glow_image="Monsters/Skitter/skitter0g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="70" normal_image="Monsters/Skitter/skitter1.dds" glow_image="Monsters/Skitter/skitter1g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="71" normal_image="Monsters/Skitter/skitter2.dds" glow_image="Monsters/Skitter/skitter2g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="72" normal_image="Monsters/Skitter/skitter3.dds" glow_image="Monsters/Skitter/skitter3g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="73" normal_image="Monsters/Skitter/skitter4.dds" glow_image="Monsters/Skitter/skitter4g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="74" normal_image="Monsters/Skitter/skitter5.dds" glow_image="Monsters/Skitter/skitter5g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="75" normal_image="Monsters/Skitter/skitter6.dds" glow_image="Monsters/Skitter/skitter6g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="76" normal_image="Monsters/Skitter/skitter8.dds" glow_image="Monsters/Skitter/skitter8g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="77" normal_image="Monsters/Skitter/skitter9.dds" glow_image="Monsters/Skitter/skitter9g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="78" normal_image="Monsters/Skitter/skitter10.dds" glow_image="Monsters/Skitter/skitter10g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="79" normal_image="Monsters/Skitter/skitter11.dds" glow_image="Monsters/Skitter/skitter11g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="80" normal_image="Monsters/Skitter/skitter12.dds" glow_image="Monsters/Skitter/skitter12g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="81" normal_image="Monsters/Skitter/skitter13.dds" glow_image="Monsters/Skitter/skitter13g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="82" normal_image="Monsters/Skitter/skitter14.dds" glow_image="Monsters/Skitter/skitter14g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="83" normal_image="Monsters/Skitter/skitter15.dds" glow_image="Monsters/Skitter/skitter15g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="84" normal_image="Monsters/Skitter/skitter16.dds" glow_image="Monsters/Skitter/skitter16g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="85" normal_image="Monsters/Skitter/skitter18.dds" glow_image="Monsters/Skitter/skitter18g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="86" normal_image="Monsters/Skitter/skitter19.dds" glow_image="Monsters/Skitter/skitter19g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="87" normal_image="Monsters/Skitter/skitter20.dds" glow_image="Monsters/Skitter/skitter20g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="88" normal_image="Monsters/Skitter/skitter21.dds" glow_image="Monsters/Skitter/skitter21g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="89" normal_image="Monsters/Skitter/skitter22.dds" glow_image="Monsters/Skitter/skitter22g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="90" normal_image="Monsters/Skitter/skitter23.dds" glow_image="Monsters/Skitter/skitter23g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="91" normal_image="Monsters/Skitter/skitter24.dds" glow_image="Monsters/Skitter/skitter24g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="92" normal_image="Monsters/Skitter/skitter25.dds" glow_image="Monsters/Skitter/skitter25g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="93" normal_image="Monsters/Skitter/skitter26.dds" glow_image="Monsters/Skitter/skitter26g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="94" normal_image="Monsters/Skitter/skitter7.dds" glow_image="Monsters/Skitter/skitter7g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="97" normal_image="Monsters/Skitter/skitter29.dds" glow_image="Monsters/Skitter/skitter29g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="98" normal_image="Monsters/Skitter/skitter30.dds" glow_image="Monsters/Skitter/skitter30g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="99" normal_image="Monsters/Skitter/skitter31.dds" glow_image="Monsters/Skitter/skitter31g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="100" normal_image="Monsters/Skitter/skitter34.dds" glow_image="Monsters/Skitter/skitter34g.dds" opac_type="1" type="2"/>	<texture coll="9" clut="7" bitmap="101" normal_image="Monsters/Skitter/skitter36.dds" glow_image="Monsters/Skitter/skitter36g.dds" opac_type="1" type="2"/>	</opengl></marathon>
+<marathon>
+
+	<opengl>
+
+	<!-- Nightmare Glow/Alpha Effect -->
+
+	<!-- Idle -->
+
+		<!-- 0° -->
+<texture coll="10" clut="2" bitmap="55" normal_image="Monsters/Nightmare/bitmap006.png" glow_image="Monsters/Nightmare/bitmap006G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="56" normal_image="Monsters/Nightmare/bitmap007.png" glow_image="Monsters/Nightmare/bitmap007G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="57" normal_image="Monsters/Nightmare/bitmap008.png" glow_image="Monsters/Nightmare/bitmap008G.png" opac_type="1" type="2"/>
+
+
+		<!-- 45° -->
+<texture coll="10" clut="2" bitmap="58" normal_image="Monsters/Nightmare/bitmap003.png" glow_image="Monsters/Nightmare/bitmap003G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="59" normal_image="Monsters/Nightmare/bitmap004.png" glow_image="Monsters/Nightmare/bitmap004G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="60" normal_image="Monsters/Nightmare/bitmap005.png" glow_image="Monsters/Nightmare/bitmap005G.png" opac_type="1" type="2"/>
+
+
+		<!-- 90° -->
+<texture coll="10" clut="2" bitmap="61" normal_image="Monsters/Nightmare/bitmap000.png" glow_image="Monsters/Nightmare/bitmap000G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="62" normal_image="Monsters/Nightmare/bitmap001.png" glow_image="Monsters/Nightmare/bitmap001G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="63" normal_image="Monsters/Nightmare/bitmap002.png" glow_image="Monsters/Nightmare/bitmap002G.png" opac_type="1" type="2"/>
+
+
+		<!-- 135° -->
+<texture coll="10" clut="2" bitmap="70" normal_image="Monsters/Nightmare/bitmap021.png" glow_image="Monsters/Nightmare/bitmap021G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="71" normal_image="Monsters/Nightmare/bitmap022.png" glow_image="Monsters/Nightmare/bitmap022G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="72" normal_image="Monsters/Nightmare/bitmap023.png" glow_image="Monsters/Nightmare/bitmap023G.png" opac_type="1" type="2"/>
+
+
+		<!-- 180° -->
+<texture coll="10" clut="2" bitmap="64" normal_image="Monsters/Nightmare/bitmap024.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="65" normal_image="Monsters/Nightmare/bitmap025.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="66" normal_image="Monsters/Nightmare/bitmap026.png" opac_type="1" type="2"/>
+
+
+	<!-- Attack -->
+
+		<!-- 0° -->
+<texture coll="10" clut="2" bitmap="48" normal_image="Monsters/Nightmare/bitmap009.png" glow_image="Monsters/Nightmare/bitmap009G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="49" normal_image="Monsters/Nightmare/bitmap010.png" glow_image="Monsters/Nightmare/bitmap010G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="50" normal_image="Monsters/Nightmare/bitmap011.png" glow_image="Monsters/Nightmare/bitmap011G.png" opac_type="1" type="2"/>
+
+
+		<!-- 45° -->
+<texture coll="10" clut="2" bitmap="67" normal_image="Monsters/Nightmare/bitmap018.png" glow_image="Monsters/Nightmare/bitmap018G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="68" normal_image="Monsters/Nightmare/bitmap019.png" glow_image="Monsters/Nightmare/bitmap019G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="69" normal_image="Monsters/Nightmare/bitmap020.png" glow_image="Monsters/Nightmare/bitmap020G.png" opac_type="1" type="2"/>
+
+
+		<!-- 90° -->
+<texture coll="10" clut="2" bitmap="73" normal_image="Monsters/Nightmare/bitmap073.png" glow_image="Monsters/Nightmare/bitmap073G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="74" normal_image="Monsters/Nightmare/bitmap074.png" glow_image="Monsters/Nightmare/bitmap074G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="75" normal_image="Monsters/Nightmare/bitmap075.png" glow_image="Monsters/Nightmare/bitmap075G.png" opac_type="1" type="2"/>
+
+
+		<!-- 135° -->
+<texture coll="10" clut="2" bitmap="76" normal_image="Monsters/Nightmare/bitmap076.png" glow_image="Monsters/Nightmare/bitmap076G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="77" normal_image="Monsters/Nightmare/bitmap077.png" glow_image="Monsters/Nightmare/bitmap077G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="78" normal_image="Monsters/Nightmare/bitmap078.png" glow_image="Monsters/Nightmare/bitmap078G.png" opac_type="1" type="2"/>
+
+
+		<!-- 180° -->
+<texture coll="10" clut="2" bitmap="79" normal_image="Monsters/Nightmare/bitmap079.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="80" normal_image="Monsters/Nightmare/bitmap080.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="81" normal_image="Monsters/Nightmare/bitmap081.png" opac_type="1" type="2"/>
+
+
+	<!-- Death -->
+
+<texture coll="10" clut="2" bitmap="51" normal_image="Monsters/Nightmare/bitmap012.png" glow_image="Monsters/Nightmare/bitmap012G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="52" normal_image="Monsters/Nightmare/bitmap013.png" glow_image="Monsters/Nightmare/bitmap013G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="53" normal_image="Monsters/Nightmare/bitmap014.png" glow_image="Monsters/Nightmare/bitmap014G.png" opac_type="1" type="2"/>
+
+<texture coll="10" clut="2" bitmap="54" normal_image="Monsters/Nightmare/bitmap015.png" opac_type="1" type="2"/>
+
+
+
+	<!-- Banshee Glow Effect -->
+
+	<!-- Idle -->
+
+		<!-- 0° -->
+		<texture coll="16" bitmap="42" glow_image="Monsters/Banshee/SG1.png"/>
+
+		<!-- 45° -->
+		<texture coll="16" bitmap="43" glow_image="Monsters/Banshee/SG2.png"/>
+
+		<!-- 90° -->
+		<texture coll="16" bitmap="44" glow_image="Monsters/Banshee/SG3.png"/>
+
+	<!-- Attack -->
+
+		<!-- 0° -->
+		<texture coll="16" bitmap="47" glow_image="Monsters/Banshee/SG6.png"/>
+
+		<texture coll="16" bitmap="48" glow_image="Monsters/Banshee/SG7.png"/>
+
+
+	<!-- Skitter -->
+	
+	<texture coll="9" clut="7" bitmap="69" normal_image="Monsters/Skitter/skitter0.dds" glow_image="Monsters/Skitter/skitter0g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="70" normal_image="Monsters/Skitter/skitter1.dds" glow_image="Monsters/Skitter/skitter1g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="71" normal_image="Monsters/Skitter/skitter2.dds" glow_image="Monsters/Skitter/skitter2g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="72" normal_image="Monsters/Skitter/skitter3.dds" glow_image="Monsters/Skitter/skitter3g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="73" normal_image="Monsters/Skitter/skitter4.dds" glow_image="Monsters/Skitter/skitter4g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="74" normal_image="Monsters/Skitter/skitter5.dds" glow_image="Monsters/Skitter/skitter5g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="75" normal_image="Monsters/Skitter/skitter6.dds" glow_image="Monsters/Skitter/skitter6g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="76" normal_image="Monsters/Skitter/skitter8.dds" glow_image="Monsters/Skitter/skitter8g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="77" normal_image="Monsters/Skitter/skitter9.dds" glow_image="Monsters/Skitter/skitter9g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="78" normal_image="Monsters/Skitter/skitter10.dds" glow_image="Monsters/Skitter/skitter10g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="79" normal_image="Monsters/Skitter/skitter11.dds" glow_image="Monsters/Skitter/skitter11g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="80" normal_image="Monsters/Skitter/skitter12.dds" glow_image="Monsters/Skitter/skitter12g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="81" normal_image="Monsters/Skitter/skitter13.dds" glow_image="Monsters/Skitter/skitter13g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="82" normal_image="Monsters/Skitter/skitter14.dds" glow_image="Monsters/Skitter/skitter14g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="83" normal_image="Monsters/Skitter/skitter15.dds" glow_image="Monsters/Skitter/skitter15g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="84" normal_image="Monsters/Skitter/skitter16.dds" glow_image="Monsters/Skitter/skitter16g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="85" normal_image="Monsters/Skitter/skitter18.dds" glow_image="Monsters/Skitter/skitter18g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="86" normal_image="Monsters/Skitter/skitter19.dds" glow_image="Monsters/Skitter/skitter19g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="87" normal_image="Monsters/Skitter/skitter20.dds" glow_image="Monsters/Skitter/skitter20g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="88" normal_image="Monsters/Skitter/skitter21.dds" glow_image="Monsters/Skitter/skitter21g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="89" normal_image="Monsters/Skitter/skitter22.dds" glow_image="Monsters/Skitter/skitter22g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="90" normal_image="Monsters/Skitter/skitter23.dds" glow_image="Monsters/Skitter/skitter23g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="91" normal_image="Monsters/Skitter/skitter24.dds" glow_image="Monsters/Skitter/skitter24g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="92" normal_image="Monsters/Skitter/skitter25.dds" glow_image="Monsters/Skitter/skitter25g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="93" normal_image="Monsters/Skitter/skitter26.dds" glow_image="Monsters/Skitter/skitter26g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="94" normal_image="Monsters/Skitter/skitter7.dds" glow_image="Monsters/Skitter/skitter7g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="97" normal_image="Monsters/Skitter/skitter29.dds" glow_image="Monsters/Skitter/skitter29g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="98" normal_image="Monsters/Skitter/skitter30.dds" glow_image="Monsters/Skitter/skitter30g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="99" normal_image="Monsters/Skitter/skitter31.dds" glow_image="Monsters/Skitter/skitter31g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="100" normal_image="Monsters/Skitter/skitter34.dds" glow_image="Monsters/Skitter/skitter34g.dds" opac_type="1" type="2"/>
+	<texture coll="9" clut="7" bitmap="101" normal_image="Monsters/Skitter/skitter36.dds" glow_image="Monsters/Skitter/skitter36g.dds" opac_type="1" type="2"/>
+
+	</opengl>
+
+</marathon>
