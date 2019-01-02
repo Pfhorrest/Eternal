@@ -1,4 +1,3 @@
 <plugin name="Eternal HD Textures" description="High Definition Textures for Eternal">
 <mml file="walls.mml"/>
-<mml file="landscapes.mml"/>
 </plugin>
