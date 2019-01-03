@@ -42,7 +42,7 @@ cp ./Physics\ model\ templates/24-to-26.phyA ./Eternal\ Maps\ merge\ folder/26\ 
 cp ./Physics\ model\ templates/27-to-29.phyA ./Eternal\ Maps\ merge\ folder/27\ The\ Manipulated\ Dead/The\ Manipulated\ Dead.phyA 
 cp ./Physics\ model\ templates/27-to-29.phyA ./Eternal\ Maps\ merge\ folder/28\ Third\ Rock\ from\ Lh\'owon/Third\ Rock\ from\ Lh\'owon.phyA 
 cp ./Physics\ model\ templates/27-to-29.phyA ./Eternal\ Maps\ merge\ folder/29\ Flight\ Of\ Icarus/Flight\ Of\ Icarus.phyA 
-cp ./Physics\ model\ templates/31-to-33.phyA ./Eternal\ Maps\ merge\ folder/31\ Pfhor\ Får\ Lamm/Pfhor\ Får\ Lamm.phyA 
+cp ./Physics\ model\ templates/31-to-33.phyA ./Eternal\ Maps\ merge\ folder/31\ Pfhor\ Faar\ Lamm/Pfhor\ Faar\ Lamm.phyA 
 cp ./Physics\ model\ templates/31-to-33.phyA ./Eternal\ Maps\ merge\ folder/32\ The\ Incredible\ Hulk/The\ Incredible\ Hulk.phyA 
 cp ./Physics\ model\ templates/31-to-33.phyA ./Eternal\ Maps\ merge\ folder/33\ Babylon\ X/Babylon\ X.phyA 
 cp ./Physics\ model\ templates/36.phyA ./Eternal\ Maps\ merge\ folder/36\ Run\,\ Coward\!/Run\,\ Coward\!.phyA 
