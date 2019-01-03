@@ -1,0 +1,246 @@
+<marathon>
+<opengl>
+<!-- "Shots Fired" by James Hastings-Trew used with permission.
+	From the "Shots Fired" readme:
+
+	Images and content Copyright (c) 2006 Nardo
+	Images and content created by James Hastings-Trew (jimht@shaw.ca)
+	http://planetpixelemporium.com
+
+	Official Nardo Contact: nardo@bungie.org
+	http://nardo.bungie.org
+	
+	The images, script, and readme may be distributed freely as long as no charge is made for
+	distribution beyond the direct costs of media. These works cannot be included in commercial disc
+	compilations without permission from the authors. These images may not be included in other
+	works, or used in any other way except as part of the game "Tempus Irae" and derivative works,
+	without permission from the authors. Any distribution of these images or script must include
+	this copyright notice unaltered in any way. -->
+
+
+
+<texture coll="4" bitmap="0" normal_image="Effects/Shots/00.dds" opac_type="1" type="2"/>
+<texture coll="4" bitmap="1" normal_image="Effects/Shots/01.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="2" normal_image="Effects/Shots/02.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="3" normal_image="Effects/Shots/03.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="25" normal_image="Effects/Shots/25.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="26" normal_image="Effects/Shots/26.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="27" normal_image="Effects/Shots/27.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="28" normal_image="Effects/Shots/28.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="29" normal_image="Effects/Shots/29.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="30" normal_image="Effects/Shots/30.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="31" normal_image="Effects/Shots/31.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="32" normal_image="Effects/Shots/29.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="33" normal_image="Effects/Shots/30.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="34" normal_image="Effects/Shots/34.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="35" normal_image="Effects/Shots/35.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="36" normal_image="Effects/Shots/36.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="37" normal_image="Effects/Shots/37.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="48" normal_image="Effects/Shots/48.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="49" normal_image="Effects/Shots/49.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="50" normal_image="Effects/Shots/50.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="51" normal_image="Effects/Shots/51.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="56" normal_image="Effects/Shots/56.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="57" normal_image="Effects/Shots/57.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="58" normal_image="Effects/Shots/58.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="59" normal_image="Effects/Shots/59.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="60" normal_image="Effects/Shots/60.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="61" normal_image="Effects/Shots/61.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="62" normal_image="Effects/Shots/62.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="74" normal_image="Effects/Shots/74.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="75" normal_image="Effects/Shots/75.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="76" normal_image="Effects/Shots/76.dds" opac_type="1" type="2" />
+
+<texture coll="9" bitmap="56" normal_image="Effects/Shots/9_61.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="57" normal_image="Effects/Shots/9_61.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="58" normal_image="Effects/Shots/9_61.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="59" normal_image="Effects/Shots/9_61.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="60" normal_image="Effects/Shots/9_65.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="61" normal_image="Effects/Shots/9_65.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="62" normal_image="Effects/Shots/9_65.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="63" normal_image="Effects/Shots/9_65.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="64" normal_image="Effects/Shots/9_67.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="65" normal_image="Effects/Shots/9_68.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="66" normal_image="Effects/Shots/9_69.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="67" normal_image="Effects/Shots/9_70.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="68" normal_image="Effects/Shots/9_71.dds" opac_type="1" type="2" />
+
+<texture coll="16" bitmap="15" normal_image="Effects/Shots/16_25_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="16" normal_image="Effects/Shots/16_26_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="17" normal_image="Effects/Shots/16_27_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="18" normal_image="Effects/Shots/16_28_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="19" normal_image="Effects/Shots/16_29_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="20" normal_image="Effects/Shots/16_30_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="21" normal_image="Effects/Shots/16_31_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="22" normal_image="Effects/Shots/16_32_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="23" normal_image="Effects/Shots/16_33_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="24" normal_image="Effects/Shots/16_34_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="25" normal_image="Effects/Shots/16_34_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="26" normal_image="Effects/Shots/16_31_3.dds" opac_type="1" type="2" />
+<texture coll="16" bitmap="27" normal_image="Effects/Shots/16_32_3.dds" opac_type="1" type="2" />
+
+<texture coll="16" clut="1" bitmap="15" normal_image="Effects/Shots/16_25.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="16" normal_image="Effects/Shots/16_26.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="17" normal_image="Effects/Shots/16_27.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="18" normal_image="Effects/Shots/16_28.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="19" normal_image="Effects/Shots/16_29.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="20" normal_image="Effects/Shots/16_30.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="21" normal_image="Effects/Shots/16_31.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="22" normal_image="Effects/Shots/16_32.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="23" normal_image="Effects/Shots/16_33.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="24" normal_image="Effects/Shots/16_34.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="25" normal_image="Effects/Shots/16_33.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="26" normal_image="Effects/Shots/16_31.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="27" normal_image="Effects/Shots/16_32.dds" opac_type="1" type="2" />
+
+<texture coll="16" clut="2" bitmap="15" normal_image="Effects/Shots/16_25_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="16" normal_image="Effects/Shots/16_26_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="17" normal_image="Effects/Shots/16_27_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="18" normal_image="Effects/Shots/16_28_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="19" normal_image="Effects/Shots/16_29_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="20" normal_image="Effects/Shots/16_30_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="21" normal_image="Effects/Shots/16_31_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="22" normal_image="Effects/Shots/16_32_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="23" normal_image="Effects/Shots/16_33_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="24" normal_image="Effects/Shots/16_34_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="25" normal_image="Effects/Shots/16_33_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="26" normal_image="Effects/Shots/16_31_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="27" normal_image="Effects/Shots/16_32_1.dds" opac_type="1" type="2" />
+
+<texture coll="16" clut="3" bitmap="15" normal_image="Effects/Shots/16_25_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="16" normal_image="Effects/Shots/16_26_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="17" normal_image="Effects/Shots/16_27_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="18" normal_image="Effects/Shots/16_28_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="19" normal_image="Effects/Shots/16_29_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="20" normal_image="Effects/Shots/16_30_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="21" normal_image="Effects/Shots/16_31_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="22" normal_image="Effects/Shots/16_32_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="23" normal_image="Effects/Shots/16_33_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="24" normal_image="Effects/Shots/16_34_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="25" normal_image="Effects/Shots/16_33_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="26" normal_image="Effects/Shots/16_31_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="27" normal_image="Effects/Shots/16_32_3.dds" opac_type="1" type="2" />
+
+
+
+<!-- following derived from the Weapon Enhancement Pack by Mike Viscio -->
+
+<!--Grenade Explosion-->
+<texture coll="4" bitmap="68" normal_image="Effects/Explosions/ge5.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="69" normal_image="Effects/Explosions/ge6.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="70" normal_image="Effects/Explosions/ge1.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="71" normal_image="Effects/Explosions/ge2.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="72" normal_image="Effects/Explosions/ge3.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="73" normal_image="Effects/Explosions/ge4.dds" opac_type="1" type="2" />
+
+<!--S-Rifle Burst-->
+<texture coll="4" bitmap="86" normal_image="Effects/Explosions/ge5.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="87" normal_image="Effects/Explosions/ge6.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="88" normal_image="Effects/Explosions/ge1.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="89" normal_image="Effects/Explosions/ge2.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="90" normal_image="Effects/Explosions/ge3.dds" opac_type="1" type="2" />
+
+<!--Rocket Explosion-->
+<texture coll="4" bitmap="14" normal_image="Effects/Explosions/re1.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="15" normal_image="Effects/Explosions/re2.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="16" normal_image="Effects/Explosions/re3.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="17" normal_image="Effects/Explosions/re4.dds" opac_type="1" type="2" />
+
+
+<!--Bullet Ricochet-->
+<texture coll="4" bitmap="18" normal_image="Effects/Explosions/bh1.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="19" normal_image="Effects/Explosions/bh2.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="20" normal_image="Effects/Explosions/bh3.dds" opac_type="1" type="2" />
+
+<texture coll="4" bitmap="21" normal_image="Effects/Explosions/smoke1.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="22" normal_image="Effects/Explosions/smoke2.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="23" normal_image="Effects/Explosions/smoke3.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="24" normal_image="Effects/Explosions/smoke4.dds" opac_type="1" type="2" />
+
+<!--=========================================================-->
+
+<!--Blood-->
+
+<!--Hunter-->
+
+<texture coll="5" bitmap="52" normal_image="Effects/Blood/he1.dds" opac_type="1" type="2" />
+<texture coll="5" bitmap="53" normal_image="Effects/Blood/he2.dds" opac_type="1" type="2" />
+<texture coll="5" bitmap="54" normal_image="Effects/Blood/he3.dds" opac_type="1" type="2" />
+<texture coll="5" bitmap="63" normal_image="Effects/Blood/he4.dds" opac_type="1" type="2" />
+
+<!--Drone-->
+
+<texture coll="15" bitmap="18" normal_image="Effects/Blood/de1.dds" opac_type="1" type="2" />
+<texture coll="15" bitmap="19" normal_image="Effects/Blood/de2.dds" opac_type="1" type="2" />
+<texture coll="15" bitmap="20" normal_image="Effects/Blood/de3.dds" opac_type="1" type="2" />
+<texture coll="15" bitmap="44" normal_image="Effects/Blood/de4.dds" opac_type="1" type="2" />
+
+<!--Enforcer-->
+
+<texture coll="14" bitmap="24" normal_image="Effects/Blood/de1.dds" opac_type="1" type="2" />
+<texture coll="14" bitmap="25" normal_image="Effects/Blood/de2.dds" opac_type="1" type="2" />
+<texture coll="14" bitmap="26" normal_image="Effects/Blood/de3.dds" opac_type="1" type="2" />
+<texture coll="14" bitmap="27" normal_image="Effects/Blood/de4.dds" opac_type="1" type="2" />
+
+<!--Flictka-->
+<texture coll="11" bitmap="102" normal_image="Effects/Blood/fb1.dds" opac_type="1" type="2" />
+<texture coll="11" bitmap="103" normal_image="Effects/Blood/fb2.dds" opac_type="1" type="2" />
+<texture coll="11" bitmap="104" normal_image="Effects/Blood/fb3.dds" opac_type="1" type="2" />
+
+<!--Hulk-->
+<texture coll="11" bitmap="48" normal_image="Effects/Blood/hk1.dds" opac_type="1" type="2" />
+<texture coll="11" bitmap="49" normal_image="Effects/Blood/hk2.dds" opac_type="1" type="2" />
+<texture coll="11" bitmap="50" normal_image="Effects/Blood/hk3.dds" opac_type="1" type="2" />
+
+<!--Vac Bob-->
+<texture coll="13" bitmap="64" normal_image="Effects/Blood/he1.dds" opac_type="1" type="2" />
+<texture coll="13" bitmap="65" normal_image="Effects/Blood/he2.dds" opac_type="1" type="2" />
+<texture coll="13" bitmap="66" normal_image="Effects/Blood/he3.dds" opac_type="1" type="2" />
+
+<!--Pfhor Fighter-->
+<texture coll="9" bitmap="53" normal_image="Effects/Blood/pb1.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="54" normal_image="Effects/Blood/pb2.dds" opac_type="1" type="2" />
+<texture coll="9" bitmap="55" normal_image="Effects/Blood/pb3.dds" opac_type="1" type="2" />
+
+<!--Pfhor Trooper-->
+<texture coll="8" bitmap="31" normal_image="Effects/Blood/pb1.dds" opac_type="1" type="2" />
+<texture coll="8" bitmap="32" normal_image="Effects/Blood/pb2.dds" opac_type="1" type="2" />
+<texture coll="8" bitmap="33" normal_image="Effects/Blood/pb3.dds" opac_type="1" type="2" />
+
+<!--Cyborg Tank-->
+<texture coll="31" bitmap="36" normal_image="Effects/Blood/cb1.dds" opac_type="1" type="2" />
+<texture coll="31" bitmap="37" normal_image="Effects/Blood/cb2.dds" opac_type="1" type="2" />
+<texture coll="31" bitmap="38" normal_image="Effects/Blood/cb3.dds" opac_type="1" type="2" />
+
+<!--Cyborg Controller-->
+<texture coll="31" bitmap="47" normal_image="Effects/Blood/pb1.dds" opac_type="1" type="2" />
+<texture coll="31" bitmap="48" normal_image="Effects/Blood/pb2.dds" opac_type="1" type="2" />
+<texture coll="31" bitmap="49" normal_image="Effects/Blood/pb3.dds" opac_type="1" type="2" />
+
+<!--Player-->
+<texture coll="4" bitmap="39" normal_image="Effects/Blood/hb1.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="40" normal_image="Effects/Blood/hb2.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="41" normal_image="Effects/Blood/hb3.dds" opac_type="1" type="2" />
+
+<!--Bob-->
+<texture coll="12" clut="0" bitmap="61" normal_image="Effects/Blood/bb1.dds" opac_type="1" type="2" />
+<texture coll="12" clut="0" bitmap="62" normal_image="Effects/Blood/bb2.dds" opac_type="1" type="2" />
+<texture coll="12" clut="0" bitmap="63" normal_image="Effects/Blood/bb3.dds" opac_type="1" type="2" />
+
+<texture coll="12" clut="1" bitmap="61" normal_image="Effects/Blood/bb1.dds" opac_type="1" type="2" />
+<texture coll="12" clut="1" bitmap="62" normal_image="Effects/Blood/bb2.dds" opac_type="1" type="2" />
+<texture coll="12" clut="1" bitmap="63" normal_image="Effects/Blood/bb3.dds" opac_type="1" type="2" />
+
+<texture coll="12" clut="2" bitmap="61" normal_image="Effects/Blood/bb1.dds" opac_type="1" type="2" />
+<texture coll="12" clut="2" bitmap="62" normal_image="Effects/Blood/bb2.dds" opac_type="1" type="2" />
+<texture coll="12" clut="2" bitmap="63" normal_image="Effects/Blood/bb3.dds" opac_type="1" type="2" />
+
+<!--Exploding Bob-->
+<texture coll="12" clut="3" bitmap="61" normal_image="Effects/Blood/eb1.dds" opac_type="1" type="2" />
+<texture coll="12" clut="3" bitmap="62" normal_image="Effects/Blood/eb2.dds" opac_type="1" type="2" />
+<texture coll="12" clut="3" bitmap="63" normal_image="Effects/Blood/eb3.dds" opac_type="1" type="2" />
+
+
+</opengl>
+</marathon>
+

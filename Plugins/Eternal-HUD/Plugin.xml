@@ -1,0 +1,7 @@
+<plugin
+name="Eternal HUD"
+version="" 
+description="Heads-Up Display for Eternal"
+hud_lua="HUD.lua"
+/>
+

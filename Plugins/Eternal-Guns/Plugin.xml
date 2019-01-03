@@ -1,0 +1,5 @@
+<plugin name="Eternal HD Weapons" description="High Definition Weapons for Eternal">
+<mml file="xhd-weapons.mml"/>
+<mml file="mml.mml"/>
+<mml file="misc.mml"/>
+</plugin>

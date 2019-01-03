@@ -1,0 +1,199 @@
+<!-- Eternal theme by Forrest Cameranesi -->
+<!-- derived from default theme by Ian Pitcher <ipitcher@technician.org> -->
+
+<marathon>
+<theme>
+
+<!-- color indices:
+     0 foreground color
+     1 background color
+     2 frame color
+-->
+
+<default>
+  <color index="0" red="0.875" green="0.875" blue="0.75"/>
+  <color index="1" red="0" green="0" blue="0"/>
+  <color index="2" red="0.5" green="0.5" blue="0.5"/>
+  <font file="fonts/DejaVuLGCSansCondensed-Bold.ttf" italic_file="fonts/DejaVuLGCSansCondensed-BoldOblique.ttf" size="12"/>
+</default>
+
+<!-- Dialog frame -->
+<frame top="12" bottom="12" left="12" right="12">
+  <image index="0" file="images/frame/tl.bmp" scale="false"/>
+  <image index="1" file="images/frame/t.bmp" scale="false"/>
+  <image index="2" file="images/frame/tr.bmp" scale="false"/>
+  <image index="3" file="images/frame/l.bmp" scale="false"/>
+  <image index="4" file="images/frame/r.bmp" scale="false"/>
+  <image index="5" file="images/frame/bl.bmp" scale="false"/>
+  <image index="6" file="images/frame/b.bmp" scale="false"/>
+  <image index="7" file="images/frame/br.bmp" scale="false"/>
+  <color index="1" red="0" green="0" blue="0"/>
+</frame>
+
+<!-- Dialog title -->
+<title>
+<font file="fonts/ChingoloPro.ttf" size="30"/>
+  <color red="0" green="0.5" blue="0"/>
+</title>
+
+<!-- Spacer -->
+<spacer height="4"/>
+
+<!-- Button -->
+<button top="5" left="16" right="16" height="32">
+  <font file="fonts/bankgthd.ttf" size="14" style="0"/>
+  <color red="0.25" green="0.75" blue="0.25"/>
+  <image index="0" file="images/button/up/l.bmp" scale="false"/>
+  <image index="1" file="images/button/up/c.bmp" scale="false"/>
+  <image index="2" file="images/button/up/r.bmp" scale="false"/>
+  <active>
+    <color red="0" green="1" blue="0"/>
+  </active>
+  <disabled>
+    <color red="0.33" green="0.50" blue="0.33"/>
+  </disabled>
+  <pressed>
+    <image index="0" file="images/button/down/l.bmp" scale="false"/>
+    <image index="1" file="images/button/down/c.bmp" scale="false"/>
+    <image index="2" file="images/button/down/r.bmp" scale="false"/>
+    <color red="1" green="1" blue="1"/>
+  </pressed>
+</button>
+
+<tiny_button top="3" left="12" right="12" height="20">
+  <font file="fonts/bankgthd.ttf" size="12" style="0"/>
+  <color red="0.25" green="0.75" blue="0.25"/>
+  <image index="0" file="images/button-tiny/l.bmp" scale="false"/>
+  <image index="1" file="images/button-tiny/c.bmp" scale="false"/>
+  <image index="2" file="images/button-tiny/r.bmp" scale="false"/>
+  <active>
+    <color red="0" green="1" blue="0"/>
+  </active>
+  <disabled>
+    <color red="0.33" green="0.33" blue="0.33"/>
+  </disabled>
+  <pressed>
+    <color red="0" green="1" blue="0"/>
+  </pressed>
+</tiny_button>
+
+<!-- Label -->
+<label>
+  <color red="0.5" green="0.75" blue="0.5"/>
+  <active>
+    <color red="0.75" green="1" blue="0.75"/>
+  </active>
+  <disabled>
+    <color red="0.5" green="0.5" blue="0.5"/>
+  </disabled>
+</label>
+
+<!-- Item -->
+<item space="10">
+  <color red="0.25" green="0.75" blue="0.25"/>
+  <active>
+    <color red="0.5" green="1" blue="0.5"/>
+  </active>
+  <disabled>
+    <color red="0.5" green="0.5" blue="0.5"/>
+  </disabled>
+</item>
+
+<!-- Text message -->
+<message> 
+</message>
+
+<!-- Text entry widget -->
+<text_entry>
+  <color red="0.75" green="1" blue="0.75"/>
+  <active><color red="1" green="1" blue="1"/></active>
+  <disabled><color red="0.5" green="0.5" blue="0.5"/></disabled>
+  <cursor><color red="0.875" green="1" blue="0.875"/></cursor>
+</text_entry>
+
+<!-- Metaserver and pre-game chat -->
+<chat_entry name_width="100">
+  <color index="0" red="1" green="1" blue="1"/>
+</chat_entry>
+
+<!-- List selection widget -->
+<list top="8" bottom="8" left="8" right="24">
+  <image index="0" file="images/list/tl.bmp" scale="false"/>
+  <image index="1" file="images/list/t.bmp" scale="false"/>
+  <image index="2" file="images/list/tr.bmp" scale="false"/>
+  <image index="3" file="images/list/l.bmp" scale="false"/>
+  <image index="4" file="images/list/r.bmp" scale="false"/>
+  <image index="5" file="images/list/bl.bmp" scale="false"/>
+  <image index="6" file="images/list/b.bmp" scale="false"/>
+  <image index="7" file="images/list/br.bmp" scale="false"/>
+  <trough top="6" right="16" bottom="6" width="22"/>
+  <thumb>
+    <image index="0" file="images/list-thumb/t.bmp" scale="false"/>
+    <image index="1" file="images/list-thumb/tc.bmp" scale="false"/>
+    <image index="2" file="images/list-thumb/c.bmp" scale="false"/>
+    <image index="3" file="images/list-thumb/bc.bmp" scale="false"/>
+    <image index="4" file="images/list-thumb/b.bmp" scale="false"/>
+  </thumb>
+</list>
+
+<!-- Slider -->
+<slider top="0" left="1" right="1">
+  <image index="0" file="images/slider/l.bmp" scale="false"/>
+  <image index="1" file="images/slider/c.bmp" scale="false"/>
+  <image index="2" file="images/slider/r.bmp" scale="false"/>
+  <thumb>
+    <image index="0" file="images/slider/slider.bmp" scale="false"/>
+  </thumb>
+</slider>
+
+<tab top="5" left="16" right="16" height="32" inner_left="4" inner_right="4">
+  <font file="fonts/bankgthd.ttf" size="14" style="0"/>
+  <color red="0.25" green="0.75" blue="0.25"/>
+  <image index="0" file="images/button/up/l.bmp" scale="false"/>
+  <image index="1" file="images/button/up/tab-l.bmp" scale="false"/>
+  <image index="2" file="images/button/up/c.bmp" scale="false"/>
+  <image index="3" file="images/button/up/tab-r.bmp" scale="false"/>
+  <image index="4" file="images/button/up/r.bmp" scale="false"/>
+  <pressed>
+    <color red="1" green="1" blue="1"/>
+    <image index="0" file="images/button/down/l.bmp" scale="false"/>
+    <image index="1" file="images/button/down/tab-l.bmp" scale="false"/>
+    <image index="2" file="images/button/down/c.bmp" scale="false"/>
+    <image index="3" file="images/button/down/tab-r.bmp" scale="false"/>
+    <image index="4" file="images/button/down/r.bmp" scale="false"/>
+  </pressed>
+  <active>
+    <color red="0" green="1" blue="0"/>
+  </active>
+  <disabled>
+    <color red="0.33" green="0.33" blue="0.33"/>
+  </disabled>
+</tab>
+
+<metaserver>
+<games spacing="7">
+  <font file="fonts/DejaVuLGCSansCondensed-Bold.ttf" italic_file="fonts/DejaVuLGCSansCondensed-BoldOblique.ttf" size="12"/>
+  <color index="0" red="1" green="1" blue="1"/>
+  <selected>
+    <color index="0" red="0" green="0" blue="0"/>
+    <color index="1" red="1" green="1" blue="1"/>
+  </selected>
+  <incompatible>
+    <color index="0" red=".5" green="0" blue="0"/>
+    <selected>
+      <color index="0" red=".5" green="0" blue="0"/>
+      <color index="1" red="1" green="1" blue="1"/>
+    </selected>
+  </incompatible>
+  <running>
+    <color index="0" red="0.5" green="0.5" blue="0.5"/>
+    <selected>
+      <color index="0" red="0.5" green="0.5" blue="0.5"/>
+      <color index="1" red="1" green="1" blue="1"/>
+    </selected>
+  </running>
+</games>
+</metaserver>
+
+</theme>
+</marathon>

@@ -1,0 +1,19 @@
+<marathon>
+<dynamic_limits>
+<objects value="2048"/>
+<effects value="2048"/>
+<rendered value="2048"/>
+</dynamic_limits>
+  <liquids>
+    <liquid index="0" coll="22" frame="62" transfer="3">
+      <effect type="0" which="54"/>
+      <effect type="1" which="54"/>
+      <effect type="2" which="54"/>
+      <effect type="3" which="41"/>
+      <sound type="0" which="94"/>
+      <sound type="1" which="94"/>
+      <sound type="4" which="94"/>
+      <sound type="5" which="41"/>
+    </liquid>
+  </liquids>
+</marathon>
