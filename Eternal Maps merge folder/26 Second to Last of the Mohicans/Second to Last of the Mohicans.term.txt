@@ -41,10 +41,12 @@ $C1~
 
    ?!$                          .414.14
 #LOGOFF 410
+#TAG 1
 #LOGOFF 380
 #END
 #FINISHED
 #LOGON 380
+#TAG 1
 #LOGON 410
 #PICT 411
 $C1
