@@ -33,8 +33,8 @@ wdef["napalm cannon"].primary = { display="energy", left=570-398, top=362-353, w
 wdef["wave motion cannon"] = { left=404-398, top=362-353 }
 wdef["wave motion cannon"].primary = { display="energy", left=570-398, top=362-353, width=28, height=56 }
 wdef["havoc rifle"] = { left=404-398, top=362-353 }
-wdef["havoc rifle"].primary = { display="ammo", left=542-398, top=362-353, across=14, down=6, delta_x=4, delta_y=7 }
-wdef["havoc rifle"].secondary = { display="ammo", left=542-398, top=404-353, across=7, down=1, delta_x=8, delta_y=14 }
+wdef["havoc rifle"].primary = { display="ammo", left=542-398, top=362-353, across=14, down=5, delta_x=4, delta_y=7 }
+wdef["havoc rifle"].secondary = { display="ammo", left=542-398, top=397-353, across=7, down=2, delta_x=8, delta_y=14 }
 wdef["scatter rifle"] = { left=404-398, top=362-353 }
 wdef["scatter rifle"].primary = { display="ammo", left=542-398, top=362-353, across=14, down=8, delta_x=4, delta_y=7 }
 wdef["ball"] = { left=480-398, top=362-353 }
