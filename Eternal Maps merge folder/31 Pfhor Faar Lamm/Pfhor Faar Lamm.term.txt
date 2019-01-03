@@ -1,0 +1,111 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 350
+#STATIC 5
+#LOGON 400
+#INFORMATION
+$C1// Decoding message from host "Leela" [internal process] \\
+$C0
+
+Welcome to the unknown. No human being has ever seen this place, and none ever will. By the time we are gone it will be destroyed.
+
+
+$C5                       whispers from the distant past
+
+                                     a fated battle not yet fought
+
+            another
+                            stronger than even yourself
+$C0
+
+We are over ten thousand years in what you consider to be the past, on a Pfhor deep-space research station orbiting the barren moon of a barely-habitable world on the outer fringes of the galaxy. The Pfhor empire is mightier than it ever has been, or ever will be, for today is the start of their inevitable downfall.
+#PICT 401
+This moon hosts one of the richest abandoned Jjaro outposts remaining after their fall, and the richest that the Pfhor will ever plunder. After today it will be their policy to destroy any Jjaro artifacts found, for the protection of the empire.
+
+Mere hours ago, a foolhardy Pfhor scientist implanted a Drinniol slave subject with a recovered Jjaro Cybernetic Junction. As you are brighter and more capable than the humans from which you came, so too is this cyborg Drinniol greater than any of his kind, and greater than any soldier the Pfhor have at their disposal.
+
+The Drinniol are subjugated by fear, and so with his eyes opened this beast has cast off the yoke of the slavers, and liberated others of his kin, igniting the greatest slave revolt in recorded Pfhor history.
+#INFORMATION
+
+$C5       power untamed
+
+                        as nature uncontrolled
+
+                directed by our nemesis
+
+                                     wielded as her tool
+
+                              as she is wielded by her own madness
+$C0
+
+I believe that Hathor has come here to kidnap this rebel cyborg Drinniol. She must mean to use him as a weapon in her plans, the same as she meant to use the Mjolnir cyborgs at Tau Ceti. She must have found reference to this event in Pfhor history logs at Lh'owon.
+
+We have little to fear, however. Hathor is driven by rage and emotion, and as such she is thinking far more shortsightedly than I am able to plan. She hasn't even arrived here yet. I overshot her temporal trajectory by enough time to, shall we say... prepare for her arrival.
+#PICT 401 RIGHT
+The outpost below is in chaos as the Drinniol rebellion spreads across the moon's surface. Hathor directed her signal to this station, most likely because she is hesitant to enter the dangerous fray on the outpost itself. So we shall make her life at the least a bit more unpleasant, and destroy this station before she arrives.
+
+
+$C5             yet the dark one is clever
+
+       and will surely find a way to live
+$C0
+
+There are four fail-safe circuits surrounding this station's engine core, which handle dispersion of dangerous excess energies. If you can deactivate them I should be able to overload the engines and destroy this station once you are gone.
+#INFORMATION
+
+
+When you are done, return here and I will beam you to the outpost below. Check in with me as soon as you can, and we will plan our next objective. Hathor will surely find some way to redirect herself to the outpost, and that will play right into my plans.
+
+Go on now, and hurry. The faster you're done and off this station the faster I can destroy it. Good luck.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#STATIC 15
+#LOGOFF 350
+#END
+#FINISHED
+#LOGON 350
+#LOGON 400
+#INFORMATION
+
+
+
+
+
+$C1// Decoding message from host "Leela" @ [no translation] \\
+$C0
+
+Excellent work. I will now transport you to the outpost. I have already safely transferred myself into a network on another vessel, preparing for our next task here once Hathor is destroyed, but I will message you with a status update once you arrive below.
+
+Prepare for transport.
+
+
+$C1\\ Message ends //
+#LOGOFF 400
+#INTERLEVEL TELEPORT 32
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 350
+#PICT 351
+$C2
+
+
+$C1// Pfhor translator active \\
+
+$C2
+ATTN: All available combat units.
+
+Hostile alien combat unit approaching reactor core as of 11.27.41 at 7020.30.50. Alien unit last sighted in sector 42.
+
+ORDER: Immediate termination of alien combat unit with extreme prejudice. Deny access to reactor systems at all costs.
+
+
+$C1\\ End translation //
+#LOGOFF 350
+#END
+#ENDTERMINAL 1
