@@ -1,0 +1,7 @@
+<marathon>
+<dynamic_limits>
+<objects value="2048"/>
+<effects value="2048"/>
+<rendered value="2048"/>
+</dynamic_limits>
+</marathon>
