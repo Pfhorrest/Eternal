@@ -4,7 +4,7 @@
 	<scenario id="Eternal X" name="Eternal X" version="1.2.0-b9" />
 
 	<!-- Player Attributes -->
-	<player stripped="150" oxygen_replenish="1" light="0.00">
+	<player stripped="150" oxygen_replenish="1" light="0.50">
 		<item index="0" type="01"/>
 		<item index="1" type="01"/>
 		<item index="2" type="02"/>
