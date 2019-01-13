@@ -36,8 +36,10 @@ function build_pool()
 end
 
 function levelfog()
+	-- Decrease fog counter
 	fogtimer = fogtimer - 1
 
+	-- Fluctuate fog brightness a bit
 	if darken then
 		if blue > .125 then
 			red = red - 0.0005
@@ -55,26 +57,36 @@ function levelfog()
 	end
 
 	if fogtimer > 30 then
+		-- Normal fog values
 		Level.fog.color.r = red
 		Level.fog.color.g = green
 		Level.fog.color.b = blue
 		Level.fog.depth = depth
 	else
+		-- Fog flicker effect to simulate lightning
 		mult = 1 + (fogtimer * (300 + Game.random(300)) / 6300)
 		Level.fog.color.r = blue * mult
 		Level.fog.color.g = ((blue * mult) - blue) * .7
 		Level.fog.color.b = blue * mult
 		Level.fog.depth = depth
-        if fogtimer == 7 then
-            pitch = (200 + Game.random(200)) / 300
-            for p in Players() do
-                p:play_sound("surface explosion", pitch)
-            end
-        end
-    end
+		if fogtimer == 30 then
+			-- Tag 7 activates/deactivates level lights 21-40 for lightning effect
+			Tags[7].active = true
+		end
+		if fogtimer == 7 then
+			-- Play thunder sound
+			pitch = (200 + Game.random(200)) / 300
+         for p in Players() do
+            p:play_sound("surface explosion", pitch)
+         end
+      end
+   end
 
 	if fogtimer == 0 then
-		fogtimer = 420 + Game.random(666)
+		-- Set next lightning interval (random from 7 to 21 seconds)
+		fogtimer = 210 + Game.random(420)
+		-- Deactivate lightning effect
+		Tags[7].active = false
 	end
 end
 
@@ -213,8 +225,8 @@ end
 
 function Triggers.idle()
    if scenery_cleared == true then
-	build_pool()
-	scenery_cleared = false
+		build_pool()
+		scenery_cleared = false
    end
    local pool = Level._pool
    local position = pool[1].position
@@ -224,15 +236,15 @@ function Triggers.idle()
    local phase_match = Game.ticks % phase
    for i = 1,precipitation_count do
       if i % phase == phase_match then
-	 local e = pool[i]
-	 position(e, e.x - wind, e.y - wind, e.z - gravity, e.polygon)
-	 if e.z < e.polygon.floor.height then
-	    local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
-	    e:position(x, y, p.ceiling.height, p)
-	 elseif e.z > e.polygon.ceiling.height then
-	    local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
-	    e:position(x, y, p.floor.height, p)
-	 end
+	 		local e = pool[i]
+	 		position(e, e.x - wind, e.y - wind, e.z - gravity, e.polygon)
+	 		if e.z < e.polygon.floor.height then
+	    		local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
+	    		e:position(x, y, p.ceiling.height, p)
+	 		elseif e.z > e.polygon.ceiling.height then
+	    		local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
+	    		e:position(x, y, p.floor.height, p)
+	 		end
       end
    end
 
