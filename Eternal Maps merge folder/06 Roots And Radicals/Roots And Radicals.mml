@@ -1,0 +1,14 @@
+<marathon>
+	<liquids>
+		<liquid index="4">
+			<effect type="0" which="54"/>
+			<effect type="1" which="54"/>
+			<effect type="2" which="54"/>
+			<effect type="3" which="41"/>
+			<sound type="0" which="94"/>
+			<sound type="1" which="94"/>
+			<sound type="4" which="94"/>
+			<sound type="5" which="22"/>
+		</liquid>
+	</liquids>
+</marathon>

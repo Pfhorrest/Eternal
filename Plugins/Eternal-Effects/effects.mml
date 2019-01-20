@@ -1,5 +1,66 @@
 <marathon>
 <opengl>
+<!-- splashes by liacrow -->
+  <texture coll="22" bitmap="0" normal_image="Effects/Splashes/water00.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="1" normal_image="Effects/Splashes/water01.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="2" normal_image="Effects/Splashes/water02.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="3" normal_image="Effects/Splashes/water03.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="4" normal_image="Effects/Splashes/water04.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="5" normal_image="Effects/Splashes/water05.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="6" normal_image="Effects/Splashes/water06.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="7" normal_image="Effects/Splashes/water07.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="8" normal_image="Effects/Splashes/water08.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="9" normal_image="Effects/Splashes/water09.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="10" normal_image="Effects/Splashes/water10.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="11" normal_image="Effects/Splashes/water11.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="22" bitmap="12" normal_image="Effects/Splashes/water12.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="23" bitmap="0" normal_image="Effects/Splashes/lava0.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="23" bitmap="1" normal_image="Effects/Splashes/lava1.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="23" bitmap="2" normal_image="Effects/Splashes/lava2.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="23" bitmap="3" normal_image="Effects/Splashes/lava3.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="23" bitmap="4" normal_image="Effects/Splashes/lava4.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="23" bitmap="5" normal_image="Effects/Splashes/lava5.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="0" normal_image="Effects/Splashes/slime00.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="1" normal_image="Effects/Splashes/slime01.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="2" normal_image="Effects/Splashes/slime02.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="3" normal_image="Effects/Splashes/slime03.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="4" normal_image="Effects/Splashes/slime04.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="5" normal_image="Effects/Splashes/slime05.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="6" normal_image="Effects/Splashes/slime06.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="7" normal_image="Effects/Splashes/slime07.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="8" normal_image="Effects/Splashes/slime08.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="9" normal_image="Effects/Splashes/slime09.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="10" normal_image="Effects/Splashes/slime10.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="11" normal_image="Effects/Splashes/slime11.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="24" bitmap="12" normal_image="Effects/Splashes/slime12.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="0" normal_image="Effects/Splashes/sewage00.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="1" normal_image="Effects/Splashes/sewage01.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="2" normal_image="Effects/Splashes/sewage02.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="3" normal_image="Effects/Splashes/sewage03.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="4" normal_image="Effects/Splashes/sewage04.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="5" normal_image="Effects/Splashes/sewage05.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="6" normal_image="Effects/Splashes/sewage06.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="7" normal_image="Effects/Splashes/sewage07.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="8" normal_image="Effects/Splashes/sewage08.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="9" normal_image="Effects/Splashes/sewage09.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="10" normal_image="Effects/Splashes/sewage10.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="11" normal_image="Effects/Splashes/sewage11.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="25" bitmap="12" normal_image="Effects/Splashes/sewage12.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="0" normal_image="Effects/Splashes/goo00.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="1" normal_image="Effects/Splashes/goo01.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="2" normal_image="Effects/Splashes/goo02.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="3" normal_image="Effects/Splashes/goo03.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="4" normal_image="Effects/Splashes/goo04.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="5" normal_image="Effects/Splashes/goo05.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="6" normal_image="Effects/Splashes/goo06.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="7" normal_image="Effects/Splashes/goo07.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="8" normal_image="Effects/Splashes/goo08.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="9" normal_image="Effects/Splashes/goo09.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="10" normal_image="Effects/Splashes/goo10.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="11" normal_image="Effects/Splashes/goo11.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+  <texture coll="26" bitmap="12" normal_image="Effects/Splashes/goo12.png" opac_type="1" opac_shift="0" opac_scale="1" type="2"/>
+
+
 <!-- "Shots Fired" by James Hastings-Trew used with permission.
 	From the "Shots Fired" readme:
 
