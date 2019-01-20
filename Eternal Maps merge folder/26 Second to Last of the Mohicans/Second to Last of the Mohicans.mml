@@ -5,7 +5,7 @@
 		<rendered value="2048"/>
 	</dynamic_limits>
 	<liquids>
-		<liquid index="0" coll="22" frame="62" transfer="3">
+		<liquid index="0" coll="18" frame="134">
 			<effect type="0" which="54"/>
 			<effect type="1" which="54"/>
 			<effect type="2" which="54"/>
@@ -16,6 +16,7 @@
 			<sound type="5" which="22"/>
 		</liquid>
 		<liquid index="2" coll="18" frame="9">
-			<sound type="5" which="22"/>		</liquid>
+			<sound type="5" which="22"/>
+		</liquid>
 	</liquids>
 </marathon>
