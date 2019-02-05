@@ -16,23 +16,18 @@ darken = false
 scenery_cleared = false
 
 function build_pool()
-   Level._pool = {}
-
-   for i=1,1024 do
-      s = Scenery.new(0, 0, 0, 0, "gun")
-      s._fake = true
-   end
-
-   for i=1,precipitation_count do
-      local x, y, z, p = uniform.xyz_in_triangle_list(Level._triangles)
-      table.insert(Level._pool, Scenery.new(x, y, z, p, precipitation_type))
-   end
-
-   for s in Scenery() do
-      if s._fake then
-	 s:delete()
-      end
-   end
+	Level._pool = {}
+	
+	local count = 0
+	for i = 1, precipitation_count do
+		 local x, y, z, p = uniform.xyz_in_triangle_list(Level._triangles)
+		 s = Scenery.new(x, y, z, p, precipitation_type)
+		 if s then
+			  count = count + 1
+			  table.insert(Level._pool, s)
+		 end
+	end
+	precipitation_count = count
 end
 
 function levelfog()
@@ -199,28 +194,40 @@ function Triggers.player_damaged(victim, aggressor_player, aggressor_monster, da
     end
 end
 
-function Triggers.init(restoring_game)
-    for s in Scenery() do
-        s:delete()
-    end
-end
-
-function Triggers.pattern_buffer()
-   for s in Scenery() do
-	s:delete()
-   end
-   scenery_cleared = true
-end
-
-function Triggers.init()
-   local polygon_list = {}
-   for p in Polygons() do
-      if p.ceiling.transfer_mode == "landscape" then
-	 table.insert(polygon_list, p)
-      end
-   end
-   Level._triangles = uniform.build_triangle_list(polygon_list)
-   build_pool()
+function Triggers.init(restoring)
+	local polygon_list = {}
+	for p in Polygons() do
+		if p.ceiling.transfer_mode == "landscape" then
+			table.insert(polygon_list, p)
+		end
+	end
+	Level._triangles = uniform.build_triangle_list(polygon_list)
+	if #polygon_list == 0 then
+		precipitation_count = 0
+	else
+		local total_precipitation_area = 0
+		for _, t in pairs(Level._triangles) do
+			total_precipitation_area = total_precipitation_area + t.area
+		end
+		precipitation_count = total_precipitation_area * 2
+		if precipitation_count > 700 then
+			precipitation_count = 700
+		end
+	end
+	
+	if restoring then
+		Level._pool = {}
+		local count = 0
+		for s in Scenery() do
+			if s.type == precipitation_type then
+				count = count + 1
+				table.insert(Level._pool, s)
+			end
+		end
+		precipitation_count = count
+	else
+		build_pool()
+	end
 end
 
 function Triggers.idle()
