@@ -1,8 +1,0 @@
-<marathon>
-  <liquids>
-    <liquid index="0" coll="18" frame="130"/>
-    <liquid index="2" coll="18" frame="134"/>
-    <liquid index="3" coll="18" frame="132"/>
-    <liquid index="4" coll="18" frame="133"/>
-  </liquids>
-</marathon>
