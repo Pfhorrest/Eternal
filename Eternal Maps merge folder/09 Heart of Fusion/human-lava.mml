@@ -1,7 +1,4 @@
 <marathon>
-  <liquids>
-    <liquid index="1" coll="20" frame="130"/>
-  </liquids>
   <player>
     <damage index="18" fade="17"/>
   </player>
