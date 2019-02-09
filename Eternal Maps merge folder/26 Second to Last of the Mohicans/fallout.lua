@@ -1,6 +1,6 @@
-CollectionsUsed = { 22 }
+CollectionsUsed = { 23 }
 
-precipitation_type = "rocks"
+precipitation_type = "skull"
 precipitation_count = 512
 precipitation_phase = 1
 precipitation_gravity = 1/4
