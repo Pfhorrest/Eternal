@@ -15,8 +15,10 @@
 		</object>
 	</scenery>
 
+<!-- conveyor belt-->
+
 	<liquids>
-		<liquid index="0" coll="22" frame="62" transfer="3">
+		<liquid index="0" coll="18" frame="58" transfer="3">
 			<effect type="0" which="54"/>
 			<effect type="1" which="54"/>
 			<effect type="2" which="54"/>
@@ -30,4 +32,7 @@
 			<sound type="5" which="22"/>
 		</liquid>
 	</liquids>
+	<opengl>
+		<texture coll="18" bitmap="58" normal_image="Eternal-Data/Shapes/clear.png"/>
+	</opengl>
 </marathon>
