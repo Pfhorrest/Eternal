@@ -1,8 +1,8 @@
 ---Embers script used for End Times in Imperium by Windbreaker. Lua by Wrkncacnter (mostly).
 
-CollectionsUsed = { 22 }
+CollectionsUsed = { 25 }
 
-precipitation_type = "rocks"
+precipitation_type = "nub 2"
 precipitation_count = 512
 precipitation_phase = 1
 precipitation_gravity = .03

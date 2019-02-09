@@ -1,6 +1,6 @@
-CollectionsUsed = { 22 }
+CollectionsUsed = { 26 }
 
-precipitation_type = "rocks"
+precipitation_type = "alien bones"
 precipitation_count = 512
 precipitation_phase = 1
 precipitation_gravity = 1/4

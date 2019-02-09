@@ -4,4 +4,11 @@
 <effects value="2048"/>
 <rendered value="2048"/>
 </dynamic_limits>
+	<scenery>
+		<object index="57">
+			<normal>
+				<shape coll="25" seq="18"/>
+			</normal>
+		</object>
+	</scenery>
 </marathon>

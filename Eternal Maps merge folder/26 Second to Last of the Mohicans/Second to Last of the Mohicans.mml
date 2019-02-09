@@ -1,11 +1,24 @@
 <marathon>
+
+<!-- rain limits and skull sequence-->
+
 	<dynamic_limits>
 		<objects value="2048"/>
 		<effects value="2048"/>
 		<rendered value="2048"/>
 	</dynamic_limits>
+	<scenery>
+		<object index="5">
+			<normal>
+				<shape coll="23" seq="21"/>
+			</normal>
+		</object>
+	</scenery>
+
+<!-- conveyor belt-->
+
 	<liquids>
-		<liquid index="0" coll="22" frame="62" transfer="3">
+		<liquid index="0" coll="18" frame="58" transfer="3">
 			<effect type="0" which="54"/>
 			<effect type="1" which="54"/>
 			<effect type="2" which="54"/>
@@ -16,6 +29,10 @@
 			<sound type="5" which="22"/>
 		</liquid>
 		<liquid index="2" coll="18" frame="9">
-			<sound type="5" which="22"/>		</liquid>
+			<sound type="5" which="22"/>
+		</liquid>
 	</liquids>
+	<opengl>
+		<texture coll="18" bitmap="58" normal_image="Eternal-Data/Shapes/clear.png"/>
+	</opengl>
 </marathon>
