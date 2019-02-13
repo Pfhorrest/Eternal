@@ -1,0 +1,14 @@
+<marathon>
+<dynamic_limits>
+<objects value="2048"/>
+<effects value="2048"/>
+<rendered value="2048"/>
+</dynamic_limits>
+	<scenery>
+		<object index="17">
+			<normal>
+				<shape coll="22" seq="26"/>
+			</normal>
+		</object>
+	</scenery>
+</marathon>
