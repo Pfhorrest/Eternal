@@ -137,7 +137,7 @@ end
 function Triggers.init(restoring)
 	local polygon_list = {}
 	for p in Polygons() do
-		if p.ceiling.transfer_mode == "landscape" then
+		if p.ceiling.transfer_mode == "landscape" or p.ceiling.texture_index == 9 then
 			table.insert(polygon_list, p)
 		end
 	end
