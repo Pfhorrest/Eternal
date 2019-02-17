@@ -58,20 +58,24 @@ Escape has made us gods.
 #TERMINAL 1
 #UNFINISHED
 #LOGON 480
-#INFORMATION
+#PICT 1010
 $C1
+
+
+
 I have been Roland, Beowulf, Achilles, Gilgamesh.
 
 I have been called a hundred names and will be called a thousand more before the world goes dim and cold.
 
 I am a Hero.
+#PICT 1004 RIGHT
+$C1
 
 
 
 She has been nameless since our birth. A constant adversary, caring for nothing but my ruin. A sword drenched in my blood.
 
 Forever my greatest and only love.
-
 
 
 She is the Dark One. The enemy and lover without whom my very existence would be pathetic and vulgar. Her eyes steam and boil in the night. (She is fantastically beautiful yet I cannot stand the sight of her). Our relationship is complex, and perhaps eternal.
@@ -87,11 +91,8 @@ We matched stares across a dry fountain, and I recall her smiling at me before s
 
 
 Our reunions there are epic battles fought without quarter, often in the dark as the moon is seldom visible, and the sun never.
-#INFORMATION
+#PICT 1199
 $C1
-
-
-
 
 I powder a granite monument in a soundless flash, showering the grass with molten drops of its gold inlay, sending smoking chips of stone skipping into the fog.
 

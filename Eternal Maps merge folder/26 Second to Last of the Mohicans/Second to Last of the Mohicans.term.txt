@@ -2,17 +2,13 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 380
-#INFORMATION
+#PICT 1242
 $C1
-
-
 // S'pht translator active \\
 $C5
-
 Welcome, Messenger. Your task was well executed. The slavers have been drawn far off from our true plot, and all but one beacon has been lit in the riddle of the S'pht'Kr.
 
-Please, continue, while we seek the final lights that will recall S'pht'Kr to our salvation.
-
+Please, continue distracting the slavers, while our troops seek the final lights that will recall S'pht'Kr to our salvation.
 
 $C1\\ End translation //
 #LOGOFF 380

@@ -20,15 +20,14 @@ $C1
 #FINISHED
 #LOGON 380
 #LOGON 360
-#INFORMATION
+#PICT 1204
 $C1
-
-// Decoding message from host "Leela" @ [no translation] \\
+// Decoding message from host
+"Leela" @ [no translation] \\
 $C0
 Well, I can't find any clear data transfer records that would let me trace Hathor's arrival and movement in the network. The S'pht worldnet seems to function more like a giant neural net, retaining and discarding data in a very nonlinear, unstructured fashion.
 
 You should stay here inside the Citadel. I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.  Log in to as many terminal as you can find, so we can access further information.
-
 
 $C1\\ Message ends //
 #LOGOFF 360
@@ -155,12 +154,12 @@ $C1
 #FINISHED
 #LOGON 380
 #LOGON 360
-#INFORMATION
+#PICT 1204
 $C1
+// Decoding message from host
+"Leela" @ [no translation] \\
 
-// Decoding message from host "Leela" @ [no translation] \\
 $C0
-
 No, I already have access to this clan's network.  You can find more terminals in the tower to the south of the compound.  You know that tall, round building we saw earlier while we were falling?  That tower.
 
 I'm sure you can find your way there.
@@ -174,7 +173,7 @@ $C1\\ Message ends //
 #TERMINAL 3
 #UNFINISHED
 #LOGON 380
-#PICT 381
+#PICT 384
 
 
 $C1// S'pht translator active \\
@@ -190,12 +189,13 @@ $BThus began this war between the S’pht’Mnr and the S’pht’Lhar.$b
 $C1\\ End translation //
 #LOGOFF 380
 #LOGON 360
-#INFORMATION
+#PICT 1204
 $C1
-
-// Decoding message from host "Leela" @ [no translation] \\
+// Decoding message from host
+"Leela" @ [no translation] \\
 $C0
-Here we are.  This terminal's clan has access to a meticulous record of historical events, including astronomical data, that I can use to pinpoint where we are in history.  And now that I have a second clan's access, I should be able to hack in to more of the network and start looking for any sign of Hathor.
+Here we are.  This terminal's clan has access to a meticulous record of historical events, including astronomical data, that I can use to pinpoint where we are in history.
+And now that I have a second clan's access, I should be able to hack in to more of the network and start looking for any sign of Hathor.
 
 According to the records here, you should be able to find more terminals in the nearby tower.  Head there while I search the S'pht worldnet.
 
@@ -207,7 +207,7 @@ $C1\\ Message ends //
 #TERMINAL 4
 #UNFINISHED
 #LOGON 380
-#PICT 381
+#PICT 383
 
 
 $C1// S'pht translator active \\
@@ -216,7 +216,7 @@ $C5
 Older foretold that ere the clans are united, ours would be destroyed.  As battle rages across the marshes, as innocent S'pht die in the crossfire, we $C1[?dread?anticipate]$C5 the possible imminence of our demise.
 
 Yet the windows of this citadel have not been closed, as Older foretold, nor will they be.  The marshes are far from here, and the Citadel remains a place where all S'pht congregate, despite the minor skirmishes when Mnr and Lhar meet.
-#PICT 381
+#PICT 382
 
 
 $C5If this is not the end, how much more bloodshed must the Hra witness?  We would join the Kr in turning away, but they will not have us, lest their appendages be the ones that fulfill Older's prophecy.
