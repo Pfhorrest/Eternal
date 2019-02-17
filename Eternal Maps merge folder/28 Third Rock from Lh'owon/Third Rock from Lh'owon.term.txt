@@ -4,16 +4,23 @@
 #LOGON 430
 #STATIC 5
 #LOGON 400
-#INFORMATION
-$C1// Decoding message from host "Leela" [internal process] \\
+#PICT 1202
+$C1// Decoding message from host
+"Leela" [internal process]  \\
 $C0
-Welcome back to K'lia. Doesn't change much, does it?
+Welcome back to K'lia.
 
-$C5     a silent shadow
-  creeping
-        within the mind of our (?self?brother)
+Doesn't change much, does it?
+
+$C5   a silent shadow
+creeping
+      within the mind of our (?self?brother)
 $C0
 In order to see history through on its course, I must convince the S'bhuth of this time to take K'lia from Lh'owon until the time is right for the S'pht'Kr to return.
+#INFORMATION
+
+
+
 
 $C5                             our mind to our mind
                    our thoughts to our thoughts
