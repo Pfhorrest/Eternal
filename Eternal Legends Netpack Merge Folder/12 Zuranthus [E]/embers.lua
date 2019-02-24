@@ -124,12 +124,12 @@ function Triggers.got_item(type, player)
 	end
 end
 
-function Triggers.projectile_created(projectile)
-    projectile._original_owner = projectile.owner
-end
+-- function Triggers.projectile_created(projectile)
+--     projectile._original_owner = projectile.owner
+-- end
 
 function Triggers.player_damaged(victim, aggressor_player, aggressor_monster, damage_type, damage_amount, projectile)
-    if projectile and projectile.type == "shotgun bullet" and projectile._original_owner == victim.monster then
+    if projectile and projectile.type == ( "shotgun bullet" or "smg bullet" ) and victim.weapons.current.type == ( "smg" or "shotgun" ) then
         victim.life = victim.life + damage_amount
     end
 end
@@ -138,9 +138,6 @@ function Triggers.init(restoring)
 	local polygon_list = {}
 	for p in Polygons() do
 		if p.ceiling.transfer_mode == "landscape" or p.ceiling.texture_index == 9 then
-			table.insert(polygon_list, p)
-		end
-		if p.ceiling.texture_index == "9" then
 			table.insert(polygon_list, p)
 		end
 	end
