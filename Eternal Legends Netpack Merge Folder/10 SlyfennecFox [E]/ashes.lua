@@ -135,6 +135,7 @@ function Triggers.player_damaged(victim, aggressor_player, aggressor_monster, da
 end
 
 function Triggers.init(restoring)
+	Game.proper_item_accounting = true
 	local polygon_list = {}
 	for p in Polygons() do
 		if p.ceiling.transfer_mode == "landscape" then

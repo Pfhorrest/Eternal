@@ -1,6 +1,7 @@
 function mediafog()
 	for p in Players() do
-		if p.polygon.media then
+		if numberofswimmers == 0 and p.polygon.media and p.head_below_media == true then
+			numberofswimmers = numberofswimmers + 1
 			if p.polygon.media.type == "water" then
 				Level.underwater_fog.color.r = .75
 				Level.underwater_fog.color.g = .875
@@ -22,9 +23,13 @@ function mediafog()
 				Level.underwater_fog.color.g = .25
 				Level.underwater_fog.color.b = 0
 			end
+			
 		end
 	end
 end
+
+function resetswimmers()
+	
 
 Triggers = {}
 
@@ -135,8 +140,20 @@ function Triggers.player_damaged(victim, aggressor_player, aggressor_monster, da
     end
 end
 
+function Triggers.init(restoring)
+	Game.proper_item_accounting = true
+	numberofswimmers = 0
+end
+
 function Triggers.idle()
-	if #Players == 1 then
+	if numberofswimmers == 0 then
 		mediafog()
+	else
+		numberofswimmers = 0
+		for p in Players() do
+			if p.head_below_media then
+				numberofswimmers = numberofswimmers + 1
+			end
+		end
 	end
 end
