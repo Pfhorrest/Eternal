@@ -28,9 +28,6 @@ function mediafog()
 	end
 end
 
-function resetswimmers()
-	
-
 Triggers = {}
 
 function Triggers.got_item(type, player)
@@ -130,13 +127,19 @@ function Triggers.got_item(type, player)
 	end
 end
 
--- function Triggers.projectile_created(projectile)
---     projectile._original_owner = projectile.owner
--- end
-
 function Triggers.player_damaged(victim, aggressor_player, aggressor_monster, damage_type, damage_amount, projectile)
-    if projectile and projectile.type == ( "shotgun bullet" or "smg bullet" ) and victim.weapons.current.type == ( "smg" or "shotgun" ) then
+    if damage_type == "hulk slap" then
+      if victim.weapons.current.type == "smg" then
         victim.life = victim.life + damage_amount
+      elseif victim.weapons.current.type == "shotgun" then
+        victim.life = victim.life + damage_amount
+      end
+    elseif damage_type == "claws" then
+      if victim.weapons.current.type == "smg" then
+        victim.life = victim.life + damage_amount
+      elseif victim.weapons.current.type == "shotgun" then
+        victim.life = victim.life + damage_amount
+      end
     end
 end
 
