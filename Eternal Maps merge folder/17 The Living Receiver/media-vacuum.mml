@@ -1,0 +1,18 @@
+<marathon>
+	<liquids>
+		<liquid index="0" coll="20" frame="9" transfer="3">
+		</liquid>
+                <liquid index="1" coll="20" frame="9" transfer="3">
+                </liquid>
+                <liquid index="2" coll="20" frame="9" transfer="3">
+                </liquid>
+                <liquid index="3" coll="20" frame="9" transfer="3">
+                </liquid>
+	</liquids>
+	<opengl>
+		<texture coll="20" bitmap="9" normal_image="Eternal-Data/Shapes/clear.png"/>
+	</opengl>
+	<player>
+	        <damage index="19" fade="30"/>
+	</player>
+</marathon>

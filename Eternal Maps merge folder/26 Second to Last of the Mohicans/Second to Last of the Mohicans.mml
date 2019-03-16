@@ -1,20 +1,5 @@
 <marathon>
 
-<!-- rain limits and skull sequence-->
-
-	<dynamic_limits>
-		<objects value="2048"/>
-		<effects value="2048"/>
-		<rendered value="2048"/>
-	</dynamic_limits>
-	<scenery>
-		<object index="5">
-			<normal>
-				<shape coll="23" seq="21"/>
-			</normal>
-		</object>
-	</scenery>
-
 <!-- conveyor belt-->
 
 	<liquids>
