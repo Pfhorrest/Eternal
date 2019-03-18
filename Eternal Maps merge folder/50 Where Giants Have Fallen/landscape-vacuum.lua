@@ -3,7 +3,7 @@ Triggers = {}
 function Triggers.idle()
   for p in Players() do
     if p.polygon.floor.transfer_mode == "landscape" then
-      p.oxygen = p.oxygen - 1
+      p.oxygen = p.oxygen - 3
       if p.oxygen <= 0 then
         p:damage(350, "suffocation")
       end
