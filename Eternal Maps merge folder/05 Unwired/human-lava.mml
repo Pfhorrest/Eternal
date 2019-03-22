@@ -1,0 +1,8 @@
+<marathon>
+  <player>
+    <damage index="18" fade="17"/>
+  </player>
+  <faders>
+    <liquid index="1" fader="17" opacity=".8"/>
+  </faders>
+</marathon>
