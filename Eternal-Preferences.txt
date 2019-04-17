@@ -1,0 +1,8 @@
+<mara_prefs>
+    <graphics>
+        <texture index="0" max_size="2"/>
+        <texture index="1" max_size="2"/>
+        <texture index="2" max_size="2"/>
+        <texture index="3" max_size="2"/>
+    </graphics>
+</mara_prefs>
