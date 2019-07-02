@@ -175,14 +175,13 @@ $C5                       we come back now to right these wrongs
                                  you must not be wielded
                                         by these lesser S'pht of old
 $C1
-
 $C0Leave the S'pht to lose the battle. That is the way that this must be. But your mere absence is not enough to be sure that the future is safe. The S'pht'Kr alone are strong enough to repel the Pfhor invasion. Even now the Eleventh Clan battles the Pfhor forces in orbit, though the S'pht here do not realize it and so scramble to call S'pht'Kr to their aid. But K'lia must be made to leave Lh'owon until the time is right for her return. We must travel to her now, to show this S'bhuth the doom that will befall his people if he does not flee.
 
-I must transfer to your internal network in order to accompany you.
-
+I can lock down the Citadel doors from here if you haven't already, that much should happen.  Then I must transfer to your internal network in order to accompany you.  
 
 $C1\\ Message ends //
 #LOGOFF 400
+#TAG 1
 #STATIC 15
 #LOGON 380
 #STATIC 5
@@ -192,13 +191,14 @@ $C1
 
 
 
-
-
-
 // Decoding message from host "Leela" [internal proecess] \\
 
 $C0
-Transfer completed. Prepare for transport.
+Citadel secured.
+
+Transfer completed.
+
+Prepare for transport.
 $C1
 
 \\ Message ends //
