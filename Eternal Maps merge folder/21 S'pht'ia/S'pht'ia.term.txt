@@ -8,9 +8,9 @@
 
 $C1// Decoding message from host "Leela" @ [no translation] \\
 $C0
-No, I already have access to this clan's network.  I need you to access another terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
+No, I already have access to this clan's network. I need you to access another terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
 
-However, I do have access to the teleporter grid from here.  I think I can put you near a pattern buffer closer to another clan's network.  Hang on...
+However, I do have access to the teleporter grid from here. I think I can put you near a pattern buffer closer to another clan's network. Hang on...
 $C1
 \\ Message ends //
 #LOGOFF 360
@@ -27,7 +27,7 @@ $C1
 $C0
 Well, I can't find any clear data transfer records that would let me trace Hathor's arrival and movement in the network. The S'pht worldnet seems to function more like a giant neural net, retaining and discarding data in a very nonlinear, unstructured fashion.
 
-You should stay here inside the Citadel. I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.  Log in to as many terminal as you can find, so we can access further information.
+You should stay here inside the Citadel. I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible. Log in to as many terminals as you can find, so we can access further information.
 
 $C1\\ Message ends //
 #LOGOFF 360
@@ -160,7 +160,7 @@ $C1
 "Leela" @ [no translation] \\
 
 $C0
-No, I already have access to this clan's network.  You can find more terminals in the tower to the south of the compound.  You know that tall, round building we saw earlier while we were falling?  That tower.
+No, I already have access to this clan's network. You can find more terminals in the tower to the south of the compound. You know that tall, round building we saw earlier while we were falling?  That tower.
 
 I'm sure you can find your way there.
 
@@ -194,10 +194,10 @@ $C1
 // Decoding message from host
 "Leela" @ [no translation] \\
 $C0
-Here we are.  This terminal's clan has access to a meticulous record of historical events, including astronomical data, that I can use to pinpoint where we are in history.
+Here we are. This terminal's clan has access to a meticulous record of historical events, including astronomical data, that I can use to pinpoint where we are in history.
 And now that I have a second clan's access, I should be able to hack in to more of the network and start looking for any sign of Hathor.
 
-According to the records here, you should be able to find more terminals in the nearby tower.  Head there while I search the S'pht worldnet.
+According to the records here, you should be able to find more terminals in the nearby tower. Head there while I search the S'pht worldnet.
 
 $C1\\ Message ends //
 #LOGOFF 360
@@ -213,9 +213,9 @@ $C1\\ Message ends //
 $C1// S'pht translator active \\
 $C5
 
-Older foretold that ere the clans are united, ours would be destroyed.  As battle rages across the marshes, as innocent S'pht die in the crossfire, we $C1[?dread?anticipate]$C5 the possible imminence of our demise.
+Older foretold that ere the clans are united, ours would be destroyed. As battle rages across the marshes, as innocent S'pht die in the crossfire, we $C1[?dread?anticipate]$C5 the possible imminence of our demise.
 
-Yet the windows of this citadel have not been closed, as Older foretold, nor will they be.  The marshes are far from here, and the Citadel remains a place where all S'pht congregate, despite the minor skirmishes when Mnr and Lhar meet.
+Yet the windows of this citadel have not been closed, as Older foretold, nor will they be. The marshes are far from here, and the Citadel remains a place where all S'pht congregate, despite the minor skirmishes when Mnr and Lhar meet.
 #PICT 382
 
 
@@ -247,9 +247,9 @@ $C5
 $BReport to Leader$b
 $IAnomalous beings detected$i
 
-A most unusual biped just was seen crawling out of the lava ponds.  It appeared to be bonded to cybernetics and thus sentient, but not like anything we have seen before.  Nearby Mnr and Lhar both fired on it immediately, so it may be an ally of Kr.
+A most unusual biped just was seen crawling out of the lava ponds. It appeared to be bonded to cybernetics and thus sentient, but not like anything we have seen before. Nearby Mnr and Lhar both fired on it immediately, so it may be an ally of Kr.
 
-Moments later, an unusual presence was detected on our computer net, and just as soon vanished.  Like the biped, what little we could ascertain bore no resemblance to any entity we know.  We have forwarded this intelligence to S'bhuth, hopefully they will have some answers.
+Moments later, an unusual presence was detected on our computer net, and just as soon vanished. Like the biped, what little we could ascertain bore no resemblance to any entity we know. We have forwarded this intelligence to S'bhuth, hopefully they will have some answers.
 
 $C1\\ End translation //
 #LOGON 360
@@ -261,7 +261,7 @@ $C0
 
 That is not good news. It would appear that S'pht computer security is much more capable than I anticipated. We $Bmust$b be more careful to hide our presence here. On the other hand, their failure to recognise us suggests that particular clan has not had contact with Hathor.
 
-Now that I have enough access, I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived.  If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
+Now that I have enough access, I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
 
 Please be patient, this may take a while.
 $C1
