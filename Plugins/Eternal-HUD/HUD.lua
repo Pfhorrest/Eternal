@@ -219,9 +219,10 @@ function Triggers.draw()
       do
         local pname = "Marcus Jones"
         if #Game.players > 1 then
-          for i = 1,#Game.players do
-            if Game.players[i].local_ then
-              pname = Game.players[i].name
+          for i = 0,#Game.players-1 do
+            local p = Game.players[i]
+            if p.local_ then
+              pname = p.name
             end
           end
         end
