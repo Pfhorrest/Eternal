@@ -17,64 +17,84 @@ Chief Security Officer, U.E.S.C. Marathon
 
 ENTRY DATE: 25 July C.E. 2905
 Temporary Quarters, K'lia
-#PICT 1000
+#INFORMATION
 
 "You are destiny."
 $C1
 I saw these words in a vision, or they were spoken to me in a dream. I've always been a daydreamer. Always reflecting on the past, or musing on things that may never be. But lately these visions have been so much more vivid. Whole nightmares of doomed worlds, and alien gods and demons... flashing behind my eyes in an instant like another life I might have lived. And here I am now, daydreaming about dreaming.
 
+
 Metadreaming. Heh.
-#PICT 1007
-$C1
+
+
 Even the deja vu is worse than usual as of late. It seems like everything I do I have already done before, but somehow differently. At least this place is new. Never in a hundred years would I expect to find myself on the last world of the now-extinct S'pht, and least of all in orbit over a ruined and desolate Earth. In a hundred years... I vanish for almost a century and look at what becomes of history....
-#PICT 1001
+#PICT 01000 RIGHT
 $C1
+
+
 Twenty-nine oh five. Damn. Five hundred years ago seems like just yesterday... the last time I saw the cities of Mars. The last time I'll ever see them again, since by now they're nothing but twisted slag, lying amidst the dusty red sands. They say that nobody won the war. The Pfhor empire is shattered, their civilization decimated by the S'pht rebellion. The S'pht themselves are also gone; the 'Kr put down to end S'bhuth's madness, and the rest of them exterminated by the Pfhor. And here we are now, one ruined world left, and clinging to this unnatural second moon as our only hope for salvation. 
-#PICT 1202
+#INFORMATION
 $C1
 But neither we nor the Pfhor are gone; they are merely set back, and we even more so. And when our kinds once again collide, I doubt that mankind should come out the victor. Apparently enough people share that fear that it was worth spending nearly all of our resources finding some way to make it right. And right here on K'lia, they found the key. The means to our restitution. The greatest technology ever dreamed of, 'magic' left behind by the Jjaro, which could unravel the very fabric of space and alter the course of history...
 
+
 And to think, if it weren't for the message that I helped send, 92 years earlier, all of that effort would have been for nought.
-#PICT 1002
-$C1
+
+
 Leela. The poor girl deserved better than the fate that befell her. But her last legacy, the message from Marathon, streaking at light-speed through the stars, warning of a threat now passed, rekindled new hope, for she spoke also of ten Battleroids at Tau Ceti IV - cyborg warriors the likes of which had not been seen since I left Mars.
-#PICT 1003
+#PICT 01001
 $C1
+
+
+
+
 So once again it is my kind that is called upon in time of need. Battleroids have been used as a last resort ever since our invention, but this is certainly a novel use. It seems that this 'Cybernetic Junction' was the pinnacle of Jjaro technology, and one of them lies at the heart of every Mk IV Battleroid ever built - a "surrogate soul", as one of the techs put it. And just what was needed by K'lia.
-#PICT 1004 RIGHT
+#INFORMATION
 $C1
+
+
+
 The K'lia Junction was destroyed to end S'bhuth's rampage. In order to make the technology here operational again, another Junction was required. Thank goodness they found Hathor. Another Mark IV like myself, my sister you might say - one of the nine I left to die when Durandal took me from Tau Ceti. The only one whose Junction survived enough for any recovery. The core of her mind is now the core of all of K'lia's systems. She is the one who deciphered how the Jjaro technology functions, and exactly what it is capable of.
-#PICT 1005
-$C1
+
 The Jjaro Cybernetic Junction grants the ability to transfer subspace datastreams, or what the techs here have dubbed the Junction's 'perceived host', to any point across space, any moment in time, or any discernable parallel timeline. The power, in effect, to shape reality as the user sees fit, roaming the spacetime continuum at will.
-#PICT 1006 RIGHT
+#PICT 1002 RIGHT
 $C1
 It was Hathor who coordinated our first efforts to change history. We tried sending tactical data to ourselves in the past, in the recent timeframes where we could receive subspace datastreams. But it always proved futile, and Hathor determined that no such thing could save us from S'bhuth's madness. No tactical advantage we could offer our past selves could offset the loss of our S'pht allies, and the damage that their rampage caused. Why S'bhuth went mad is still a mystery, as were his objectives. What could drive such an ancient and purportedly enlightened mind into such complete and utter violence? Without Leela's aid, we wouldn't even have had the power to stop him.
 
 
 At least then, perhaps she might have survived.
-#PICT 1202
+#INFORMATION
 $C1
 Man's only apparent option was to send K'lia itself across time, but that was considered too great of a risk. While it would allow us to aid our past selves in earlier eras of time, before the invention of subspace transceivers, the chance of losing everything should K'lia be destroyed was considered too great a cost to outweigh even the potential benefits. What man needed was another Cybernetic Junction.
-#PICT 1004 RIGHT
-$C1
+
+
 It was then that Hathor remembered me. One out of ten missing from Tau Ceti when the Pfhor nuked it down to bedrock. She tracked me to Lh'owon through the accounts of Robert Blake. She scanned S'bhuth's old databanks, now adjacent to her mind, and found sensor logs from a S'pht'Kr ship at the Last Battle of Lh'owon. She found me there aboard a Jjaro spacestation, reading the last words from Durandal I suspect I'll ever see. "Go," he said, and so I went - picked up by Hathor's ansible call and dragged through somewhere outside time, to this alien moon over a ruined Earth almost ninety-five years in the future.
 
 
 If I keep this up, I imagine that I might live to see the end of time.
-#PICT 1008
+#PICT 1003
 $C1
+
 It has been strange to be amongst human civilization again, after so long travelling the stars in stasis and battling on alien worlds. Though it seems to me not even a year since Durandal called the Pfhor to Tau Ceti, to the rest of the galaxy well over a century has passed. Not to mention the three hundred years since $IMarathon$i departed Mars. The people here at Sol have changed so much in all these ages, both in accent and in attitude... but once again, it seems like I'm their only hope. Maybe those visions were right, that stuff about Destiny and all; but I can't let my idle thoughts and imagination go to my head. I have always been a soldier. Always done as I was told. Never put my own needs first. No matter the price I might pay in the end.
 
-#PICT 1009
+#INFORMATION
 $C1
+
+
 The plan now is simple, or so it would seem. Hathor and I are to return to Marathon, back to the year 2794 - to the start of the Pfhor invasion. There, we will find the other eight Battleroids, and bring them forward to this time. After the same upgrades and rest that I have been given here, we will all return to the past again, to key junctures in history, surgically altering the timeline to create a future free from the Pfhor. K'lia and what's left of mankind here can then transport to that timeline, using ourselves as a beacon.
-#PICT 300 RIGHT
-$C1
+
 I can hear them calling for me now. I guess Hathor is ready for departure. She's been delaying the start of the mission for nearly a month now, much to the chagrin of the leaders around here, and she refuses to tell anyone why. But she's in control of K'lia's systems and there's little that they can do, so they begrudgingly tolerate her insistence on departing at this exact time. It seems that nobody else has noticed she just has a flair for dramatic timing.
 
-We are leaving at 8:20 AM, on the 25th of July, 2905. One hundred eleven years ago, 92 light-years away from here, the first Pfhor assault against the Marathon began.
+#PICT 300 RIGHT
+$C1
 
+
+
+
+
+
+
+We are leaving at 8:20 AM, on the 25th of July, 2905. One hundred eleven years ago, 92 light-years away from here, the first Pfhor assault against the Marathon began.
 
 And history has never been the same...
 #LOGOFF 320
