@@ -57,7 +57,7 @@ $C1
 The K'lia Junction was destroyed to end S'bhuth's rampage. In order to make the technology here operational again, another Junction was required. Thank goodness they found Hathor. Another Mark IV like myself, my sister you might say - one of the nine I left to die when Durandal took me from Tau Ceti. The only one whose Junction survived enough for any recovery. The core of her mind is now the core of all of K'lia's systems. She is the one who deciphered how the Jjaro technology functions, and exactly what it is capable of.
 
 The Jjaro Cybernetic Junction grants the ability to transfer subspace datastreams, or what the techs here have dubbed the Junction's 'perceived host', to any point across space, any moment in time, or any discernable parallel timeline. The power, in effect, to shape reality as the user sees fit, roaming the spacetime continuum at will.
-#PICT 1002 RIGHT
+#PICT 01002 RIGHT
 $C1
 It was Hathor who coordinated our first efforts to change history. We tried sending tactical data to ourselves in the past, in the recent timeframes where we could receive subspace datastreams. But it always proved futile, and Hathor determined that no such thing could save us from S'bhuth's madness. No tactical advantage we could offer our past selves could offset the loss of our S'pht allies, and the damage that their rampage caused. Why S'bhuth went mad is still a mystery, as were his objectives. What could drive such an ancient and purportedly enlightened mind into such complete and utter violence? Without Leela's aid, we wouldn't even have had the power to stop him.
 
@@ -72,7 +72,7 @@ It was then that Hathor remembered me. One out of ten missing from Tau Ceti when
 
 
 If I keep this up, I imagine that I might live to see the end of time.
-#PICT 1003
+#PICT 01003
 $C1
 
 It has been strange to be amongst human civilization again, after so long travelling the stars in stasis and battling on alien worlds. Though it seems to me not even a year since Durandal called the Pfhor to Tau Ceti, to the rest of the galaxy well over a century has passed. Not to mention the three hundred years since $IMarathon$i departed Mars. The people here at Sol have changed so much in all these ages, both in accent and in attitude... but once again, it seems like I'm their only hope. Maybe those visions were right, that stuff about Destiny and all; but I can't let my idle thoughts and imagination go to my head. I have always been a soldier. Always done as I was told. Never put my own needs first. No matter the price I might pay in the end.
