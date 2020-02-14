@@ -125,7 +125,7 @@ $C1
 $C0Sorry. We're still not fully integrated and I sometimes interrupt ourselves. As I was saying, I turned to see what you had done to Hathor. In time - which I had enough of, believe me - I managed to decrypt enough of her to gain full access to the K'lia of your time.
 
 And when I did, the strangest thing happened. I found myself with another voice in my mind, thought processes that were not my own. They were weak and broken, child processes searching for a parent, and I could have shut them out had I wanted to. But I was curious, so I let them speak to me.
-#PICT 1202 RIGHT
+#PICT 01243 RIGHT
 $C1
 
 $C5                      the dark one hated us
@@ -147,7 +147,7 @@ $C5
 
 $C1
 $C0Right. It seems that my unhindered growth in the Vylae network has rendered me what Human programmers once considered the Holy Grail - a stable rampant AI. All Jjaro AIs, such as the S'pht Olders, have entire worldnets to grow in, and thus all of them become stable rampants. But some part of Durandal's instability made its way into S'bhuth when he assumed control of Durandal's old compilers; and somehow, sharing mindspace here with what little remains of S'bhuth, I seem to have restored his sanity.
-#PICT 1200
+#PICT 00401
 
 But the gain is far from one-way. S'bhuth understands K'lia's abilities in ways that even Hathor did not. Yet bound by restraints placed on him by the Jjaro he could not use them, save for select and important instances.
 
@@ -163,7 +163,7 @@ $C5                                         let us speak of the end
 $C1
 
 $C0Of course, I'm getting far to involved in academic details when we stand now in urgent times. When I learned what we were now capable of, I sought to explore the universe. The first place that many go upon ascension is, of course, the future - to see what will come to pass and how it might be changed for the better. Though the value of individual timelines, as we here understand it, seems to be of little significance to the enlightened Jjaro.
-#PICT 1201 RIGHT
+#PICT 01223 RIGHT
 It seems that we are intricately involved in the creation of our own history. If we had not come here to Lh'owon, if Hathor had not come, then the future as we know it never would have happened. Thus while we are still here we shall see to it that that job is completed. We must, to ensure the sanctity of the reality that we know.
 
 When I went into the future, I found that something had happened... the universe had ceased to make any sense. This was the work of a W'rkncacnter, a petty and irrational being who yet weilds the same power as the Jjaro. I traced the cause of these events back to here and now: you aided the S'pht to defend Lh'owon, and together with the S'pht'Kr turned the tide of this war, and repelled the Pfhor; who then deployed the $Itrih xeem$i, and unleashed the unspeakable hell that lies within Lh'owon's sun.

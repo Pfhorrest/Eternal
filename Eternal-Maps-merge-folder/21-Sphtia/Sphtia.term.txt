@@ -20,7 +20,7 @@ $C1
 #FINISHED
 #LOGON 380
 #LOGON 360
-#PICT 1204
+#PICT 01211
 $C1
 // Decoding message from host
 "Leela" @ [no translation] \\
@@ -154,7 +154,7 @@ $C1
 #FINISHED
 #LOGON 380
 #LOGON 360
-#PICT 1204
+#PICT 01211
 $C1
 // Decoding message from host
 "Leela" @ [no translation] \\
@@ -189,7 +189,7 @@ $BThus began this war between the S’pht’Mnr and the S’pht’Lhar.$b
 $C1\\ End translation //
 #LOGOFF 380
 #LOGON 360
-#PICT 1204
+#PICT 01211
 $C1
 // Decoding message from host
 "Leela" @ [no translation] \\
@@ -241,7 +241,7 @@ $C1
 #TERMINAL 5
 #UNFINISHED
 #LOGON 380
-#PICT 1203
+#PICT 01212
 $C1// S'pht translator active \\
 $C5
 $BReport to Leader$b

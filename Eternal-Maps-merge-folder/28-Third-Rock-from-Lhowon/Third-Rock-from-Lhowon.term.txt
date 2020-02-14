@@ -4,7 +4,7 @@
 #LOGON 430
 #STATIC 5
 #LOGON 400
-#PICT 1202
+#PICT 01281
 $C1// Decoding message from host
 "Leela" [internal process]  \\
 $C0

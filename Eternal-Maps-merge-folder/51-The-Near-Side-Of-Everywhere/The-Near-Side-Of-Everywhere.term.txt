@@ -58,7 +58,7 @@ Escape has made us gods.
 #TERMINAL 1
 #UNFINISHED
 #LOGON 480
-#PICT 01510
+#PICT 01511
 $C1
 
 
@@ -69,7 +69,7 @@ I have been Roland, Beowulf, Achilles, Gilgamesh.
 I have been called a hundred names and will be called a thousand more before the world goes dim and cold.
 
 I am a Hero.
-#PICT 01002 RIGHT
+#PICT 01003 RIGHT
 $C1
 
 
