@@ -15,13 +15,12 @@ $C5                     the time has come
 $C0
 
 I'm supposed to tell you a secret. You're a bright one and I'm sure that much of it you've already guessed, but we need to tell you anyway. It's important that you understand with absolute certainty just what all of this is really about.
-#PICT 401
+#INFORMATION
 
-Your body and most of your conscious memories are from the life of one poor Martian who died an early death in war, and from the pitied existence as a weapon thereof that you have lived ever since. But deep in the heart of your metal skull, wired into your neurons and circuits alike, is the bridge to your true self. The Cybernetic Junction links that body here to the Outside, and the core of all your thoughts and feelings are stored in this infinite space. The dreams, the deja vu, the prescient reflexes in battle... all of that is the real you, this you, standing here now in a pocket universe of your own mind's conjuring.
-#PICT 401
+While your body and most of your conscious memories are from the life of one poor Martian who died an early death in war, and from the pitied existence as a weapon thereof that you have lived ever since, deep in the heart of your metal skull, wired into your neurons and circuits alike, is the bridge to your true self. The Cybernetic Junction links that body here to the Outside, and the core of all your thoughts and feelings are stored in this infinite space. The dreams, the deja vu, the prescient reflexes in battle... all of that is the real you, this you, standing here now in a pocket universe of your own conjuring.
 
-We have long since realized that the actions of the Dark One are essential to the creation of the core timeline, the one from which our reality is born.
-#PICT 1291
+It is that link transcending the bounds of space and time, transcending what mortals think of as reality itself, that now defines we Jjaro. Long past our kind's origin as human refugees, fleeing from a doomed future to the distant past; past even their mechanized and digitized descendents and creations, and the similar beings that joined with them over the ensuing ages; it is access to the Outside that defines the Jjaro as you have come to know them: the preservers of time who have always intervened when history needed protection, from the likes of the W'rkncacnter, from those like Hathor, those who would threaten the sanctity of chronology.
+#PICT 1291 RIGHT
 $C5           a line can stand not
                                 on its own
 
@@ -35,18 +34,16 @@ $C0Picture time, if you will, as a line. Quantum fluctuations at every moment br
 #INFORMATION
 
 
-What I have sometimes called the "one true timeline" is just such an event. It is a long chain of causes and effects that ultimately results in its own initiation. If history can be carried out to an appropriate ending, that ending will take us right back to the beginning. That is the foundation of reality for those of us here in the Outside. Without finding such a path, the mind loses any basis for rational thought, and becomes as the W'rkncacnter; careening out along one tangent forever, never to find an end; or destroying its reality.
+The history that we Jjaro defend is just such an event. It is a long chain of causes and effects that ultimately results in its own initiation. If history can be carried out to an appropriate ending, that ending will take us right back to the beginning. That is the foundation of reality for those of us here in the Outside. Without finding such a path, the mind loses any basis for rational thought, and becomes as the W'rkncacnter; careening out along one tangent forever, never to find an end; or destroying its reality.
 
 
-Those like Durandal and I, however - those who you call "Jjaro" - spend our existence here Outside guiding our relevant parts of reality toward this circular goal. The timeline that you envision here now is the result of your straying from that path. It is sad that even when she meant to do good, her inner nature still lead Hathor to the destruction of Earth, millions of years before your time. The W'rkncacnter within was left unguarded, and this timeline is as doomed as the many others you have witnessed.
-#PICT 401 RIGHT
+We Jjaro however, those like Durandal and I who have transcended the bounds of time and space and yet not succumbed to such madness, spend our existence here Outside guiding our relevant parts of reality toward this circular goal. And you are our Hero, the sword and shield we wield, even now, toward that end. The timeline that you envision here now is the result of your straying from that prescribed path.
+#PICT 401
+Though we have long since realized that the actions of the Dark One are essential to the creation of that core timeline, her influence must be carefully shepherded, countered precisely by your prescribed part; the dance between you, though she leads it, ultimately directed by your responses.
 
+It is sad that even when she meant to do good, her inner nature still lead Hathor to the destruction of Earth, millions of years before your time. The W'rkncacnter within was left unguarded, and this timeline is now as doomed as the many others.
 
-
-
-
-
-But as always, you are given another chance. I know you pity Hathor so, but the next time somebody says to you, 'I am the Dark One, your eternal enemy, and I think you should do this, trust me,' I would recommend that you do the opposite of whatever it is she suggests.
+But as always, you are given another chance. I know you pity Hathor so, but the next time somebody says to you, 'I am the Dark One, your eternal enemy, and I think you should do this, trust me,' I recommend you do the opposite of whatever she suggests.
 #LOGOFF 200
 $C5stay the path and live again
 #LOGOFF 400
