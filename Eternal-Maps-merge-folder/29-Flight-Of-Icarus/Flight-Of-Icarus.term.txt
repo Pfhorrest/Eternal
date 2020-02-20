@@ -9,7 +9,7 @@ $C1// Decoding message from host "Leela" [internal process] \\
 $C0
 In order to assure that the S'pht'Kr will return when they are needed, we must inform their artificial inelligence Thoth of their location, and leave him instructions on when and how to contact them.
 
-We will do this similarly to how we just accomplished our mission with S'bhuth. I will manufacture two uplink chips, containing instructions encoded with S'bhuth's signature, and you must insert them into Thoth's databanks. Thoth is currently inactive, awaiting activation by the united S'pht clans to contact the S'pht'Kr. As these instructions are signed by S'bhuth
+We will do this similarly to how we just accomplished our mission with S'bhuth. I will manufacture two uplink chips, containing instructions encoded with S'bhuth's signature, and you must insert them into Thoth's databanks, then trigger the offline integration of that program with two switches near where you will find the chips. Thoth is currently inactive, awaiting activation by the united S'pht clans to contact the S'pht'Kr. As these instructions are signed by S'bhuth
 
 $C5        we are we
            are we not?
