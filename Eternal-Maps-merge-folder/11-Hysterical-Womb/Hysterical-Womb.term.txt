@@ -36,7 +36,7 @@ I am still not entirely sure how Hathor managed to transfer herself here, unless
 
 It's possible that Hathor or her accomplice here may have anticipated our arrival, although granting me command access to the ship still does not make sense, nor do my unexpected new subroutines. I'm not even sure how the latter is technically possible, as her accomplice here would have to have matched the unique and private encryption signature that only my program utilizes.
 #PICT 1111 RIGHT
-$C6But I believe we can make some use of ourselves here. This ship contains three Pfhor cyborgs, which are linked directly into a specialized network used to command their S'pht and Human cyborg slaves. If you can kill these three controller cyborgs, their slaves will be set free, and I should be able to coordinate a resistance movement across the ships in this fleet, taking over a substantial part of it and disabling the rest. You should kill everything else you can find while you are here, to make my capture of this ship all the quicker. This includes any S'pht or Human cyborgs you can find, for they will continue to operate off of their last standing orders until I can shake them of their programming.
+$C6But I believe we can make some use of ourselves here. This ship contains three Pfhor cyborgs, which are linked directly into a specialized network used to command their S'pht and Human cyborg slaves. If you can kill these three controller cyborgs, their slaves will be set free, and I should be able to coordinate a resistance movement across the ships in this fleet, taking over a substantial part of it and disabling the rest. It may take some time for me to shake the S'pht and Human cyborgs of their programming, and until I have done so they will continue to operate off of their last standing orders as long as Enforcers are present.  You should kill everything else you can find while you are here, to make my capture of this ship all the quicker.
 
 Return to any terminal when you are done.
 $C0
@@ -54,6 +54,36 @@ $C1// Decoding message from host "Tycho" @ [no translation] \\
 $C0
 
 $C6Well done. The slaves are still operating somewhat off of their last commands, but I am working to shake them of their brainwashing and rally them together to overthrow the ships that they are on. If we can pull things together fast enough I might be able to send some of them with you on your next mission.
+
+It turns out that the object that the fleet was ordered to attack was a captured Pfhor corvette being commanded by none other than our old friend Leela! She is currently broadcasting an S.O.S. at an old UESC band frequency. She identifies herself, and her crew, a contingent of Marathon crewmen taken with Durandal when he left the Marathon in a captured Pfhor ship... this was the same trip Durandal took you on, wasn't it? It looks like your presence on Marathon in your past has not been too disruptive to the timeline - at least not yet.
+#PICT 1112
+$C6
+
+Do you happen to know a Robert Blake? He's apparently the leader of these human forces with Leela. Looks like they found her in the network of some race called the Vylae.
+
+
+Since the Pfhor forces here are still engaged with the S'pht'Kr, not many ships were actually dispatched to attack Leela's ship. It was eventually damaged beyond repair, but she managed to safely crash land on the one inhabitable world in this system before the hull integrity failed entirely. Not only that, but she smashed her way through the outer walls of the main Pfhor military complex here in the process.
+#INFORMATION
+
+$C6I'm going to send you to lend Leela a hand while I tackle this revolution I've got going. She seems to have been Hathor's primary target in this timeframe. I'll try to send you whatever help I can, and hopefully by the time you are through I will not only have control of the remaining fleet, but will have located Hathor in the planetary network. Once we are safely in control we can see to finally terminating Hathor.
+
+I'll see you planet-side.
+$C0
+
+$C1\\ Message ends //
+#LOGOFF 370
+#INTERLEVEL TELEPORT 12
+#END
+#FAILED
+#LOGON 350
+#LOGON 370
+#INFORMATION
+
+
+$C1// Decoding message from host "Tycho" @ [no translation] \\
+$C0
+
+$C6Well done. The slaves are free of their last commands, and I am working to rally them together to overthrow the ships that they are on. If we can pull things together fast enough I might be able to send some of them with you on your next mission.
 
 It turns out that the object that the fleet was ordered to attack was a captured Pfhor corvette being commanded by none other than our old friend Leela! She is currently broadcasting an S.O.S. at an old UESC band frequency. She identifies herself, and her crew, a contingent of Marathon crewmen taken with Durandal when he left the Marathon in a captured Pfhor ship... this was the same trip Durandal took you on, wasn't it? It looks like your presence on Marathon in your past has not been too disruptive to the timeline - at least not yet.
 #PICT 1112
