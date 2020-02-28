@@ -72,7 +72,7 @@ At 0830 hours, alien forces boarded the Marathon.  The current situation is dir
 
 
 $C1<<< Posted 2794.7.3.14.08.39 >>>
-#TAG 320
+#LOGOFF 320
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
