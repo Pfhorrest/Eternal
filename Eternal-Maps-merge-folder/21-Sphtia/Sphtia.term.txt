@@ -111,6 +111,7 @@ $C1\\ Message ends //
 #LOGON 380
 #STATIC 5
 #LOGON 360
+#TAG 20
 #INFORMATION
 $C1
 
@@ -189,6 +190,7 @@ $BThus began this war between the S’pht’Mnr and the S’pht’Lhar.$b
 $C1\\ End translation //
 #LOGOFF 380
 #LOGON 360
+#TAG 20
 #PICT 01211
 $C1
 // Decoding message from host
