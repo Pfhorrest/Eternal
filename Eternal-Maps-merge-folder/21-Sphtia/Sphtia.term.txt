@@ -2,6 +2,51 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 380
+#STATIC 5
+#LOGON 360
+#INFORMATION
+$C1
+
+
+
+// Decoding message from host "Leela" [internal process] \\
+
+$C0
+Welcome to Lh'owon. At least, that's what Blake told me when I showed him the coordinates from Hathor's last transport. Does it look familiar to you? It's probably changed a lot between now and the last time that you saw it... we've arrived here some 2000 years earlier.
+
+Give me a moment to see if I can connect to the S'pht network...
+
+
+$C1\\ Message ends //
+#LOGOFF 360
+#STATIC 15
+#TAG 3
+#LOGON 380
+#LOGON 360
+#INFORMATION
+
+
+$C1// Decoding message from host "Leela" @ [no translation] \\
+$C0
+There we are. This place is even roomier than you are, though I suppose that's to be expected for a planetary grid. It still doesn't hold a candle to the Vylae network.
+
+Let me see if I can find any useful information around here. My trace of Hathor was approximate - it seems the process of aiming an ansible link is done fractally, refining the resolution in diminishing increments, and I didn't catch the last few cycles of it. We may be on the wrong continent, or have missed her by a few years. I'm sure you noticed our entrance here was anything but stable. Lucky we wound up as low in the atmosphere as we did.
+
+Here we go. This is Lh'owon, just as Blake said, and this building is called the 'Citadel of Antiquities' - stop me if I'm covering data that you already know.
+#PICT 361
+
+I see no immediate sign of Hathor, which could mean we have arrived before her, but we should look a bit into public history here to see if there are any signs of her arriving earlier.
+
+Roomy as the worldnet is, the S'pht are fragmented into eleven separate clans at this point in history, and I can only access one clan's information from this terminal.
+
+I need you to access another terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
+$C1
+\\ Message ends //
+#LOGOFF 360
+#LOGOFF 380
+#END
+#FINISHED
+#LOGON 380
 #LOGON 360
 #INFORMATION
 
@@ -17,7 +62,7 @@ $C1
 #LOGOFF 380
 #INTRALEVEL TELEPORT 96
 #END
-#FINISHED
+#FAILED
 #LOGON 380
 #LOGON 360
 #PICT 01211
@@ -128,6 +173,7 @@ Give me a moment to see if I can connect to the S'pht network...
 $C1\\ Message ends //
 #LOGOFF 360
 #STATIC 15
+#TAG 3
 #LOGON 380
 #LOGON 360
 #INFORMATION
@@ -155,6 +201,23 @@ $C1
 #FINISHED
 #LOGON 380
 #LOGON 360
+#INFORMATION
+$C1
+// Decoding message from host
+"Leela" @ [no translation] \\
+
+$C0
+Keep looking, I already have access to this clan's network. I need you to access another clan's terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
+
+There seems to be a terminal I cannot yet access inside this compound, west of here and several metres up, try there.
+
+$C1\\ Message ends //
+#LOGOFF 360
+#LOGOFF 380
+#END
+#FAILED
+#LOGON 380
+#LOGON 360
 #PICT 01211
 $C1
 // Decoding message from host
@@ -174,6 +237,7 @@ $C1\\ Message ends //
 #TERMINAL 3
 #UNFINISHED
 #LOGON 380
+#TAG 20
 #PICT 384
 
 
@@ -190,7 +254,7 @@ $BThus began this war between the S’pht’Mnr and the S’pht’Lhar.$b
 $C1\\ End translation //
 #LOGOFF 380
 #LOGON 360
-#TAG 20
+#TAG 1
 #PICT 01211
 $C1
 // Decoding message from host

@@ -1,3 +1,7 @@
 <marathon>
 	<player energy="450"/>
+	<overhead_map>
+		<assign_live monster="12" type="-1"/>
+		<assign_dead monster="12" type="-1"/>
+	</overhead_map>
 </marathon>
