@@ -1,7 +1,7 @@
 <marathon>
 
 	<!-- Scenario ID -->
-	<scenario id="Eternal X" name="Eternal X" version="1.2.0-b9" />
+	<scenario id="Eternal X" name="Eternal X" version="1.2.1" />
 
 	<!-- Player Attributes -->
 	<player stripped="150" oxygen_replenish="1" light="0.50">
@@ -45,16 +45,11 @@
 		<fov fix_h_not_v="true" normal="90" extra="135" tunnel="30" rate="2"/>
 	</view>
 
-	<!-- Monster Paths -->
-	<dynamic_limits>
-		<objects value="1024"/>
-		<monsters value="512"/>
-		<paths value="512"/>
-		<projectiles value="256"/>
-		<effects value="256"/>
-		<rendered value="1024"/>
-		<local_collision value="1024"/>
-		<global_collision value="1024"/>
-	</dynamic_limits>
+	<!-- Overhead Map Options -->
+	<overhead_map>
+		<aliens on="1"/>
+		<items on="1"/>
+		<projectiles on="1"/>
+	</overhead_map>
 
 </marathon>

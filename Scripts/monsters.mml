@@ -8,8 +8,6 @@
 
 	<!-- Overhead Map Options -->
 	<overhead_map>
-		<aliens on="1"/>
-		<items on="1"/>
 		<assign_live monster="20" type="0"/>
 		<assign_dead coll="2" type="-1"/>
 		<assign_dead coll="3" type="-1"/>
@@ -78,5 +76,17 @@
 		<texture coll="16" bitmap="49" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
 		<texture coll="16" bitmap="50" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
    </opengl>
+
+	<!-- Monster Paths -->
+	<dynamic_limits>
+		<objects value="1024"/>
+		<monsters value="512"/>
+		<paths value="512"/>
+		<projectiles value="256"/>
+		<effects value="256"/>
+		<rendered value="1024"/>
+		<local_collision value="1024"/>
+		<global_collision value="1024"/>
+	</dynamic_limits>
 
 </marathon>
