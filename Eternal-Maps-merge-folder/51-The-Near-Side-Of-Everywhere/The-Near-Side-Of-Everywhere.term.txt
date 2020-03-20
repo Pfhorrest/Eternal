@@ -58,7 +58,7 @@ Escape has made us gods.
 #TERMINAL 1
 #UNFINISHED
 #LOGON 480
-#PICT 01511
+#PICT 01005
 $C1
 
 
@@ -93,7 +93,7 @@ We matched stares across a dry fountain, and I recall her smiling at me before s
 
 
 Our reunions there are epic battles fought without quarter, often in the dark as the moon is seldom visible, and the sun never.
-#PICT 01512
+#PICT 01006
 $C1
 
 
