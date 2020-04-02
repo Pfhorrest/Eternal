@@ -159,7 +159,7 @@ Entry into these systems is currently unauthorized.
 
 <<< Prepare for transport >>>
 #LOGOFF 320
-#INTRALEVEL TELEPORT 898
+#INTRALEVEL TELEPORT 852
 #ENDTERMINAL 4
 ;
 #TERMINAL 5
@@ -213,7 +213,7 @@ Emergency systems transporter rerouted to internal location.
 
 <<< Prepare for transport >>>
 #LOGOFF 320
-#INTRALEVEL TELEPORT 222
+#INTRALEVEL TELEPORT 970
 #ENDTERMINAL 6
 ;
 #TERMINAL 7
