@@ -1,3 +1,66 @@
+fogtimer = 420
+pitch = .5
+red = .125
+green = 0
+blue = .125
+depth = 42
+darken = false
+
+function levelfog()
+	-- Decrease fog counter
+	fogtimer = fogtimer - 1
+
+	-- Fluctuate fog brightness a bit
+	if darken then
+		if blue > .125 then
+			red = red - 0.0005
+			blue = blue - 0.0005
+			depth = depth - 0.05
+		else
+			darken = false
+		end
+	elseif blue < .25 then
+		red = red + 0.0005
+		blue = blue + 0.0005
+		depth = depth + 0.05
+	else
+		darken = true
+	end
+
+	if fogtimer > 30 then
+		-- Normal fog values
+		Level.fog.color.r = red
+		Level.fog.color.g = green
+		Level.fog.color.b = blue
+		Level.fog.depth = depth
+	else
+		-- Fog flicker effect to simulate lightning
+		mult = 1 + (fogtimer * (300 + Game.random(300)) / 6300)
+		Level.fog.color.r = blue * mult
+		Level.fog.color.g = ((blue * mult) - blue) * .7
+		Level.fog.color.b = blue * mult
+		Level.fog.depth = depth
+		if fogtimer == 30 then
+			-- Tag 7 activates/deactivates level lights 21-40 for lightning effect
+			Tags[7].active = true
+		end
+		if fogtimer == 7 then
+			-- Play thunder sound
+			pitch = (200 + Game.random(200)) / 300
+			for p in Players() do
+				p:play_sound("surface explosion", pitch)
+			end
+		end
+	end
+
+	if fogtimer == 0 then
+		-- Set next lightning interval (random from 7 to 21 seconds)
+		fogtimer = 210 + Game.random(420)
+		-- Deactivate lightning effect
+		Tags[7].active = false
+	end
+end
+
 Triggers = {}
 
 function Triggers.got_item(type, player)
@@ -107,4 +170,8 @@ end
 
 function Triggers.init(restoring)
 	Game.proper_item_accounting = true
+end
+
+function Triggers.idle()
+	levelfog()
 end
