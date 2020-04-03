@@ -1,7 +1,7 @@
 function mediafog()
 	for p in Players() do
-		if numberofswimmers == 0 and p.polygon.media and p.head_below_media == true then
-			numberofswimmers = numberofswimmers + 1
+		if numswimmers == 0 and p.polygon.media and p.head_below_media == true then
+			numswimmers = numswimmers + 1
 			if p.polygon.media.type == "water" then
 				Level.underwater_fog.color.r = .75
 				Level.underwater_fog.color.g = .875
@@ -23,7 +23,6 @@ function mediafog()
 				Level.underwater_fog.color.g = .25
 				Level.underwater_fog.color.b = 0
 			end
-			
 		end
 	end
 end
@@ -128,34 +127,26 @@ function Triggers.got_item(type, player)
 end
 
 function Triggers.player_damaged(victim, aggressor_player, aggressor_monster, damage_type, damage_amount, projectile)
-    if damage_type == "hulk slap" then
-      if victim.weapons.current.type == "smg" then
-        victim.life = victim.life + damage_amount
-      elseif victim.weapons.current.type == "shotgun" then
-        victim.life = victim.life + damage_amount
-      end
-    elseif damage_type == "claws" then
-      if victim.weapons.current.type == "smg" then
-        victim.life = victim.life + damage_amount
-      elseif victim.weapons.current.type == "shotgun" then
-        victim.life = victim.life + damage_amount
-      end
-    end
+	if projectile and (victim.weapons.current.type == "smg" or victim.weapons.current.type == "shotgun") then
+		if projectile.type == "shotgun bullet" or projectile.type == "smg bullet" then
+			victim.life = victim.life + damage_amount
+		end
+	end
 end
 
 function Triggers.init(restoring)
 	Game.proper_item_accounting = true
-	numberofswimmers = 0
+	numswimmers = 0
 end
 
 function Triggers.idle()
-	if numberofswimmers == 0 then
+	if numswimmers == 0 then
 		mediafog()
 	else
-		numberofswimmers = 0
+		numswimmers = 0
 		for p in Players() do
 			if p.head_below_media then
-				numberofswimmers = numberofswimmers + 1
+				numswimmers = numswimmers + 1
 			end
 		end
 	end
