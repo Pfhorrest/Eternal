@@ -2,10 +2,10 @@
 <scenery>
 
 <!-- Water: Short Light -->
-	<object index="14" flags="5" radius="170" height="-128" destruction="27"/>
+	<object index="14" flags="5" radius="170" height="-128" destruction="30"/>
 
 <!-- Water: Long Light -->
-	<object index="15" flags="5" radius="128" height="-128" destruction="28"/>
+	<object index="15" flags="5" radius="128" height="-128" destruction="30"/>
 
 <!-- Water: Security Monitor -->
 	<object index="24" flags="5" radius="128" height="1024" destruction="16">
@@ -19,21 +19,21 @@
 
 
 <!-- Lava: Hanging Light #1 -->
-	<object index="6" flags="5" radius="128" height="-128" destruction="27"/>
+	<object index="6" flags="5" radius="128" height="-128" destruction="30"/>
 
 <!-- Lava: Hanging Light #2 -->
-	<object index="7" flags="5" radius="128" height="-128" destruction="27"/>
+	<object index="7" flags="5" radius="128" height="-128" destruction="30"/>
 
 
 <!-- Sewage: Stubby Green Light -->
-	<object index="28" flags="5" radius="170" height="-128" destruction="27"/>
+	<object index="28" flags="5" radius="170" height="-128" destruction="30"/>
 
 <!-- Sewage: Long Green Light -->
-	<object index="29" flags="5" radius="170" height="-128" destruction="27"/>
+	<object index="29" flags="5" radius="170" height="-128" destruction="30"/>
 
 
 <!-- Jjaro: Short Ceiling Light -->
-	<object index="50" flags="5" radius="170" height="-128" destruction="27">
+	<object index="50" flags="5" radius="170" height="-128" destruction="30">
 		<normal>
 			<shape coll="25" clut="0" seq="5"/>
 		</normal>
@@ -53,13 +53,13 @@
 	</object>
 
 <!-- Pfhor: Green Light -->
-	<object index="39" flags="5" radius="170" height="-128" destruction="29"/>
+	<object index="39" flags="5" radius="170" height="-128" destruction="30"/>
 
 <!-- Pfhor: Small Alien Light -->
 	<object index="40" flags="5" radius="170" height="-128" destruction="30"/>
 
 <!-- Pfhor: Alien Ceiling Light -->
-	<object index="41" flags="5" radius="170" height="-128" destruction="29"/>
+	<object index="41" flags="5" radius="170" height="-128" destruction="30"/>
 
 </scenery>
 

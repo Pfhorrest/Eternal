@@ -1,7 +1,7 @@
 <marathon>
 
 	<!-- Scenario ID -->
-	<scenario id="Eternal X" name="Eternal X" version="1.2.1" />
+	<scenario id="Eternal X" name="Eternal X" version="1.2.1b2" />
 
 	<!-- Player Attributes -->
 	<player stripped="150" oxygen_replenish="1" light="0.50">
@@ -50,6 +50,28 @@
 		<aliens on="1"/>
 		<items on="1"/>
 		<projectiles on="1"/>
+
+		<!-- Teleporter -->
+		<color index="21" red="0" green="0.3" blue="0"/>
 	</overhead_map>
+
+	<!-- Dynamic Limits -->
+	<dynamic_limits>
+		<objects value="1024"/>
+		<monsters value="512"/>
+		<paths value="512"/>
+		<projectiles value="256"/>
+		<effects value="2048"/>
+		<rendered value="1024"/>
+		<local_collision value="1024"/>
+		<global_collision value="1024"/>
+	</dynamic_limits>
+
+	<!-- Disable Unused Platform Sounds -->
+	<platforms>
+		<platform index="0" moving="-1"/>
+		<platform index="1" moving="-1"/>
+		<platform index="2" moving="-1"/>
+	</platforms>
 
 </marathon>

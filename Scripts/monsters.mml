@@ -64,6 +64,11 @@
 		<assign coll="31" color="00"/>
 	</infravision>
 
+	<faders>
+		<!-- Juggernaut Explosion -->
+		<fader index="9" initial_opacity="0.777" final_opacity="0"/>
+	</faders>
+
 	<!-- Banshee transparency effect -->
 	<opengl>
 		<texture coll="16" bitmap="42" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
@@ -76,17 +81,5 @@
 		<texture coll="16" bitmap="49" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
 		<texture coll="16" bitmap="50" opac_type="3" opac_scale="-.3" opac_shift=".3"/>
    </opengl>
-
-	<!-- Monster Paths -->
-	<dynamic_limits>
-		<objects value="1024"/>
-		<monsters value="512"/>
-		<paths value="512"/>
-		<projectiles value="256"/>
-		<effects value="256"/>
-		<rendered value="1024"/>
-		<local_collision value="1024"/>
-		<global_collision value="1024"/>
-	</dynamic_limits>
 
 </marathon>
