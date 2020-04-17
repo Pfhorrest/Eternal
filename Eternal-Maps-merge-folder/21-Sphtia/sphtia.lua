@@ -143,3 +143,7 @@ function Triggers.init(restoring)
 		end
 	end
 end
+
+function Triggers.player_revived(p)
+	p.life = 450
+end

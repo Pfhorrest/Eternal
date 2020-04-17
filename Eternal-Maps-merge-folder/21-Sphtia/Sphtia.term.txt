@@ -72,7 +72,7 @@ $C1
 $C0
 Well, I can't find any clear data transfer records that would let me trace Hathor's arrival and movement in the network. The S'pht worldnet seems to function more like a giant neural net, retaining and discarding data in a very nonlinear, unstructured fashion.
 
-You should stay here inside the Citadel. I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible. Log in to as many terminals as you can find, so we can access further information.
+You should stay here inside the Citadel. I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible. Log into as many terminals as you can find, so we can access further information.
 
 $C1\\ Message ends //
 #LOGOFF 360
@@ -115,7 +115,7 @@ $C5                         apologies are due
    sent unto us now in our time of need
 
 
-      peacefull are the young S'pht'Kr
+      peaceful are the young S'pht'Kr
  mindful of our ways
     intending no harm to our elder brethren
 
@@ -135,11 +135,11 @@ $C5  weapons built for our defense
 though S'pht'Kr cannot bear to witness nor to partake of this carnage
        the S'pht'Mnr attack us at our very heart
            our villages are slaughtered     our Defenders overrun
-    and the last of our people entomed within their chambers
+    and the last of our people entombed within their chambers
 
   yet there is known a way to flee
                  a path of ascension awaits S'pht'Kr
-         prophecized long ago           by the father Yrro
+         prophecised long ago           by the father Yrro
 
      we have awaited only the arrival of his Messenger
 
@@ -203,13 +203,12 @@ $C1
 #LOGON 360
 #INFORMATION
 $C1
-// Decoding message from host
-"Leela" @ [no translation] \\
+// Decoding message from host "Leela" @ [no translation] \\
 
 $C0
-Keep looking, I already have access to this clan's network. I need you to access another clan's terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
+Keep looking; I already have access to this clan's network. I need you to access another clan's terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
 
-There seems to be a terminal I cannot yet access inside this compound, west of here and several metres up, try there.
+There seems to be a terminal I cannot yet access inside this compound, west of here and several metres up; try there.
 
 $C1\\ Message ends //
 #LOGOFF 360
@@ -297,7 +296,7 @@ $C1
 $C0
 I believe that Hathor came here to destroy the S'pht, or somehow help them destroy themselves, here in the distant past, so as to deprive mankind of their aid in the wars that are to come. As tempted as I'm sure you must be to go out and start killing $Isomething$i to fix the problem, we must be careful not to act rashly here lest we disturb this timeline even further.
 
-Keep logging into terminals, I need more information.
+Keep logging into terminals; I need more information.
 $C1
 \\ Message ends //
 #LOGOFF 360
@@ -315,7 +314,7 @@ $IAnomalous beings detected$i
 
 A most unusual biped just was seen crawling out of the lava ponds. It appeared to be bonded to cybernetics and thus sentient, but not like anything we have seen before. Nearby Mnr and Lhar both fired on it immediately, so it may be an ally of Kr.
 
-Moments later, an unusual presence was detected on our computer net, and just as soon vanished. Like the biped, what little we could ascertain bore no resemblance to any entity we know. We have forwarded this intelligence to S'bhuth, hopefully they will have some answers.
+Moments later, an unusual presence was detected on our computer net, and just as soon vanished. Like the biped, what little we could ascertain bore no resemblance to any entity we know. We have forwarded this intelligence to S'bhuth; hopefully they will have some answers.
 
 $C1\\ End translation //
 #LOGON 360
@@ -327,9 +326,9 @@ $C0
 
 That is not good news. It would appear that S'pht computer security is much more capable than I anticipated. We $Bmust$b be more careful to hide our presence here. On the other hand, their failure to recognise us suggests that particular clan has not had contact with Hathor.
 
-Now that I have enough access, I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate we will have arrived here earlier than her, and thus when she arrives here we should have the element of surprise.
+Now that I have enough access, I am going to initiate a planetwide search for Hathor to be positive that she has not yet arrived. If we are extremely fortunate, we will have arrived here earlier than her, and thus, when she arrives here, we should have the element of surprise.
 
-Please be patient, this may take a while.
+Please be patient; this may take a while.
 $C1
 \\ Message ends //
 #LOGOFF 360
