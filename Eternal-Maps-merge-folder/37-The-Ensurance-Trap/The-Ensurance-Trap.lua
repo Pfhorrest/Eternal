@@ -114,7 +114,7 @@ function idleprecipitation()
 					e:position(x, y, p.floor.height, p)
 				end
 				if e.polygon.media then
-					if e.z < e.polygon.media.height then
+					if e.z < e.polygon.media.height or e.polygon.media == 5 then
 						local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
 						e:position(x, y, p.ceiling.height, p)
 					end
@@ -142,14 +142,12 @@ end
 function Triggers.idle()
 	-- idleprecipitation()
 	for p in Players() do
-		if p.extravision_duration <= 1 then
-			p.extravision_duration = 2 -- we want players to have extravision throughout the course of this level, because it's a dream
-		end
+		-- unlike the other Inti Station levels, this one isn't a dream, so no extravision script
 		if p.polygon.media then
-			if p.oxygen <= 0 then -- we have to kill the player manually if they're in a vacuum and their oxygen is at or below 0
-				p:damage(p.life + 1, "suffocation")
+			if p.oxygen <= 0 then
+				p:damage(life + 1, "suffocation") -- game doesn't actually kill players automatically when we've completely drained their oxygen, so we have to do it ourselves
 			end
-			local oxydrain = 0 -- sets the amount of oxygen to drain from player this cycle; default to 0
+			local oxydrain = 0
 			if p.polygon.media.type == "jjaro" and p.polygon.media ~= 5 then
 				oxydrain = 4
 			elseif p.polygon.media.type == "sewage" and Polygons[958].ceiling.height > -0.2 then

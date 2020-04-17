@@ -1,3 +1,129 @@
+CollectionsUsed = { 25 }
+
+precipitation_type = "lava lamp breaking"
+precipitation_count = 512
+precipitation_phase = 1
+precipitation_gravity = .03
+precipitation_wind = .01
+
+scenery_cleared = false
+
+function build_pool()
+	Level._pool = {}
+	
+	local count = 0
+	for i = 1, precipitation_count do
+		 local x, y, z, p = uniform.xyz_in_triangle_list(Level._triangles)
+		 e = Effects.new(x, y, z, p, precipitation_type)
+		 if e then
+			  count = count + 1
+			  table.insert(Level._pool, e)
+		 end
+	end
+	precipitation_count = count
+end
+
+function restore_pool()
+	Level._pool = {}
+	local count = 0
+	for e in Effects() do
+		if e.type == precipitation_type then
+			count = count + 1
+			table.insert(Level._pool, e)
+		end
+	end
+	precipitation_count = count
+end
+
+function delete_pool()
+	Level._pool = {}
+	for e in Effects() do
+		if e.type == precipitation_type then
+			e:delete()
+		end
+	end
+end
+
+function precipitation_exists()
+	for e in Effects() do
+		if e.type == precipitation_type then
+			return true
+		end
+	end
+
+	return false
+end
+
+function precipitation_is_on()
+	if not precipitation_checked then
+		for a in Annotations() do
+			if a.text == "ETERNAL_PRECIPITATION_ON" then
+				a.polygon = nil
+				a.text = ""
+				precipitation_on = true
+			end
+		end
+		precipitation_checked = true
+	end
+
+	return precipitation_on
+end
+
+function initprecipitation()
+	local polygon_list = {}
+	for p in Polygons() do
+		if p.ceiling.transfer_mode == "landscape" then
+			table.insert(polygon_list, p)
+		end
+	end
+	Level._triangles = uniform.build_triangle_list(polygon_list)
+	if #polygon_list == 0 then
+		precipitation_count = 0
+	end
+
+	if precipitation_is_on() and not precipitation_exists() then
+		build_pool()
+	elseif precipitation_is_on() then
+		restore_pool()
+	else
+		delete_pool()
+	end
+end
+
+function idleprecipitation()
+	if not precipitation_checked then
+		initprecipitation()
+	end
+
+	if precipitation_is_on() then
+		local pool = Level._pool
+		local position = pool[1].position
+		local phase = precipitation_phase
+		local gravity = phase * precipitation_gravity
+		local wind = phase * precipitation_wind
+		local phase_match = Game.ticks % phase
+		for i = 1,precipitation_count do
+			if i % phase == phase_match then
+				local e = pool[i]
+				position(e, e.x - wind, e.y - wind, e.z - gravity, e.polygon)
+				if e.z < e.polygon.floor.height then
+					local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
+					e:position(x, y, p.ceiling.height, p)
+				elseif e.z > e.polygon.ceiling.height then
+					local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
+					e:position(x, y, p.floor.height, p)
+				end
+				if e.polygon.media then
+					if e.z < e.polygon.media.height or (e.polygon.media.type == "jjaro" and e.polygon.media == 5) then
+						local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
+						e:position(x, y, p.ceiling.height, p)
+					end
+				end
+			end
+		end
+	end
+end
+
 Triggers = {}
 
 function oxygensounds(p)
@@ -14,16 +140,17 @@ function oxygensounds(p)
 end
 
 function Triggers.idle()
+	-- idleprecipitation()
 	for p in Players() do
-		-- if p.infravision_duration <= 1 then
-			-- p.infravision_duration = 2 -- we want players to have infravision throughout the course of this level, because it's a dream
-		-- end
+		if p.extravision_duration <= 1 then
+			p.extravision_duration = 2 -- we want players to have extravision throughout the course of this level, because it's a dream
+		end
 		if p.polygon.media then
 			if p.oxygen <= 0 then -- we have to kill the player manually if they're in a vacuum and their oxygen is at or below 0
 				p:damage(p.life + 1, "suffocation")
 			end
 			local oxydrain = 0 -- sets the amount of oxygen to drain from player this cycle; default to 0
-			if p.polygon.media.type == "jjaro" then
+			if p.polygon.media.type == "jjaro" and p.polygon.media ~= 5 then
 				oxydrain = 4
 			elseif p.polygon.media.type == "sewage" and Polygons[958].ceiling.height > -0.2 then
 				oxydrain = 3
@@ -77,7 +204,7 @@ function Triggers.idle()
 			if m.polygon.media and m.type.impact_effect ~= "civilian fusion blood splash" and m.action ~= "dying hard" and m.action ~= "dying soft" and m.action ~= "dying flaming" and m.action ~= "being hit" then
 				if m.type.class == "yeti" or m.type.class == "bob" or m.type.class == "fighter" or m.type.class == "enforcer" then
 					m._canbreathe = true
-					if m.polygon.media.type == "jjaro" then
+					if m.polygon.media.type == "jjaro" and m.polygon.media ~= 5 then
 						m._canbreathe = false
 					elseif Polygons[565].ceiling.height > 1.7 or Polygons[636].ceiling.height > 1.7 then
 						if m.polygon.media.type == "water" then

@@ -114,7 +114,7 @@ function idleprecipitation()
 					e:position(x, y, p.floor.height, p)
 				end
 				if e.polygon.media then
-					if e.z < e.polygon.media.height then
+					if e.z < e.polygon.media.height or e.polygon.media == 5 then
 						local x, y, p = uniform.xy_in_triangle_list(Level._triangles)
 						e:position(x, y, p.ceiling.height, p)
 					end
@@ -149,7 +149,7 @@ function Triggers.idle()
 			if p.oxygen <= 0 then -- we have to kill the player manually if they're in a vacuum and their oxygen is at or below 0
 				p:damage(p.life + 1, "suffocation")
 			end
-			local oxydrain = 0 -- sets the amount of oxygen to drain from player this cycle; default to 0
+			local oxydrain = 0
 			if p.polygon.media.type == "jjaro" and p.polygon.media ~= 5 then
 				oxydrain = 4
 			elseif p.polygon.media.type == "sewage" and Polygons[958].ceiling.height > -0.2 then
@@ -199,54 +199,41 @@ function Triggers.idle()
 			end
 		end
 	end
-	if Game.ticks % 7 == 0 then
-		for m in Monsters() do
-			if m.polygon.media and m.type.impact_effect ~= "civilian fusion blood splash" and m.action ~= "dying hard" and m.action ~= "dying soft" and m.action ~= "dying flaming" and m.action ~= "being hit" then
-				if m.type.class == "yeti" or m.type.class == "bob" or m.type.class == "fighter" or m.type.class == "enforcer" then
-					m._canbreathe = true
-					if m.polygon.media.type == "jjaro" and m.polygon.media ~= 5 then
-						m._canbreathe = false
-					elseif Polygons[565].ceiling.height > 1.7 or Polygons[636].ceiling.height > 1.7 then
-						if m.polygon.media.type == "water" then
-							m._canbreathe = false
-						elseif Polygons[657].ceiling.height > 0.6 then
-							if m.polygon.media.type == "lava" then
-								m._canbreathe = false
-							elseif m.polygon.media.type == "goo" and Polygons[671].ceiling.height > 1.6 then
-									m._canbreathe = false
-							end
-						elseif Polygons[515].ceiling.height > 1 and m.polygon.media.type == "goo" then
-							m._canbreathe = false
-						end
-					elseif Polygons[958].ceiling.height > -0.2 then
-						if m.polygon.media.type == "sewage" then
-							m._canbreathe = false
-						elseif Polygons[957].ceiling.height > 0.05 then
-							if m.polygon.media.type == "water" then
-								m._canbreathe = false
-							elseif Polygons[657].ceiling.height > 0.6 then
-								if m.polygon.media.type == "lava" then
-									m._canbreathe = false
-								elseif m.polygon.media.type == "goo" and Polygons[671].ceiling.height > 1.6 then
-									m._canbreathe = false
-								end
-							elseif Polygons[515].ceiling.height > 1 and m.polygon.media.type == "goo" then
-								m._canbreathe = false
-							end
-						end
-					end
-					if m._canbreathe == false then
-						m._canbreathe = true
-						if not m.active then
-							m:move_by_path(337)
-						elseif m.type.class == "yeti" and Game.ticks % 2 == 0 then
-							m:damage(4, "crushing")
-						elseif Game.ticks % 4 == 0 then
-							m:damage(1, "crushing")
-						elseif m.action ~= "attacking close" and m.action ~= "attacking far" and m.life > 0 then
-							m:move_by_path(337)
-						end
-					end
+	for m in Monsters() do
+		if m.polygon.media and not m.type.impact_effect == "civilian fusion blood splash" then
+			if m.type.class == "yeti" or m.type.class == "bob" or m.type.class == "fighter" or m.type.class == "enforcer" then
+				if m.polygon.media.type == "jjaro" and m.polygon.media ~= 5 then
+					m:damage(4, "crushing")
+				elseif m.polygon.media.type == "sewage" and Polygons[958].ceiling.height > -0.2 then
+					m:damage(3, "crushing")
+				elseif m.polygon.media.type == "sewage" and Polygons[957].ceiling.height > 0.05 and Polygons[565].ceiling.height > 1.7 then 
+					m:damage(2, "crushing")
+				elseif m.polygon.media.type == "sewage" and Polygons[957].ceiling.height > 0.05 and Polygons[636].ceiling.height > 1.7 then 
+					m:damage(2, "crushing")
+				elseif m.polygon.media.type == "water" and Polygons[565].ceiling.height > 1.7 then 
+					m:damage(3, "crushing")
+				elseif m.polygon.media.type == "water" and Polygons[636].ceiling.height > 1.7 then 
+					m:damage(3, "crushing")
+				elseif m.polygon.media.type == "water" and Polygons[958].ceiling.height > -0.2 and Polygons[957].ceiling.height > 0.05 then
+					m:damage(2, "crushing")
+				elseif m.polygon.media.type == "lava" and Polygons[565].ceiling.height > 1.7 and Polygons[657].ceiling.height > 0.6 then 
+					m:damage(2, "crushing")
+				elseif m.polygon.media.type == "lava" and Polygons[636].ceiling.height > 1.7 and Polygons[657].ceiling.height > 0.6 then 
+					m:damage(2, "crushing")
+				elseif m.polygon.media.type == "lava" and Polygons[958].ceiling.height > -0.2 and Polygons[957].ceiling.height > 0.05 and Polygons[657].ceiling.height > 0.6 then
+					m:damage(2, "crushing")
+				elseif m.polygon.media.type == "goo" and Polygons[958].ceiling.height > -0.2 and Polygons[957].ceiling.height > 0.05 and Polygons[657].ceiling.height > 0.6 and Polygons[671].ceiling.height > 1.6 then
+					m:damage(1, "crushing")
+				elseif m.polygon.media.type == "goo" and Polygons[565].ceiling.height > 1.7 and Polygons[657].ceiling.height > 0.6 and Polygons[671].ceiling.height > 1.6 then 
+					m:damage(1, "crushing")
+				elseif m.polygon.media.type == "goo" and Polygons[636].ceiling.height > 1.7 and Polygons[657].ceiling.height > 0.6 and Polygons[671].ceiling.height > 1.6 then 
+					m:damage(1, "crushing")
+				elseif m.polygon.media.type == "goo" and Polygons[565].ceiling.height > 1.7 and Polygons[515].ceiling.height > 1 then 
+					m:damage(1, "crushing")
+				elseif m.polygon.media.type == "goo" and Polygons[636].ceiling.height > 1.7 and Polygons[515].ceiling.height > 1 then 
+					m:damage(1, "crushing")
+				elseif m.polygon.media.type == "goo" and Polygons[958].ceiling.height > -0.2 and Polygons[957].ceiling.height > 0.05 and Polygons[515].ceiling.height > 1 then
+					m:damage(1, "crushing")
 				end
 			end
 		end
