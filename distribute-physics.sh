@@ -39,7 +39,7 @@ cp -v $scriptdir/Physics-model-templates/34-to-39.phyA $scriptdir/Eternal-Maps-m
 cp -v $scriptdir/Physics-model-templates/34-to-39.phyA $scriptdir/Eternal-Maps-merge-folder/35-Bug-Eyed-In-Space/Bug-Eyed-In-Space.phyA
 cp -v $scriptdir/Physics-model-templates/36.phyA $scriptdir/Eternal-Maps-merge-folder/36-Run-Coward/Run-Coward.phyA 
 cp -v $scriptdir/Physics-model-templates/34-to-39.phyA $scriptdir/Eternal-Maps-merge-folder/37-The-Ensurance-Trap/The-Ensurance-Trap.phyA
-cp -v $scriptdir/Physics-model-templates/34-to-39.phyA $scriptdir/Eternal-Maps-merge-folder/38-Once-More-Unto-The-Breach..$scriptdir/Once-More-Unto-The-Breach....phyA 
+cp -v $scriptdir/Physics-model-templates/34-to-39.phyA $scriptdir/Eternal-Maps-merge-folder/38-Once-More-Unto-The-Breach..$scriptdir/Once-More-Unto-The-Breach.phyA 
 cp -v $scriptdir/Physics-model-templates/34-to-39.phyA $scriptdir/Eternal-Maps-merge-folder/39-Genie-In-A-Bottle/Genie-In-A-Bottle.phyA 
 cp -v $scriptdir/Physics-model-templates/00-to-51.phyA $scriptdir/Eternal-Maps-merge-folder/40-Floating-In-The-Void/Floating-In-The-Void.phyA 
 cp -v $scriptdir/Physics-model-templates/00-to-51.phyA $scriptdir/Eternal-Maps-merge-folder/41-Echoes-of-Eden/Echoes-of-Eden.phyA 
