@@ -1,0 +1,7 @@
+<marathon>
+	<!-- puts in "rain & wind" sounds -->
+	<sounds>
+		<ambient index="5" sound="216"/>
+		<ambient index="22" sound="215"/>
+	</sounds>
+</marathon>

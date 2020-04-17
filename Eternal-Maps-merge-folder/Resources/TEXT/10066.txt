@@ -1,0 +1,22 @@
+<marathon>
+	<dynamic_limits>
+		<objects value="2048"/>
+		<effects value="2048"/>
+		<rendered value="2048"/>
+	</dynamic_limits>
+
+	<liquids>
+		<liquid index="0" coll="20" frame="9" transfer="3"/>
+                <liquid index="1" coll="20" frame="9" transfer="3"/>
+                <liquid index="2" coll="20" frame="9" transfer="3"/>
+                <liquid index="3" coll="20" frame="9" transfer="3"/>
+	</liquids>
+
+	<opengl>
+		<texture coll="20" bitmap="9" normal_image="Eternal-Data/Shapes/clear.png"/>
+	</opengl>
+
+	<player>
+	        <damage index="19" fade="30"/>
+	</player>
+</marathon>

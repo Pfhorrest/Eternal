@@ -1,0 +1,12 @@
+<marathon>
+
+	<!-- assign media for pfhor collection -->
+
+	<liquids>
+		<liquid index="0" coll="21" frame="130" /> <!-- water -->
+		<liquid index="1" coll="21" frame="131" /> <!-- lava -->
+		<liquid index="3" coll="21" frame="132" /> <!-- jjaro -->
+		<liquid index="4" coll="21" frame="133" /> <!-- human -->
+	</liquids>
+
+</marathon>

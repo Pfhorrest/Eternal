@@ -1,0 +1,12 @@
+<marathon>
+
+	<!-- assign media for Jjaro collection (Sewage in SF/Weland) -->
+
+	<liquids>
+		<liquid index="0" coll="19" frame="130" /> <!-- water -->
+		<liquid index="1" coll="19" frame="131" /> <!-- lava -->
+		<liquid index="4" coll="19" frame="132" /> <!-- human -->
+		<liquid index="2" coll="19" frame="133" /> <!-- pfhor -->
+	</liquids>
+
+</marathon>

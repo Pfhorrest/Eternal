@@ -1,0 +1,129 @@
+<marathon>
+	<!-- puts in Marathon 1 sounds -->
+	<sounds
+		teleport_in="243"
+		teleport_out="244"
+		>
+	</sounds>
+
+	<control_panels>
+		<!-- light switches -->
+		<panel index="4">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+
+		<panel index="13">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+
+		<panel index="24">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+
+		<panel index="46">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+
+		<!-- platform switches -->
+		<panel index="5">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+
+		<panel index="14">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+
+		<panel index="25">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+
+		<panel index="47">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+
+		<!-- tag switches -->
+		<panel index="6">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+
+		<panel index="15">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+
+		<panel index="26">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+
+		<panel index="48">
+			<sound type="0" which="246"/>
+			<sound type="1" which="247"/>
+			<sound type="2" which="245"/>
+		</panel>
+	</control_panels>
+
+	<platforms>
+		<!-- s'pht doors -->
+		<platform index="0"
+			start_extend="248"
+			start_contract="249"
+			obstructed="250"
+			uncontrollable="250"
+			moving="-1"
+		/>
+
+		<platform index="1"
+			start_extend="248"
+			start_contract="249"
+			obstructed="250"
+			uncontrollable="250"
+			moving="-1"
+		/>
+
+		<platform index="2"
+			start_extend="248"
+			start_contract="249"
+			obstructed="250"
+			uncontrollable="250"
+			moving="-1"
+		/>
+
+		<!-- s'pht platform -->
+		<platform index="4"
+			start_extend="251"
+			start_contract="251"
+			stop_extend="252"
+			stop_contract="252"
+		/>
+
+		<!-- pfhor door -->
+		<platform index="6"
+			start_extend="254"
+			start_contract="253"
+			obstructed="255"
+			uncontrollable="255"
+			moving="-1"
+		/>
+	</platforms>
+</marathon>

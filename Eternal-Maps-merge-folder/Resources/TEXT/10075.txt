@@ -1,0 +1,6 @@
+<marathon>
+	<!-- puts Rubicon's Alien Harmonics sound into the Alarm slot -->
+	<sounds>
+		<ambient index="21" sound="224"/>
+	</sounds>
+</marathon>

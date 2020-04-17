@@ -1,0 +1,160 @@
+<marathon>
+	<!-- puts in Rubicon sounds -->
+	<sounds
+		teleport_in="236"
+		teleport_out="237"
+		>
+		<ambient index="25" sound="221"/> <!-- pfhor ships -->
+		<ambient index="26" sound="222"/>
+		<ambient index="15" sound="225"/> <!-- transformer -->
+		<ambient index="20" sound="226"/> <!-- electric hum -->
+		<ambient index="10" sound="228"/> <!-- s'pht platform -->
+		<ambient index="12" sound="231"/> <!-- heavy platform -->
+		<ambient index="24" sound="234"/> <!-- pfhor platform -->
+	</sounds>
+
+	<control_panels>
+		<!-- pattern buffer -->
+		<panel index="7">
+			<sound type="0" which="242"/>
+		</panel>
+
+		<panel index="16">
+			<sound type="0" which="242"/>
+		</panel>
+
+		<panel index="27">
+			<sound type="0" which="242"/>
+		</panel>
+
+		<panel index="38">
+			<sound type="0" which="242"/>
+		</panel>
+
+		<panel index="49">
+			<sound type="0" which="242"/>
+		</panel>
+
+		<!-- chip insertion -->
+		<panel index="3">
+			<sound type="0" which="241"/>
+		</panel>
+
+		<panel index="19">
+			<sound type="0" which="241"/>
+		</panel>
+
+		<panel index="30">
+			<sound type="0" which="241"/>
+		</panel>
+
+		<panel index="41">
+			<sound type="0" which="241"/>
+		</panel>
+
+		<panel index="52">
+			<sound type="0" which="241"/>
+		</panel>
+
+		<!-- light switches -->
+		<panel index="4">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+
+		<panel index="13">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+
+		<panel index="24">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+
+		<panel index="46">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+
+		<!-- platform switches -->
+		<panel index="5">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+
+		<panel index="14">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+
+		<panel index="25">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+
+		<panel index="47">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+
+		<!-- tag switches -->
+		<panel index="6">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+
+		<panel index="15">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+
+		<panel index="26">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+
+		<panel index="48">
+			<sound type="0" which="239"/>
+			<sound type="1" which="240"/>
+			<sound type="2" which="238"/>
+		</panel>
+	</control_panels>
+
+	<platforms>
+		<!-- s'pht platform -->
+		<platform index="4"
+			start_extend="227"
+			start_contract="227"
+			stop_extend="229"
+			stop_contract="229"
+		/>
+
+		<!-- heavy s'pht platform -->
+		<platform index="7"
+			start_extend="230"
+			start_contract="230"
+			stop_extend="232"
+			stop_contract="232"
+		/>
+
+		<!-- pfhor platform -->
+		<platform index="8"
+			start_extend="233"
+			start_contract="233"
+			stop_extend="235"
+			stop_contract="235"
+		/>
+	</platforms>
+</marathon>

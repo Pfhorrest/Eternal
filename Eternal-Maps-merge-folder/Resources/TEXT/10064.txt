@@ -1,0 +1,20 @@
+<marathon>
+
+	<!-- assign media and faders for human collection (Jjaro in SF/Weland) -->
+
+	<player>
+		<damage index="18" fade="17"/>
+	</player>
+
+	<faders>
+		<liquid index="1" fader="17" opacity=".8"/>
+	</faders>
+
+	<liquids>
+		<liquid index="0" coll="20" frame="130" /> <!-- water -->
+		<liquid index="1" coll="20" frame="131" /> <!-- lava -->
+		<liquid index="3" coll="20" frame="132" /> <!-- jjaro -->
+		<liquid index="2" coll="20" frame="133" /> <!-- pfhor -->
+	</liquids>
+
+</marathon>

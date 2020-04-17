@@ -1,0 +1,6 @@
+<marathon>
+	<!-- puts in Rubicon's Alien Harmonics sound (separate because it is LOUD) -->
+	<sounds>
+		<ambient index="27" sound="224"/>
+	</sounds>
+</marathon>

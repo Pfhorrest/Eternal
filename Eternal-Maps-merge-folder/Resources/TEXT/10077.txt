@@ -1,0 +1,7 @@
+<marathon>
+	<!-- normal teleport sounds -->
+	<sounds
+		teleport_in="1"
+		teleport_out="2"
+		/>
+</marathon>
