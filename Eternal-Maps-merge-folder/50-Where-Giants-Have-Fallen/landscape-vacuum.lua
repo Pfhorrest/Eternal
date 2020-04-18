@@ -1,14 +1,32 @@
 Triggers = {}
 
+function oxygensounds(p)
+	-- plays breathing and oxygen warning sounds when oxygen is deplenishing to mimic normal game behaviour
+	if p.oxygen > 900 then
+		if p.oxygen % 900 == 899 then
+			p:play_sound("breathing", 1)
+		end
+	else
+		if p.oxygen % 450 == 449 then
+			p:play_sound("oxygen warning", 1) 
+		end
+	end
+end
+
 function Triggers.idle()
-  for p in Players() do
-    if p.polygon.floor.transfer_mode == "landscape" then
-      p.oxygen = p.oxygen - 3
-      if p.oxygen <= 0 then
-        p:damage(350, "suffocation")
-      end
-    end
-  end
+	for p in Players() do
+		if p.polygon.floor.transfer_mode == "landscape" then
+			p.oxygen = p.oxygen - 2 -- Eternal normally restores 1 oxygen per game tick, so we need to take 2 to counteract that
+			oxygensounds(p)
+			if (Game.difficulty == "major damage" or Game.difficulty == "total carnage") and (p.action_flags.left_trigger or p.action_flags.right_trigger) then
+				p.oxygen = p.oxygen - 1 -- game drains oxygen faster on TC and MD if player is firing weapon
+				oxygensounds(p)
+			end
+			if p.oxygen <= 0 then
+				p:damage(life + 1, "suffocation") -- game doesn't actually kill players automatically when we've completely drained their oxygen, so we have to do it ourselves
+			end
+		end
+	end
 end
 
 function Triggers.got_item(type, player)
@@ -109,19 +127,11 @@ function Triggers.got_item(type, player)
 end
 
 function Triggers.player_damaged(victim, aggressor_player, aggressor_monster, damage_type, damage_amount, projectile)
-    if damage_type == "hulk slap" then
-      if victim.weapons.current.type == "smg" then
-        victim.life = victim.life + damage_amount
-      elseif victim.weapons.current.type == "shotgun" then
-        victim.life = victim.life + damage_amount
-      end
-    elseif damage_type == "claws" then
-      if victim.weapons.current.type == "smg" then
-        victim.life = victim.life + damage_amount
-      elseif victim.weapons.current.type == "shotgun" then
-        victim.life = victim.life + damage_amount
-      end
-    end
+	if projectile and (victim.weapons.current.type == "smg" or victim.weapons.current.type == "shotgun") then
+		if projectile.type == "shotgun bullet" or projectile.type == "smg bullet" then
+			victim.life = victim.life + damage_amount
+		end
+	end
 end
 
 function Triggers.init(restoring)
