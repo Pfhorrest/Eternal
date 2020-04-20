@@ -1,0 +1,7 @@
+<plugin
+name="Eternal Precipitation"
+version="" 
+description="Precipitation effects for Eternal"
+solo_lua="precipitation.lua"
+/>
+
