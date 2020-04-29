@@ -27,10 +27,9 @@ $C1\\ End translation //
 #LOGON 450
 #PICT 1481
 $C1
-// Decoding message from host
-[unnamed] @ [no translation] \\$C4
+// Decoding message from host [unnamed] @ [no translation] \\$C4
 
-These alien intruders are clearly hostile, and as expected they are no match for the [?enemy]. You must destoy their ship before it can be captured.
+These alien intruders are clearly hostile, and as expected, they are no match for the [?enemy]. You must destroy their ship before it can be captured.
 
 My sensors indicate a power core on the lower portions of this deck. If you can damage it sufficiently, the resulting coolant overflow and subsequent explosion should be sufficient to destroy this vessel.
 
