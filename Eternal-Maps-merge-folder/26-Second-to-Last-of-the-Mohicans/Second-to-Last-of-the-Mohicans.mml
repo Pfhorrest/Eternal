@@ -1,23 +1,34 @@
 <marathon>
 
-<!-- conveyor belt-->
+	<!-- rain limits and skull sequence-->
+	<dynamic_limits>
+		<objects value="2048"/>
+		<effects value="2048"/>
+		<rendered value="2048"/>
+	</dynamic_limits>
 
+	<!-- conveyor belt and various sounds -->
 	<liquids>
-		<liquid index="0" coll="18" frame="58" transfer="3">
-			<effect type="0" which="54"/>
-			<effect type="1" which="54"/>
-			<effect type="2" which="54"/>
-			<effect type="3" which="41"/>
-			<sound type="0" which="94"/>
-			<sound type="1" which="94"/>
-			<sound type="4" which="94"/>
-			<sound type="5" which="22"/>
+		<liquid index="0" coll="18" frame="134" transfer="3">
+			<effect type="0" which="-1"/>
+			<effect type="1" which="-1"/>
+			<effect type="2" which="-1"/>
+			<effect type="3" which="-1"/>
+			<sound type="0" which="-1"/>
+			<sound type="1" which="-1"/>
+			<sound type="2" which="-1"/>
+			<sound type="3" which="-1"/>
+			<sound type="4" which="-1"/>
+			<sound type="5" which="-1"/>
 		</liquid>
-		<liquid index="2" coll="18" frame="9">
-			<sound type="5" which="22"/>
+
+		<liquid index="2" coll="18" frame="134">
+			<sound type="5" which="-1"/>
 		</liquid>
 	</liquids>
-	<opengl>
-		<texture coll="18" bitmap="58" normal_image="Eternal-Data/Shapes/clear.png"/>
-	</opengl>
+
+	<!-- replace loon with chimes -->
+	<sounds>
+		<random index="3" sound="217" />
+	</sounds>
 </marathon>
