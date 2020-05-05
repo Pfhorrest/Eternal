@@ -1,7 +1,7 @@
 <marathon>
 
 	<!-- Scenario ID -->
-	<scenario id="Eternal X" name="Eternal X" version="1.2.1b2" />
+	<scenario id="Eternal X" name="Eternal X" version="1.2.1" />
 
 	<!-- Player Attributes -->
 	<player stripped="150" oxygen_replenish="1" light="0.50">
