@@ -26,7 +26,7 @@ cp -v $scriptdir/Physics-model-templates/21-to-23.phyA $scriptdir/Eternal-Maps-m
 cp -v $scriptdir/Physics-model-templates/21-to-23.phyA $scriptdir/Eternal-Maps-merge-folder/22-Let-Sleeping-Gods-Die/Let-Sleeping-Gods-Die.phyA 
 cp -v $scriptdir/Physics-model-templates/21-to-23.phyA $scriptdir/Eternal-Maps-merge-folder/23-She-Is-The-Dark-One/She-Is-The-Dark-One.phyA 
 cp -v $scriptdir/Physics-model-templates/24-to-26.phyA $scriptdir/Eternal-Maps-merge-folder/24-Spht-Happens/Spht-Happens.phyA 
-cp -v $scriptdir/Physics-model-templates/24-to-26.phyA $scriptdir/Eternal-Maps-merge-folder/25-Eat-Spht-and-Die/25-Eat-Spht-and-Die.phyA 
+cp -v $scriptdir/Physics-model-templates/24-to-26.phyA $scriptdir/Eternal-Maps-merge-folder/25-Eat-Spht-and-Die/Eat-Spht-and-Die.phyA 
 cp -v $scriptdir/Physics-model-templates/24-to-26.phyA $scriptdir/Eternal-Maps-merge-folder/26-Second-to-Last-of-the-Mohicans/Second-to-Last-of-the-Mohicans.phyA 
 cp -v $scriptdir/Physics-model-templates/27-to-29.phyA $scriptdir/Eternal-Maps-merge-folder/27-The-Manipulated-Dead/The-Manipulated-Dead.phyA 
 cp -v $scriptdir/Physics-model-templates/27-to-29.phyA $scriptdir/Eternal-Maps-merge-folder/28-Third-Rock-from-Lhowon/Third-Rock-from-Lhowon.phyA 
