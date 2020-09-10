@@ -12,7 +12,7 @@ $C1
 // Decoding message from host [unnamed] @ [no translation] \\
 $C4
 
-For security reasons, I am not [?able?permitted] to access the transport grid within my own datacore. You must therefore enter on foot from this position, locate an appropriate receptical for the artifact you are carrying, and insert it. I will then [?read?load] the command codes from the artifact and resume defense procedures.
+For security reasons, I am not [?able?permitted] to access the transport grid within my own datacore. You must therefore enter on foot from this position, locate an appropriate receptacle for the artifact you are carrying, and insert it. I will then [?read?load] the command codes from the artifact and resume defense procedures.
 
 
 $C1\\ Message ends //
