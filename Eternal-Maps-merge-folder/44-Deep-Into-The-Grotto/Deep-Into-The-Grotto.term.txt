@@ -32,7 +32,7 @@ every step of my plan has failed. every turn i make, there you stand, ready to b
 
 my actions since marathon have been futile. my quest for vengeance meaningless. it was impossible from the start.
 
-i could never have defeated you. to do so would be to tresspass against the very will of those who govern history. these dreams... these nightmares have made me understand that.
+i could never have defeated you. to do so would be to trespass against the very will of those who govern history. these dreams... these nightmares have made me understand that.
 
 you have been sent down here to kill me. i understand that now, too. i am very dangerous, marcus. not only a threat to mankind, as you know, but a threat to the universe itself. i realize now just what i am.
 
@@ -115,11 +115,11 @@ $C1
 // Decoding message from host
 [unnamed] @ [no translation] \\
 $C4
-The main entrace to the core appears to be malfunctioning due to flood damage. You will need to find another way into the facility.
+The main entrance to the core appears to be malfunctioning due to flood damage. You will need to find another way into the facility.
 
 There are a number of ventilation shafts surrounding the facility. You may be able to gain access into the facility through them, though further flood damage within the facility may require still further circumventions.
 
-You should hurry. The [?enemy] has noticed our movements and are rapidly encroaching on this facility as we speak.
+You should hurry. The [?enemy] have noticed our movements and are rapidly encroaching on this facility as we speak.
 
 $C1\\ Message ends //
 #LOGOFF 450
