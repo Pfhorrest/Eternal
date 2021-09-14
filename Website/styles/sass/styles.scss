@@ -1,0 +1,419 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@font-face {
+	font-family: "Bank Gothic";
+	src: url(/fonts/BankGothicLightRegular.otf);
+}
+@font-face {
+	font-family: "Modula Tall";
+	src: url(/fonts/ModulaTall.ttf);
+}
+@font-face {
+	font-family: "Monaco";
+	src: url(/fonts/Monaco.woff);
+}
+
+$wa: 80rem;
+$wd: 23rem;
+$wt: $wa + $wd + 2rem;
+
+section, header, footer, main, article {display:block;}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: black;
+	color: #CCC;
+	font: {
+		family: Courier, "Courier New", monospace;
+		size: 1pc;
+	}
+	text-align: center;
+	line-height: 1.25;
+}
+
+a {
+	color: #0F0;
+
+	&:hover {
+		color: #FFC;
+	}
+}
+
+.toggleArrow {
+	opacity: 0.25;
+	transition: transform 0.5s;
+
+	&.left {
+		float:left;
+
+		&.collapsed {
+			transform: rotate(-90deg);
+		}
+	}
+	&.right {
+		float:right;
+
+		&.collapsed {
+			transform: rotate(90deg);
+		}
+	}
+}
+
+header {
+	margin: 1em 0;
+	padding: 0;
+	border-top: 2pt ridge #777;
+	border-bottom: 2pt ridge #777;
+	text-align: center;
+
+	h1 {
+		background: url("/images/header.jpg") center center no-repeat;
+		background-size: contain;
+		width: 640px;
+		height: 134px;
+		max-width: 100%;
+		max-height: calc(20.9375vw - 2pt);
+		margin:0 auto;
+
+		span, #marathon, #at-bungie-org {display:none;}
+	}
+}
+
+#main-nav {
+	position: sticky;
+	top: 0;
+	z-index: 1;
+	width: $wt;
+	max-width: calc(100% - 1.5rem);
+	margin: 1rem auto;
+	padding: 0;
+	border-radius: 1em;
+	background: #666 linear-gradient(to bottom, #CCC, #333);
+	color: #0F0;
+	font-size: 1.25em;
+	text-align: center;
+	box-shadow: 2pt 4pt 2pt rgba(255,255,255,0.25) inset, -2pt -4pt 2pt rgba(0,0,0,0.25) inset, 2pt 4pt 2pt rgba(0,0,0,0.25);
+
+	@media (min-width: 40rem) {
+		border-radius: 1.5em;
+	}
+
+	#hamburger {
+		clear: both;
+		position: relative;
+		z-index: 1;
+		margin: 0;
+		padding: 0;
+		border: 0;
+		text-align: center;
+		line-height: 2;
+
+		@media (min-width: 40rem) {
+			display: none;
+		}
+
+		a {
+			display: block;
+			width: 100%;
+			margin: 0;
+			padding: 1em 0;
+			text-decoration: none;
+			line-height: 1;
+			cursor: pointer;
+		}
+
+		svg {
+			fill: black;
+			vertical-align: middle;
+		}
+	}
+	#fries {
+		display: none;
+		border-top: 2pt inset #888;
+		border-radius: 1em;
+		background: radial-gradient(farthest-corner, transparentize(white, 0.75), transparentize(black, 0.75));
+
+		@media (min-width: 40rem) {
+			display: block;
+			border: none;
+			background: none;
+		}
+	}
+	ul {
+		margin: 0;
+		padding: 0.25em;
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-between;
+
+		& > * {
+			flex: 1 0 12em;
+		}
+
+		li {
+			display: inline-block;
+			margin: 0.25em;
+			padding: 0;
+			list-style-type: none;
+
+			a {
+				display: block;
+				margin: 0;
+				padding: 0.25em 1em;
+				border-radius: 0.5em;
+				background: #333;
+				background-image: linear-gradient(to bottom, #444, #111);
+				color:#FFF;
+				font-family: "Bank Gothic", sans-serif;
+				text-decoration:none;
+				list-style-type: none;
+				box-shadow: 1pt 2pt 1pt rgba(255,255,255,0.25), -1pt -2pt 1pt rgba(0,0,0,0.25);
+
+				&:hover {
+					background: #332;
+					background-image: linear-gradient(to bottom, #443, #110);
+					color: #FF6;
+				}
+
+				@media (min-width: 40rem) {
+					border-radius: 1em;
+				}
+			}
+		}
+	}
+}
+
+main {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: stretch;
+	max-width: $wt + 1rem;
+	margin: 0 auto;
+	padding: 0 0.25rem;
+	
+	article, #downloads {
+		margin: 0 0.5em;
+	}
+
+	article {
+		flex: 1 1 $wd;
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-between;
+		align-items: stretch;
+		width: calc(100% - (23rem + 2*(1rem + 1rem)));
+		max-width: calc(100% - 1rem);
+		text-align: left;
+		vertical-align: top;
+
+		section {
+			display: block;
+			width: 100%;
+			margin: 1em 0;
+			margin-top: 0;
+			padding: 0 1em;
+			border: 1pt solid #300;
+			border-width: 1em 1pt;
+			background: #000;
+
+			h2 {
+				color: #0F0;
+				font-family: "Bank Gothic", sans-serif;
+			}
+
+			section li {
+				margin-bottom: 1em;
+			}
+
+			section {
+				width: auto;
+			}
+
+			&.splash {
+				text-align: center;
+				padding: 1em;
+			}
+		}
+	}
+
+	#downloads {
+		flex: 1 0 23rem;
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-between;
+		align-items: stretch;
+		align-content: flex-start;
+		width: $wd;
+		max-width: calc(100% - 2rem);
+		margin: 0 0.5em;
+		margin-bottom: 1rem;
+		padding: 0.5rem;
+		border-radius: 2rem;
+		background: #666 linear-gradient(to right, #333, #999, #333);
+		vertical-align: top;
+		box-shadow: 1pt 1pt 1pt rgba(255,255,255,0.25) inset, -1pt -1pt 1pt rgba(0,0,0,0.25) inset;
+
+		@media (min-width: $wa ) {
+			flex: 0 0 $wd;
+		}
+
+		& > * {
+			flex: 1 1 16em;
+		}
+
+		div {
+			display:flex;
+			flex-flow: column nowrap;
+			justify-content: space-between;
+			margin: 0.5em;
+			padding: 1em;
+			border-radius: 1rem;
+			background: #000;
+			color: #0F0;
+			text-align: center;
+			box-shadow: 1pt 1pt 1pt rgba(255,255,255,0.25), -1pt -1pt 1pt rgba(0,0,0,0.25);
+
+			h2 {
+				margin: 0;
+				color: #0B0;
+				font-family: "Modula Tall", sans-serif;
+				font-size: 4rem;
+				text-transform: uppercase;
+				letter-spacing: 0.25rem;
+
+				span {
+					white-space: nowrap;
+				}
+			}
+	
+			p {
+				color: #050;
+				font-family: Monaco, monospace;
+				text-align: justify;
+
+				a {
+					color: #050;
+				}
+			}
+
+			ul {
+				margin: 0;
+				padding: 0;
+
+				li {
+					list-style-type: none;
+
+					a {
+						display: block;
+						margin: 0.5em 0;
+						padding: 0.5em;
+						border: 2pt outset #999;
+						border-radius: 1.5em;
+						background: #333;
+						background-image: linear-gradient(to bottom, #444, #111);
+						color: #FFF;
+						font-family: "Bank Gothic", sans-serif;
+						text-decoration: none;
+						list-style-type: none;
+						box-shadow: 2pt 4pt 2pt rgba(255,255,255,0.25) inset, -2pt -4pt 2pt rgba(0,0,0,0.25) inset;
+
+						&:hover {
+							background: #332;
+							background-image: linear-gradient(to bottom, #443, #110);
+							color: #FF6;
+						}
+						&:active {
+							background: #332;
+							background-image: linear-gradient(to top, #443, #110);
+							color: #FF6;
+							box-shadow: -2pt -4pt 2pt rgba(255,255,255,0.25) inset, 2pt 4pt 2pt rgba(0,0,0,0.25) inset;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+
+footer {
+	clear: both;
+	margin: 0;
+	margin: 1rem auto;
+	width: 105rem;
+	max-width: calc(100% - 1.5rem);
+	color: #0F0;
+	font: {
+		family: "Bank Gothic", sans-serif;
+		size: 1.5rem;
+	}
+	text-align: center;
+	
+	p {margin:0;}
+
+	#hud {
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-between;
+		align-content: stretch;
+		font: {
+			family: Monaco, monospace;
+			size: 12px;
+		}
+		text-transform: uppercase;
+		line-height: 2em;
+		letter-spacing: 0.125em;
+
+		#footer-left, #footer-right, #footer-center {
+			position: relative;
+			display: inline-block;
+			flex: 1 1 auto;
+			height: 160px;
+			min-height: 160px;
+			margin-bottom: 1em;
+			vertical-align: top;
+
+			p {
+					position: absolute;
+					top: 32px;
+					width: 202px;
+					height: 86px;
+					margin: 0;
+					padding: 0;
+			}
+		}
+		#footer-left p {
+			left: 20px;
+		}
+		#footer-right p {
+			right: 20px;
+		}
+		#footer-left, #footer-right {
+			position: relative;
+			z-index: 1;
+			width: 247px;
+			min-width: 247px;
+			background-position: center;
+		}
+		#footer-center {
+			display: none;
+			width: 181px;
+			min-width: 181px;
+			margin: 0 -20px;
+			background: url("/images/hud-center.png") no-repeat center top;
+
+			@media (min-width: 682px) {
+				display: block;
+			}
+		}
+		#footer-left {
+			background: url("/images/hud-left.png") no-repeat left top;
+			float: left;
+		}
+		#footer-right {
+			background: url("/images/hud-right.png") no-repeat right top;
+			float: right;
+		}
+	}
+}
